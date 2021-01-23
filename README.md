@@ -9,6 +9,7 @@
 <p align="center">
   An Aspiring Data Scientist  |  A Full Stack Developer  |  A Web Designer and Developer.
   <br>  
+  <br>
 </p>
 
   <p align="center">🤖 Data Science, Python, Interactive Visualization, Machine Learning and Artificial Intelligence.</p>
