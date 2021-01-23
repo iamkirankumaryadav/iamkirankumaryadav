@@ -33,4 +33,4 @@
   # <a name="web-design-and-development">Web Design and Development 🎯</a>
   
    
-I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
+<span style="font-family:'Courier Prime'; font-size:4em;">LOVE!</span>
