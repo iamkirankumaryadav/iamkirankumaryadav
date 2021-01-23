@@ -9,7 +9,7 @@
   <a href="https://wa.me/[+919004967226]"><img src="Image/whatsapp.svg" width="4%" alt="Whatsapp" title="+919004967226"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://kirankumar7296.slack.com/"><img src="Image/Slack.png" width="4%" alt="Slack" title="Slack"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/KIRAN7296KUMAR/"><img src="Image/Tweet.png" width="4%" alt="Twitter" title="KIRAN7296KUMAR"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/KIRAN7296KUMAR/"><img src="Image/Repl.it.png" width="4%" alt="Twitter" title="KIRAN7296KUMAR"></a>
+  <a href="https://twitter.com/KIRAN7296KUMAR/"><img src="Image/Replit.svg" width="4%" alt="Repl.it" title="KIRAN7296KUMAR"></a>
 </p>
 
 <br>
