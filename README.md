@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://getbootstrap.com/">
-<img src="Image/Me1.png" alt="Kirankumar" width="200">
+<img src="Image/Me.png" alt="Kirankumar" width="200">
   </a>
 </p>
 <h2 align="center">Kirankumar Yadav</h2>
