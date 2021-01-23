@@ -33,3 +33,29 @@
   
   # <a name="web-design-and-development">Web Design and Development 🎯</a>
   
+   <!DOCTYPE html>
+    <head lang="en">
+    <title>Sample document</title>
+    <meta charset="utf-8">
+    <style>
+    body {
+      margin: 2em auto;
+      width: 90%;
+      max-width: 30em;
+      font-family: Verdana, Helvetica, sans-serif;
+      }
+    p {
+      color: red;
+      font-family: Georgia, "Times New Roman", serif;
+      }
+    </style>
+    </head>
+    <body>
+    
+    <h1>Sample Pages for Fun and Profit</h1>
+    <p>This paragraph is red and in a different
+    font! Woo-hoo!
+    
+    </body>
+    </html>
+  
