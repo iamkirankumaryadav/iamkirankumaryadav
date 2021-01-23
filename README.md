@@ -16,6 +16,8 @@
 
 <h1 align="center">Kirankumar Yadav</h1>
 
+___
+
 <p align="center">
   An Aspiring <strong>Data Scientist</strong>  |  A <strong>Full Stack Developer</strong>  |  A <strong>Web Designer and Developer</strong>.  
 </p>
