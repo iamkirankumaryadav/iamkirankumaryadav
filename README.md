@@ -31,6 +31,33 @@ Being Passionate about <strong>Data Science</strong>, I keep working on New Data
 Executing <strong>Analytical Experiments</strong> and Applying My <strong>Business Knowledge</strong> to Solve various Business related Problems. Data Preprocessing, Data      Cleaning, Data Exploration, Data Modeling and Data Visualization using <strong>Python</strong> and <strong>R</strong>. Identifying Relevant Data, Cleaning Data, Understanding Hidden Patterns and Relationships using Graphs and Charts, Exploring the Data and Applying <strong>Machine Learning</strong> Algorithms, Performing Data and Error Analysis to Improve Accuracy. <strong>Data Cleaning</strong> and <strong>Data Visualization</strong> is My Favourite Part in the Data Science Process. Well Versed with <strong>Jupyter</strong> and <strong>Anaconda</strong> Environment for My <strong>Data Analysis</strong> Task. Comfortable with <strong>Streamlit</strong> and <strong>Heroku</strong> for Building, Sharing, Deploying and Managing Data Applications.
 </p>
   
+<p align="justify">Environment :</p>
+
+> Language 
+  <ol type = "1">
+    <li> R</li>
+    <li> Python</li>
+    <li> SQL</li>
+  </ol>  
+  
+> Libraries
+ <ol type = "1">
+    <li> Pandas</li>
+    <li> NumPy</li>
+    <li> Matplotlib</li>
+    <li> Seaborn</li>
+    <li> Plotly</li>
+    <li> Bokeh</li>
+    <li> Scikit Learn</li>
+    <li> TensorFlow</li>
+  </ol>  
+  
+> Data Visualization Tools 
+  <ol type = "1">
+    <li> Tableau</li>
+    <li> Power BI</li>
+    <li> Google Charts</li>
+  </ol>  
 ----
 
 ### <a name="full-stack-development">Full Stack Development 🖥</a>
