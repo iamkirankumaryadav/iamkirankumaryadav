@@ -50,7 +50,7 @@ I have over <strong>3+</strong> Years of Working Experience. Creating <strong>We
 <strong>Database</strong> : <strong>SQL</strong> | <strong>SSMS</strong>
 </p>
 
-> Environment (Text Editors + IDE's) :
+> Interactive Development Environment :
 <p align="justify">
   IDLE(<strong>Python</strong>) | <strong>R Studio</strong> | Microsoft <strong>Visual Studio</strong> | Microsoft <strong>Visual Code</strong> | Microsoft <strong>SQL Server Management Studio</strong>
 </p>
