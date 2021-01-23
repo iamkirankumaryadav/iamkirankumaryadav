@@ -86,7 +86,7 @@ I have over <strong>3+</strong> Years of Working Experience. Creating <strong>We
 Passionate and Creative for <strong>Website</strong> Designs, Customizations, Layouts, Forms, Components, Utilities, Icons, Styles, Navigations, Colors, Graphics, Vectors, Isometric Illustrations, <strong>Data Representation</strong>, <strong>Data Visualization</strong> and Everything that can make a <strong>Website</strong> and <strong>Visual Content</strong> Look Delightful. Iam Well Versed with <strong>Front End Responsive Frameworks</strong>.
 </p>
 
-<p align="justify">Languages and Frameworks :</p>
+<p align="justify">Environment :</p>
 
 > Front End
   <ol type = "1">
