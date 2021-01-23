@@ -27,7 +27,8 @@
   
 ### <a name="data-science">Data Science 🤖</a>
 <p align="justify">
-Being Passionate about <strong>Data Science</strong>, I keep working on New Data Sets, Understanding the Domain, Business Requirements and Applying Knowledge, Executing Analytical Experiments to Solve various Business related problems, Identifying Relevant Data, Cleaning Data, Understanding Hidden Patterns and Relationships using Graphs and Charts, Exploring the Data and Applying <strong>Machine Learning</strong> Algorithms, Performing Data and Error Analysis to Improve Accuracy. 
+Being Passionate about <strong>Data Science</strong>, I keep working on New Data Sets, Understanding the <strong>Domain</strong> and <strong>Business Requirements<strong>
+Executing Analytical Experiments to Solve various Business related problems, Identifying Relevant Data, Cleaning Data, Understanding Hidden Patterns and Relationships using Graphs and Charts, Exploring the Data and Applying <strong>Machine Learning</strong> Algorithms, Performing Data and Error Analysis to Improve Accuracy. 
  </p>
 
 <p alig="justify"><strong>Data Cleaning</strong> and <strong>Data Visualization</strong> is My Favourite Part in the whole process.</p>
