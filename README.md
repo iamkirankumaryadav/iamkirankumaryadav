@@ -3,7 +3,7 @@
 <!---<img src="Images/Kirankumar.png" alt="Kirankumar" width="300" height="200">-->
   </a>
 </p>
-<h2 align="center">Kirankumar Yadav</h2>
+<h1 align="center">Kirankumar Yadav</h1>
 
 <p align="center">
   An Aspiring Data Scientist  |  A Full Stack Developer  |  A Web Designer and Developer.
