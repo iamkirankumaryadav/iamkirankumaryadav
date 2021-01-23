@@ -38,7 +38,7 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
 I have over <strong>3+</strong> Years of Working Experience. Creating <strong>Web Forms</strong> and <strong>Active Server Pages</strong> using <strong>ASP.NET</strong> Framework and <strong>C#</strong> Programming Language over Integrated Development Environment of <strong>Microsoft Visual Studio</strong> and <strong>Microsoft SQL Server Management Studio</strong>. Projects are Completely Responsive, working for Desktops and Tablets.
 </p>
 
-<p align="justify">Languages, Frameworks, Environments and Tools :</p>
+<p align="justify">Environment :</p>
 
 > Front End
   <ol type = "1">
