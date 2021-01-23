@@ -121,10 +121,4 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
     <li> Bracket</li>
   </ol>
   
-  > Design Tools 
-  <ol type = "1">
-  <li> <a href="https://www.canva.com/en_gb/" target="_blank">Canva</a></li>
-  <li> <a href="https://www.adobe.com/in/products/xd.html" target="_blank">Adobe XD</a></li> 
-  <li> <a href="https://www.framer.com/" target="_blank">Framer</a></li> 
-  <li> <a href="https://www.figma.com/" target="_blank">Figma</a></li> 
-  </ol>
+  > Design Tools : [Canva](https://www.canva.com/en_gb/) | [Adobe XD](https://www.adobe.com/in/products/xd.html) | [Framer](https://www.framer.com/) | [Figma](https://www.figma.com/)
