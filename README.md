@@ -34,8 +34,7 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
   
 <p align="justify">Environment :</p>
 
-> Language 
-[R]() | [Python]() | [SQL]  
+### Language : [R]() | [Python]() | [SQL]  
   
 > Libraries
  <ol type = "1">
