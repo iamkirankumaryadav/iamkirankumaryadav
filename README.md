@@ -4,8 +4,11 @@
   </a>
 </p>
 
-<p align="center"><img src="Image/linkedin.png" width="45">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Image/whatsapp.svg" width="48">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Image/Slack.png" width="48">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Image/Tweet.png" width="50"></p>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/kk7296/"><img src="Image/linkedin.png" width="45"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/[+919004967226]"><img src="Image/whatsapp.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://kirankumar7296.slack.com/"><img src="Image/Slack.png" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/KIRAN7296KUMAR/"><img src="Image/Tweet.png" width="50"></a></p>
 <h2 align="center">Kirankumar Yadav</h2>
 
 <p align="center">
