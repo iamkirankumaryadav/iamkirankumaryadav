@@ -36,20 +36,6 @@ Being Passionate about <strong>Data Science</strong>, I keep working on New Data
 Executing <strong>Analytical Experiments</strong> and Applying My <strong>Business Knowledge</strong> to Solve various Business related Problems. Data Preprocessing, Data      Cleaning, Data Exploration, Data Modeling and Data Visualization using <strong>Python</strong> and <strong>R</strong>. Identifying Relevant Data, Cleaning Data, Understanding Hidden Patterns and Relationships using Graphs and Charts, Exploring the Data and Applying <strong>Machine Learning</strong> Algorithms, Performing Data and Error Analysis to Improve Accuracy. <strong>Data Cleaning</strong> and <strong>Data Visualization</strong> is My Favourite Part in the Data Science Process. Well Versed with <strong>Jupyter</strong> and <strong>Anaconda</strong> Environment for My <strong>Data Analysis</strong> Task. Comfortable with <strong>Streamlit</strong> and <strong>Heroku</strong> for Building, Sharing, Deploying and Managing Data Applications.
 </p>
   
-<p align="center" width="100%">
-  <img src="Image/R.png" alt="R" width="4%" title="R">&nbsp;&nbsp;
-  <img src="Image/Python.png" width="3%" alt="Python" title="Python">&nbsp;&nbsp;
-  <img src="Library/Pandas.svg" width="8%" alt="Pandas">&nbsp;&nbsp;
-  <img src="Library/NumPy.svg" width="8%" alt="NumPy">&nbsp;&nbsp;
-  <img src="Library/Matplotlib.svg" width="8%" alt="Matplotlib">&nbsp;&nbsp;
-  <img src="Library/Seaborn.svg" width="6%" alt="Seaborn">&nbsp;&nbsp;
-  <img src="Library/Plotly.png" width="6%" alt="Plotly">&nbsp;&nbsp;
-  <img src="Library/Bokeh.svg" width="6%" alt="Bokeh">&nbsp;&nbsp;
-  <img src="Library/ScikitLearn.svg" width="3%" alt="Scikit Learn">&nbsp;&nbsp;
-  <img src="Library/TensorFlow.png" width="2%" alt="TensorFlow">&nbsp;&nbsp;
-</p>
-
-  
 <p align="justify">Environment :</p>
 
 > Language 
