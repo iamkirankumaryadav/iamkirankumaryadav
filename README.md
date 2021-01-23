@@ -6,7 +6,7 @@
 <h2 align="center">Kirankumar Yadav</h2>
 
 <p align="center">
-  An Aspiring Data Scientist  |  A Full Stack Developer  |  A Web Designer and Developer.
+  An Aspiring <strong>Data Scientist</strong>  |  A Full Stack Developer  |  A Web Designer and Developer.
   <br>  
   <br>
 </p>
