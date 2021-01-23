@@ -17,7 +17,7 @@
 
 <br>
 
-<p align="center"><img src="Image/whatsapp.png" width="50"></p>
+<p align="center"><img src="Image/whatsapp.svg" width="50"></p>
   ___
   
 [Data Science](#data-science)
