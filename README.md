@@ -32,22 +32,22 @@ Being Passionate about <strong>Data Science</strong>, I keep working on New Data
 Executing <strong>Analytical Experiments</strong> and Applying My <strong>Business Knowledge</strong> to Solve various Business related Problems. Data Preprocessing, Data      Cleaning, Data Exploration, Data Modeling and Data Visualization using <strong>Python</strong> and <strong>R</strong>. Identifying Relevant Data, Cleaning Data, Understanding Hidden Patterns and Relationships using Graphs and Charts, Exploring the Data and Applying <strong>Machine Learning</strong> Algorithms, Performing Data and Error Analysis to Improve Accuracy. <strong>Data Cleaning</strong> and <strong>Data Visualization</strong> is My Favourite Part in the Data Science Process. Well Versed with <strong>Jupyter</strong> and <strong>Anaconda</strong> Environment for My <strong>Data Analysis</strong> Task. Comfortable with <strong>Streamlit</strong> and <strong>Heroku</strong> for Building, Sharing, Deploying and Managing Data Applications.
 </p>
   
-<p align="justify">Environment :</p>
+### Environment 
 
 > Language : [R]() | [Python]() | [SQL]() 
   
 > Libraries : [Pandas]() | [NumPy]() | [Matplotlib]() | [Seaborn]() | [Plotly]() | [Bokeh]() | [Scikit Learn]() | [TensorFlow]()
   
- > Data Visualization Tools : [Tableau](https://www.tableau.com/) | [Power BI](https://powerbi.microsoft.com/en-us/) | [Google Charts](https://developers.google.com/chart)
+> Data Visualization Tools : [Tableau](https://www.tableau.com/) | [Power BI](https://powerbi.microsoft.com/en-us/) | [Google Charts](https://developers.google.com/chart)
   
 ___
 
-<h2 name="full-stack-development" align="center">Full Stack Development 🖥</h2>
+<h3 name="full-stack-development" align="center">Full Stack Development 🖥</h3>
 <p align="justify">
 I have over <strong>3+</strong> Years of Working Experience. Creating <strong>Web Forms</strong> and <strong>Active Server Pages</strong> using <strong>ASP.NET</strong> Framework and <strong>C#</strong> Programming Language over Integrated Development Environment of <strong>Microsoft Visual Studio</strong> and <strong>Microsoft SQL Server Management Studio</strong>. Projects are Completely Responsive, working for Desktops and Tablets.
 </p>
 
-<p align="justify">Environment :</p>
+### Environment 
 
 > Front End
   <ol type = "1">
@@ -90,12 +90,12 @@ I have over <strong>3+</strong> Years of Working Experience. Creating <strong>We
 
 ----
 
-<h2 name="web-design-and-development" align="center">Web Design and Development 🎯</h2>
+<h3 name="web-design-and-development" align="center">Web Design and Development 🎯</h3>
 <p align="justify">
 Passionate and Creative for <strong>Website</strong> Designs, Customizations, Layouts, Forms, Components, Utilities, Icons, Styles, Navigations, Colors, Graphics, Vectors, Isometric Illustrations, <strong>Data Representation</strong>, <strong>Data Visualization</strong> and Everything that can make a <strong>Website</strong> and <strong>Visual Content</strong> Look Delightful. Iam Well Versed with <strong>Front End Responsive Frameworks</strong>.
 </p>
 
-<p align="justify">Environment :</p>
+### Environment
 
 > Front End
   <ol type = "1">
