@@ -18,7 +18,6 @@
 <p align="center">💻 Web Design | UI Design | Graphic Design | Illustration.</p>
 <p align="center">🚀 Learn Something New Everyday.</p>
 
-<br>
 ___
   
 [Data Science](#data-science)
