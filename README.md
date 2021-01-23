@@ -39,8 +39,14 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
 <p align="center" width="100%">
   <img src="Image/R.png" alt="R" width="4%" title="R">&nbsp;&nbsp;
   <img src="Image/Python.png" width="3%" alt="Python" title="Python">&nbsp;&nbsp;
-  <img src="Library/Pandas.svg" width="8%" alt="Pandas" title="Pandas">&nbsp;&nbsp;
-  <img src="Library/NumPy.svg" width="8%" alt="NumPy" title="NumPy">&nbsp;&nbsp;
+  <img src="Library/Pandas.svg" width="8%" alt="Pandas">&nbsp;&nbsp;
+  <img src="Library/NumPy.svg" width="8%" alt="NumPy">&nbsp;&nbsp;
+  <img src="Library/Matplotlib.svg" width="8%" alt="Matplotlib">&nbsp;&nbsp;
+  <img src="Library/Seaborn.svg" width="8%" alt="Seaborn">&nbsp;&nbsp;
+  <img src="Library/Plotly.png" width="8%" alt="Plotly">&nbsp;&nbsp;
+  <img src="Library/Bokeh.svg" width="8%" alt="Bokeh">&nbsp;&nbsp;
+  <img src="Library/ScikitLearn.svg" width="8%" alt="Scikit Learn">&nbsp;&nbsp;
+  <img src="Library/TensorFlow.png" width="8%" alt="TensorFlow">&nbsp;&nbsp;
 </p>
 
   
