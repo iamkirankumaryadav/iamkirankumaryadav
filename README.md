@@ -54,8 +54,8 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
   
 > Data Visualization Tools 
   <ol type = "1">
-    <li> Tableau</li>
-    <li> Power BI</li>
+    <li> <a href="https://www.tableau.com/" target="_blank">Tableau</a></li>
+    <li> <a href="https://powerbi.microsoft.com/en-us/" target="_blank">Power BI</a></li>
     <li> <a href="https://developers.google.com/chart" target="_blank">Google Charts</a></li>
   </ol>  
   
