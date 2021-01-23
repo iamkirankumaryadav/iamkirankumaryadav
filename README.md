@@ -3,7 +3,6 @@
 <!---<img src="Images/Kirankumar.png" alt="Kirankumar" width="300" height="200">-->
   </a>
 </p>
-<h2 align="center">Hello</h2>
 <h2 align="center">Kirankumar Yadav</h2>
 
 <p align="center">
@@ -26,7 +25,7 @@
   
   ___
   
-# <a name="data-science">Data Science 🤖</a>
-# <a name="full-stack-development">Full Stack Development 💻</a>
-# <a name="web-design-and-development">Web Design and Development 🎯</a>
+## <a name="data-science">Data Science 🤖</a>
+## <a name="full-stack-development">Full Stack Development 💻</a>
+## <a name="web-design-and-development">Web Design and Development 🎯</a>
   
