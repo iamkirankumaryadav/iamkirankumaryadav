@@ -45,8 +45,8 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
   <img src="Library/Seaborn.svg" width="8%" alt="Seaborn">&nbsp;&nbsp;
   <img src="Library/Plotly.png" width="8%" alt="Plotly">&nbsp;&nbsp;
   <img src="Library/Bokeh.svg" width="8%" alt="Bokeh">&nbsp;&nbsp;
-  <img src="Library/ScikitLearn.svg" width="6%" alt="Scikit Learn">&nbsp;&nbsp;
-  <img src="Library/TensorFlow.png" width="4%" alt="TensorFlow">&nbsp;&nbsp;
+  <img src="Library/ScikitLearn.svg" width="3%" alt="Scikit Learn">&nbsp;&nbsp;
+  <img src="Library/TensorFlow.png" width="2%" alt="TensorFlow">&nbsp;&nbsp;
 </p>
 
   
