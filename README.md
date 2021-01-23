@@ -141,7 +141,7 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
   
   > Design Tools 
   <ol type = "1">
-    <li> [Canva](https://www.canva.com/en_gb/)</li>
+  <li> <a href="https://www.canva.com/en_gb/" target="_blank">Canva</a></li>
     <li> Adobe XD</li>
     <li> Atom</li>
     <li> Bracket</li>
