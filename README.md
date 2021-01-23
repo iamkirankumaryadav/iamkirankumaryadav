@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://getbootstrap.com/">
-[comment]: <> (<img src="Images/Kirankumar.png" alt="Kirankumar" width="300" height="200">)
+[comment]:<img src="Images/Kirankumar.png" alt="Kirankumar" width="300" height="200">
   </a>
 </p>
 
