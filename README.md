@@ -16,11 +16,11 @@
 
 <h1 align="center">Kirankumar Yadav</h1>
 
-___
-
 <p align="center">🚀 An Aspiring <strong>Data Scientist</strong>  |  A <strong>Full Stack Developer</strong>  |  A <strong>Web Designer and Developer</strong>.</p>  
 <p align="center">🤖 Data Science | Python | R | Interactive Visualization | Machine Learning | Artificial Intelligence.</p>
 <p align="center">💻 Web Design | UI Design | Graphic Design | Illustration.</p>
+
+___
   
 [Data Science](#data-science)
   
