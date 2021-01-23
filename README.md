@@ -58,7 +58,8 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
     <li> Power BI</li>
     <li> Google Charts</li>
   </ol>  
-----
+  
+___
 
 ### <a name="full-stack-development">Full Stack Development 🖥</a>
 <p align="justify">
