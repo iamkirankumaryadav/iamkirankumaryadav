@@ -25,7 +25,7 @@
   
   ___
   
-## <a name="data-science">Data Science 🤖</a>
-## <a name="full-stack-development">Full Stack Development 💻</a>
-## <a name="web-design-and-development">Web Design and Development 🎯</a>
+### <a name="data-science">Data Science 🤖</a>
+### <a name="full-stack-development">Full Stack Development 💻</a>
+### <a name="web-design-and-development">Web Design and Development 🎯</a>
   
