@@ -36,7 +36,7 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
 I have over <strong>3+</strong> Years of Working Experience. Creating <strong>Web Forms</strong> and <strong>Active Server Pages</strong> using <strong>ASP.NET</strong> Framework and <strong>C#</strong> Programming Language over Integrated Development Environment of <strong>Microsoft Visual Studio</strong> and <strong>Microsoft SQL Server Management Studio</strong>. Projects are Completely Responsive, working for Desktops and Tablets.
 </p>
 
-#### Languages and Frameworks :
+> Languages and Frameworks :
 <p align="justify">
 <strong>Front End</strong> : <strong>HTML5</strong> | <strong>CSS3</strong> | <strong>JavaScript</strong> | <strong>Bootstrap4</strong>
 </p>
@@ -50,7 +50,7 @@ I have over <strong>3+</strong> Years of Working Experience. Creating <strong>We
 <strong>Database</strong> : <strong>SQL</strong> | <strong>SSMS</strong>
 </p>
 
-#### Environment (Text Editors + IDE's) :
+> Environment (Text Editors + IDE's) :
 <p align="justify">
   IDLE(<strong>Python</strong>) | <strong>R Studio</strong> | Microsoft <strong>Visual Studio</strong> | Microsoft <strong>Visual Code</strong> | Microsoft <strong>SQL Server Management Studio</strong>
 </p>
