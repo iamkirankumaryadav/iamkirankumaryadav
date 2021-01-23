@@ -52,7 +52,7 @@ I have over <strong>3+</strong> Years of Working Experience. Creating <strong>We
 
 #### Environment (Text Editors + IDE's) :
 <p align="justify">
- IDLE(Python) | Microsoft Visual Studio | Microsoft Visual Code | Microsoft SQL Server Management Studio
+  IDLE(<strong>Python</strong>) | <strong>R Studio</strong> | Microsoft <strong>Visual Studio</strong> | Microsoft <strong>Visual Code</strong> | Microsoft <strong>SQL Server Management Studio</strong>
 </p>
 
 ### <a name="web-design-and-development">Web Design and Development 🎯</a>
