@@ -56,7 +56,7 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
   <ol type = "1">
     <li> Tableau</li>
     <li> Power BI</li>
-    <li> Google Charts</li>
+    <li> <a href="https://developers.google.com/chart" target="_blank">Google Charts</a></li>
   </ol>  
   
 ___
@@ -144,8 +144,8 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
   <ol type = "1">
   <li> <a href="https://www.canva.com/en_gb/" target="_blank">Canva</a></li>
   <li> <a href="https://www.adobe.com/in/products/xd.html" target="_blank">Adobe XD</a></li> 
-  <li> Atom</li>
-  <li> Bracket</li>
+  <li> <a href="https://www.framer.com/" target="_blank">Framer</a></li> 
+  <li> <a href="https://www.figma.com/" target="_blank">Figma</a></li> 
   </ol>
   
   
