@@ -11,7 +11,7 @@
   <br>
 </p>
  
-<p align="center">🤖 Data Science | Python | Interactive Visualization | Machine Learning | Artificial Intelligence.</p>
+<p align="center">🤖 Data Science | Python | R | Interactive Visualization | Machine Learning | Artificial Intelligence.</p>
 <p align="center">💻 Web Design | UI Design | Graphic Design | Illustration.</p>
 <p align="center">🚀 Learn Something New Everyday.</p>
   
