@@ -46,19 +46,39 @@ I have over <strong>3+</strong> Years of Working Experience. Creating <strong>We
     <li> Bootstrap4</li>
   </ol>
 </p>
-<p align="justify">
-<strong>Static Front End</strong> : <strong>Markdown</strong> | <strong>Jekyll</strong> | <strong>Hugo</strong> | <strong>MiddleMan</strong>
-</p>
-<p align="justify">
-<strong>Back End</strong> : <strong>Python</strong> | <strong>C#</strong> | <strong>ASP.NET</strong>
-</p>
-<p align="justify">
-<strong>Database</strong> : <strong>SQL</strong> | <strong>SSMS</strong>
+
+> Static Front End
+  <ol type = "1">
+    <li> Markdown</li>
+    <li> Jekyll</li>
+    <li> Hugo</li>
+    <li> MiddleMan</li>
+  </ol>
 </p>
 
-> Interactive Development Environment :
-<p align="justify">
-  IDLE(<strong>Python</strong>) | <strong>R Studio</strong> | Microsoft <strong>Visual Studio</strong> | Microsoft <strong>Visual Code</strong> | Microsoft <strong>SQL Server Management Studio</strong>
+> Back End
+  <ol type = "1">
+    <li> Python</li>
+    <li> C#</li>
+    <li> ASP.NET</li>
+  </ol>
+</p>
+
+> Database
+  <ol type = "1">
+    <li> SQL</li>
+    <li> SSMS</li>
+  </ol>
+</p>
+
+> Interactive Development Environment 
+  <ol type = "1">
+    <li> IDLE(<strong>Python</strong>)</li>
+    <li> <strong>R Studio</strong></li>
+    <li> Microsoft <strong>Visual Studio</strong></li>
+    <li> Microsoft <strong>Visual Code</strong></li>
+    <li> Microsoft <strong>SQL Server Management Studio</strong></li>
+  </ol>
 </p>
 
 ### <a name="web-design-and-development">Web Design and Development 🎯</a>
