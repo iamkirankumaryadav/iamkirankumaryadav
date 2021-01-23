@@ -47,7 +47,6 @@ I have over <strong>3+</strong> Years of Working Experience. Creating <strong>We
     <li> JavaScript</li>
     <li> Bootstrap4</li>
   </ol>
-</p>
 
 > Static Front End
   <ol type = "1">
@@ -56,7 +55,6 @@ I have over <strong>3+</strong> Years of Working Experience. Creating <strong>We
     <li> Hugo</li>
     <li> MiddleMan</li>
   </ol>
-</p>
 
 > Back End
   <ol type = "1">
@@ -64,14 +62,12 @@ I have over <strong>3+</strong> Years of Working Experience. Creating <strong>We
     <li> C#</li>
     <li> ASP.NET</li>
   </ol>
-</p>
 
 > Database
   <ol type = "1">
     <li> SQL</li>
     <li> SSMS</li>
   </ol>
-</p>
 
 > Interactive Development Environment 
   <ol type = "1">
@@ -82,7 +78,6 @@ I have over <strong>3+</strong> Years of Working Experience. Creating <strong>We
     <li> Microsoft Visual Code</li>
     <li> Microsoft SQL Server Management Studio</li>
   </ol>
-</p>
 
 ----
 
@@ -90,5 +85,23 @@ I have over <strong>3+</strong> Years of Working Experience. Creating <strong>We
 <p align="justify">
 Passionate and Creative for <strong>Website</strong> Designs, Customizations, Layouts, Forms, Components, Utilities, Icons, Styles, Navigations, Colors, Graphics, Vectors, Isometric Illustrations, <strong>Data Representation</strong>, <strong>Data Visualization</strong> and Everything that can make a <strong>Website</strong> and <strong>Visual Content</strong> Look Delightful. Iam Well Versed with <strong>Front End Responsive Frameworks</strong>.
 </p>
+
+<p align="justify">Languages and Frameworks :</p>
+
+> Front End
+  <ol type = "1">
+    <li> HTML5</li>
+    <li> CSS3</li>
+    <li> JavaScript</li>
+    <li> Bootstrap4</li>
+  </ol>
+
+> Static Front End
+  <ol type = "1">
+    <li> Markdown</li>
+    <li> Jekyll</li>
+    <li> Hugo</li>
+    <li> MiddleMan</li>
+  </ol>
   
 
