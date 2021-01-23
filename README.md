@@ -18,9 +18,6 @@
   ___
   
 [Data Science](#data-science)
-<p>
-Being Passionate about Data Science, I keep working on New Data Sets, Understanding the Domain, Business Requirements and Applying Knowledge, Executing Analytical Experiments to Solve various Business related problems, Identifying Relevant Data, Cleaning Data, Understanding Hidden Patterns and Relationships using Graphs and Charts, Applying Machine Learning Algorithms, Performing Data and Error Analysis to Improve Accuracy. Data Cleaning and Data Visualization is My Favourite Part in the whole process. Well Versed with Jupyter and Anaconda Environment for My Data Analysis Task and even Comfortable with Streamlit and Heroku for Building, Sharing, Deploying and Managing Data Apps.
-</p>
   
 [Full Stack Development](#full-stack-development)
   
@@ -29,6 +26,11 @@ Being Passionate about Data Science, I keep working on New Data Sets, Understand
   ___
   
 ### <a name="data-science">Data Science 🤖</a>
+<p>
+Being Passionate about Data Science, I keep working on New Data Sets, Understanding the Domain, Business Requirements and Applying Knowledge, Executing Analytical Experiments to Solve various Business related problems, Identifying Relevant Data, Cleaning Data, Understanding Hidden Patterns and Relationships using Graphs and Charts, Applying Machine Learning Algorithms, Performing Data and Error Analysis to Improve Accuracy. Data Cleaning and Data Visualization is My Favourite Part in the whole process. Well Versed with Jupyter and Anaconda Environment for My Data Analysis Task and even Comfortable with Streamlit and Heroku for Building, Sharing, Deploying and Managing Data Apps.
+</p>
+
+
 ### <a name="full-stack-development">Full Stack Development 💻</a>
 ### <a name="web-design-and-development">Web Design and Development 🎯</a>
   
