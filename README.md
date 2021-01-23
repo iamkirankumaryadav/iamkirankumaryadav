@@ -39,7 +39,7 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
 <p align="center" width="100%">
   <img src="Image/R.png" alt="R" width="4%" title="R">&nbsp;&nbsp;
   <img src="Image/Python.png" width="3%" alt="Python" title="Python">&nbsp;&nbsp;
-  <img src="Image/Pandas.svg" width="3%" alt="Python" title="Python">&nbsp;&nbsp;
+  <img src="Library/Pandas.svg" width="3%" alt="Pandas" title="Python">&nbsp;&nbsp;
 </p>
 
   
