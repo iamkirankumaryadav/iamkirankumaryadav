@@ -22,13 +22,7 @@
 
 ___
 
-### Work Experience and Goals
-  
-[Data Science](#data-science)
-  
-[Full Stack Development](#full-stack-development)
-  
-[Web Design and Development](#web-design-and-development)
+### Work Experience and Goals : [Data Science](#data-science) | [Full Stack Development](#full-stack-development) | [Web Design and Development](#web-design-and-development)
   
   ___
   
