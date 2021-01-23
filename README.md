@@ -12,7 +12,7 @@
 </p>
 
   <p align="center">
-  🤖 [Data Science](#DS), Python, Visualization, Machine Learning and Artificial Intelligence.<br>
+  🤖 Data Science, Python, Visualization, Machine Learning and Artificial Intelligence.<br>
   💻 Web Design, UI Design, Graphic Designesign and Illustration.<br>
   🚀 Learning a New Thing Everyday is My Habit.
   </p>
