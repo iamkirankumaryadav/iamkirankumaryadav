@@ -12,17 +12,17 @@
   <br>
 </p>
  
-  <p align="center">🤖 Data Science | Python | Interactive Visualization | Machine Learning | Artificial Intelligence.</p>
-  <p align="center">💻 Web Design | UI Design | Graphic Design | Illustration.</p>
-  <p align="center">🚀 Learn Something New Everyday.</p>
+<p align="center">🤖 Data Science | Python | Interactive Visualization | Machine Learning | Artificial Intelligence.</p>
+<p align="center">💻 Web Design | UI Design | Graphic Design | Illustration.</p>
+<p align="center">🚀 Learn Something New Everyday.</p>
   
   ___
   
-  [Data Science](#data-science)
+[Data Science](#data-science)
   
-  [Full Stack Development](#full-stack-development)
+[Full Stack Development](#full-stack-development)
   
-  [Web Design and Development](#web-design-and-development)
+[Web Design and Development](#web-design-and-development)
   
   ___
   
