@@ -21,6 +21,8 @@
 <p align="center">💻 Web Design | UI Design | Graphic Design | Illustration.</p>
 
 ___
+
+## Work Experience and Goals
   
 [Data Science](#data-science)
   
