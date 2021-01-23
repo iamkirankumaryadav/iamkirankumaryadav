@@ -23,7 +23,7 @@
   
   [Full Stack Development](#full-stack-development)
   
-  [Web Design and Development](#web-design-and-development)
+  [Web Design and Development](#Web-Design-and-Development)
   
   ___
   
