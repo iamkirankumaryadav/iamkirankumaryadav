@@ -19,11 +19,11 @@
   
   ___
   
-  [Data Science](#Data-Science)
+  [Data Science](#data-science)
   
-  [Full Stack Development](#Full-Stack-Development)
+  [Full Stack Development](#full-stack-development)
   
-  [Web Design and Development](#Web-Design-and-Development)
+  [Web Design and Development](#web-design-and-development)
   
   ___
   
