@@ -30,7 +30,7 @@ ___
   
   ___
   
-<h1 name="data-science" align="center">Data Science 🤖</h1>
+<h2 name="data-science" align="center">Data Science 🤖</h2>
 <p align="justify">
 Being Passionate about <strong>Data Science</strong>, I keep working on New Data Sets, Understanding the <strong>Domain</strong> and <strong>Business Requirements<strong>.
 Executing <strong>Analytical Experiments</strong> and Applying My <strong>Business Knowledge</strong> to Solve various Business related Problems. Data Preprocessing, Data      Cleaning, Data Exploration, Data Modeling and Data Visualization using <strong>Python</strong> and <strong>R</strong>. Identifying Relevant Data, Cleaning Data, Understanding Hidden Patterns and Relationships using Graphs and Charts, Exploring the Data and Applying <strong>Machine Learning</strong> Algorithms, Performing Data and Error Analysis to Improve Accuracy. <strong>Data Cleaning</strong> and <strong>Data Visualization</strong> is My Favourite Part in the Data Science Process. Well Versed with <strong>Jupyter</strong> and <strong>Anaconda</strong> Environment for My <strong>Data Analysis</strong> Task. Comfortable with <strong>Streamlit</strong> and <strong>Heroku</strong> for Building, Sharing, Deploying and Managing Data Applications.
@@ -66,7 +66,7 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
   
 ___
 
-<h1 name="full-stack-development" align="center">Full Stack Development 🖥</h1>
+<h2 name="full-stack-development" align="center">Full Stack Development 🖥</h2>
 <p align="justify">
 I have over <strong>3+</strong> Years of Working Experience. Creating <strong>Web Forms</strong> and <strong>Active Server Pages</strong> using <strong>ASP.NET</strong> Framework and <strong>C#</strong> Programming Language over Integrated Development Environment of <strong>Microsoft Visual Studio</strong> and <strong>Microsoft SQL Server Management Studio</strong>. Projects are Completely Responsive, working for Desktops and Tablets.
 </p>
@@ -114,7 +114,7 @@ I have over <strong>3+</strong> Years of Working Experience. Creating <strong>We
 
 ----
 
-<h1 name="web-design-and-development" align="center">Web Design and Development 🎯</h1>
+<h2 name="web-design-and-development" align="center">Web Design and Development 🎯</h2>
 <p align="justify">
 Passionate and Creative for <strong>Website</strong> Designs, Customizations, Layouts, Forms, Components, Utilities, Icons, Styles, Navigations, Colors, Graphics, Vectors, Isometric Illustrations, <strong>Data Representation</strong>, <strong>Data Visualization</strong> and Everything that can make a <strong>Website</strong> and <strong>Visual Content</strong> Look Delightful. Iam Well Versed with <strong>Front End Responsive Frameworks</strong>.
 </p>
