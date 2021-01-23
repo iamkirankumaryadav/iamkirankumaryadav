@@ -22,7 +22,7 @@
 
 ___
 
-### Work Experience and Goals : [Data Science](#data-science) | [Full Stack Development](#full-stack-development) | [Web Design and Development](#web-design-and-development)
+### Experience : [Data Science](#data-science) | [Full Stack Development](#full-stack-development) | [Web Design and Development](#web-design-and-development)
   
   ___
   
@@ -36,17 +36,7 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
 
 > Language : [R]() | [Python]() | [SQL]() 
   
-> Libraries
- <ol type = "1">
-    <li> Pandas</li>
-    <li> NumPy</li>
-    <li> Matplotlib</li>
-    <li> Seaborn</li>
-    <li> Plotly</li>
-    <li> Bokeh</li>
-    <li> Scikit Learn</li>
-    <li> TensorFlow</li>
-  </ol>  
+> Libraries : [Pandas]() | [NumPy]() | [Matplotlib]() | [Seaborn]() | [Plotly]() | [Bokeh]() | [Scikit Learn]() | [TensorFlow]()
   
  > Data Visualization Tools : [Tableau](https://www.tableau.com/) | [Power BI](https://powerbi.microsoft.com/en-us/) | [Google Charts](https://developers.google.com/chart)
   
