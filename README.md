@@ -40,7 +40,7 @@ I have over <strong>3+</strong> Years of Working Experience. Creating <strong>We
 <p align="justify">
 <strong>Front End</strong> : <strong>HTML5</strong> | <strong>CSS3</strong> | <strong>JavaScript</strong> | <strong>Bootstrap4</strong>
   <ol type = "1">
-    <li>HTML5</li>
+    <li> HTML5</li>
     </ol>
 </p>
 <p align="justify">
