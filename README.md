@@ -50,6 +50,11 @@ I have over <strong>3+</strong> Years of Working Experience. Creating <strong>We
 <strong>Database</strong> : <strong>SQL</strong> | <strong>SSMS</strong>
 </p>
 
+#### Environment (Text Editors + IDE's) :
+<p align="justify">
+ IDLE(Python) | Microsoft Visual Studio | Microsoft Visual Code | Microsoft SQL Server Management Studio
+</p>
+
 ### <a name="web-design-and-development">Web Design and Development 🎯</a>
 <p align="justify">
 Passionate and Creative for <strong>Website</strong> Designs, Customizations, Layouts, Forms, Components, Utilities, Icons, Styles, Navigations, Colors, Graphics, Vectors, Isometric Illustrations, <strong>Data Representation</strong>, <strong>Data Visualization</strong> and Everything that can make a <strong>Website</strong> and <strong>Visual Content</strong> Look Delightful. Iam Well Versed with <strong>Front End Responsive Frameworks</strong>.
