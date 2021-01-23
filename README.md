@@ -18,8 +18,11 @@
   </p>
   
   [Data Science](#Data-Science)
+  
   [Full Stack Development](#Full-Stack-Development)
+  
   [Web Design and Development](#Web-Design-and-Development)
+  
   
   # Data Science
   
