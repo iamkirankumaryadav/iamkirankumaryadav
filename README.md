@@ -39,10 +39,13 @@ I have over <strong>3+</strong> Years of Working Experience. Creating <strong>We
 <strong>Front End</strong> : <strong>HTML5</strong> | <strong>CSS3</strong> | <strong>JavaScript</strong> | <strong>Bootstrap4</strong>
 </p>
 <p align="justify">
+<strong>Static Front End</strong> : <strong>Markdown</strong> | <strong>Jekyll</strong> | <strong>Hugo</strong> | <strong>MiddleMan</strong>
+</p>
+<p align="justify">
 <strong>Back End</strong> : <strong>Python</strong> | <strong>C#</strong> | <strong>ASP.NET</strong>
 </p>
 <p align="justify">
-<strong>Database | Data</strong> : <strong>SQL</strong> | <strong>SSMS</strong> | <strong>Microsoft Excel</strong>
+<strong>Database</strong> : <strong>SQL</strong> | <strong>SSMS</strong>
 </p>
 
 ### <a name="web-design-and-development">Web Design and Development 🎯</a>
