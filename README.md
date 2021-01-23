@@ -17,16 +17,19 @@
   🚀 Learn Something New Everyday.
   </p>
   
+  ___
+  
   [Data Science](#Data-Science)
   
   [Full Stack Development](#Full-Stack-Development)
   
   [Web Design and Development](#Web-Design-and-Development)
   
+  ___
   
   # Data Science 🤖
   
-  # Full Stack Development 🖥💻
+  # Full Stack Development 💻
   
   # Web Design and Development 🎯
   
