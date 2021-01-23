@@ -73,12 +73,12 @@ I have over <strong>3+</strong> Years of Working Experience. Creating <strong>We
 
 > Interactive Development Environment 
   <ol type = "1">
-    <li> IDLE (<strong>Python</strong>)</li>
-    <li> <strong>PyCharm</strong></li>
-    <li> <strong>R Studio</strong></li>
-    <li> Microsoft <strong>Visual Studio</strong></li>
-    <li> Microsoft <strong>Visual Code</strong></li>
-    <li> Microsoft <strong>SQL Server Management Studio</strong></li>
+    <li> IDLE (Python)</li>
+    <li> PyCharm</li>
+    <li> R Studio</li>
+    <li> Microsoft Visual Studio</li>
+    <li> Microsoft Visual Code</li>
+    <li> Microsoft SQL Server Management Studio</li>
   </ol>
 </p>
 
