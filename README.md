@@ -8,10 +8,12 @@
   <a href="https://www.linkedin.com/in/kk7296/"><img src="Image/linkedin.png" alt="LinkedIn" width="45" title="KK7296"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/[+919004967226]"><img src="Image/whatsapp.svg" width="48" alt="Whatsapp" title="+919004967226"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://kirankumar7296.slack.com/"><img src="Image/Slack.png" width="48" alt="Slack" title="Slack"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/KIRAN7296KUMAR/"><img src="Image/Tweet.png" width="50" alt="Twitter" title="KIRAN7296KUMAR"></a></p>
-<h2 align="center">Kirankumar Yadav</h2>
+  <a href="https://twitter.com/KIRAN7296KUMAR/"><img src="Image/Tweet.png" width="50" alt="Twitter" title="KIRAN7296KUMAR"></a>
+</p>
 
 <br>
+
+<h2 align="center">Kirankumar Yadav</h2>
 
 <p align="center">
   An Aspiring <strong>Data Scientist</strong>  |  A <strong>Full Stack Developer</strong>  |  A <strong>Web Designer and Developer</strong>.  
