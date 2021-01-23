@@ -13,7 +13,7 @@
 
 <br>
 
-<h2 align="center">Kirankumar Yadav</h2>
+<h1 align="center">Kirankumar Yadav</h1>
 
 <p align="center">
   An Aspiring <strong>Data Scientist</strong>  |  A <strong>Full Stack Developer</strong>  |  A <strong>Web Designer and Developer</strong>.  
