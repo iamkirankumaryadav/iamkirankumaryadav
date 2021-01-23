@@ -48,7 +48,7 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
     <li> TensorFlow</li>
   </ol>  
   
- #### Data Visualization Tools : <a href="https://www.tableau.com/" target="_blank">Tableau</a> | <a href="https://powerbi.microsoft.com/en-us/" target="_blank">Power BI</a> | <a href="https://developers.google.com/chart" target="_blank">Google Charts</a> 
+ > Data Visualization Tools : [Tableau](https://www.tableau.com/) | [Power BI](https://powerbi.microsoft.com/en-us/) | [Google Charts](https://developers.google.com/chart)
   
 ___
 
