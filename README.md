@@ -27,9 +27,9 @@
   
   ___
   
-  # <a name = "data-science">Data Science 🤖</a>
+  # <a name="data-science">Data Science 🤖</a>
   
-  #Full Stack Development 💻
+  # <a name="full-stack-development">Full Stack Development 💻</a>
   
-  #Web Design and Development 🎯
+  # <a name="web-design-and-development">Web Design and Development 🎯</a>
   
