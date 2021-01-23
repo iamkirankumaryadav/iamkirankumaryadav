@@ -14,7 +14,7 @@
 
 <br>
 
-<font size="6" align="center">Kirankumar Yadav</font>
+<p style="font-size:24pt" align="center">Kirankumar Yadav</p>
 
 ___
 
