@@ -19,7 +19,7 @@
 <p align="center">🚀 An Aspiring <strong>Data Scientist</strong>  |  A <strong>Full Stack Developer</strong>  |  A <strong>Web Designer and Developer</strong>.</p>  
 <p align="center">🤖 Data Science | Python | R | Interactive Visualization | Machine Learning | Artificial Intelligence.</p>
 <p align="center">💻 Web Design | UI Design | Graphic Design | Illustration.</p>
-<h2 align="center">Learn Something New Everyday.</h2>
+<h3 align="center">Learn Something New Everyday.</h3>
   
 [Data Science](#data-science)
   
