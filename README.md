@@ -14,5 +14,16 @@
   <p align="center">
   🤖 Data Science, Python, Visualization, Machine Learning and Artificial Intelligence.<br>
   💻 Web Design, UI Design, Graphic Designesign and Illustration.<br>
-  🚀 Learning a New Thing Everyday is My Habit.
+  🚀 Learn Something New Everyday.
   </p>
+  
+  [Data Science](#Data-Science)
+  [Full Stack Development](#Full-Stack-Development)
+  [Web Design and Development](#Web-Design-and-Development)
+  
+  # Data Science
+  
+  # Full Stack Development
+  
+  # Web Design and Development
+  
