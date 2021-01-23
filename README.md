@@ -37,5 +37,8 @@ Being Passionate about <strong>Data Science</strong>, I keep working on New Data
 </p>
 
 ### <a name="web-design-and-development">Web Design and Development 🎯</a>
+<p align="justify">
+Passionate and Creative for <strong>Website</strong> Designs, Customizations, Layouts, Forms, Components, Utilities, Icons, Styles, Navigations, Colors, Graphics, Vectors, Isometric Illustrations, <strong>Data Representation</strong>, <strong>Data Visualization</strong> and Everything that can make a <strong>Website</strong> and <strong>Visual Content</strong> Look Delightful. Iam Well Versed with <strong>Front End Responsive Frameworks</strong>.
+</p>
   
 
