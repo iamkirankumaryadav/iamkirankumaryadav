@@ -36,6 +36,12 @@ Being Passionate about <strong>Data Science</strong>, I keep working on New Data
 Executing <strong>Analytical Experiments</strong> and Applying My <strong>Business Knowledge</strong> to Solve various Business related Problems. Data Preprocessing, Data      Cleaning, Data Exploration, Data Modeling and Data Visualization using <strong>Python</strong> and <strong>R</strong>. Identifying Relevant Data, Cleaning Data, Understanding Hidden Patterns and Relationships using Graphs and Charts, Exploring the Data and Applying <strong>Machine Learning</strong> Algorithms, Performing Data and Error Analysis to Improve Accuracy. <strong>Data Cleaning</strong> and <strong>Data Visualization</strong> is My Favourite Part in the Data Science Process. Well Versed with <strong>Jupyter</strong> and <strong>Anaconda</strong> Environment for My <strong>Data Analysis</strong> Task. Comfortable with <strong>Streamlit</strong> and <strong>Heroku</strong> for Building, Sharing, Deploying and Managing Data Applications.
 </p>
   
+<p align="center" width="100%">
+  <img src="Image/R.png" alt="LinkedIn" width="2%" title="R">&nbsp;&nbsp;
+  <img src="Image/Python.svg" width="2%" alt="Whatsapp" title="Python">&nbsp;&nbsp;
+</p>
+
+  
 <p align="justify">Environment :</p>
 
 > Language 
