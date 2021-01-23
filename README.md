@@ -22,7 +22,7 @@
 
 ___
 
-## Work Experience and Goals
+### Work Experience and Goals
   
 [Data Science](#data-science)
   
