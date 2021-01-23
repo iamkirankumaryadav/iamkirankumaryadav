@@ -30,10 +30,12 @@
 Being Passionate about <strong>Data Science</strong>, I keep working on New Data Sets, Understanding the Domain, Business Requirements and Applying Knowledge, Executing Analytical Experiments to Solve various Business related problems, Identifying Relevant Data, Cleaning Data, Understanding Hidden Patterns and Relationships using Graphs and Charts, Exploring the Data and Applying <strong>Machine Learning</strong> Algorithms, Performing Data and Error Analysis to Improve Accuracy. <strong>Data Cleaning</strong> and <strong>Data Visualization</strong> is My Favourite Part in the whole process. Well Versed with <strong>Jupyter</strong> and <strong>Anaconda</strong> Environment for My <strong>Data Analysis</strong> Task and even Comfortable with <strong>Streamlit</strong> and <strong>Heroku</strong> for Building, Sharing, Deploying and Managing Data Apps.
 </p>
 
+<p align="justify">Understanding Data Preprocessing, Data Cleaning, Data Exploration, Data Modeling and Data Visualization using <strong>Python</strong> and <strong>R</strong>.</p>
+
 
 ### <a name="full-stack-development">Full Stack Development 🖥</a>
 <p align="justify">
-  I have over <strong>3+</strong> Years of Working Experience. Creating <strong>Web Forms</strong> and <strong>Active Server Pages</strong> using <strong>ASP.NET</strong> Framework and <strong>C#</strong> Programming Language over Integrated Development Environment of <strong>Microsoft Visual Studio</strong> and <strong>Microsoft SQL Server Management Studio</strong>. Projects are Completely Responsive, working for Desktops and Tablets.
+I have over <strong>3+</strong> Years of Working Experience. Creating <strong>Web Forms</strong> and <strong>Active Server Pages</strong> using <strong>ASP.NET</strong> Framework and <strong>C#</strong> Programming Language over Integrated Development Environment of <strong>Microsoft Visual Studio</strong> and <strong>Microsoft SQL Server Management Studio</strong>. Projects are Completely Responsive, working for Desktops and Tablets.
 </p>
 
 ### <a name="web-design-and-development">Web Design and Development 🎯</a>
