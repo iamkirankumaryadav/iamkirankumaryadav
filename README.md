@@ -139,6 +139,13 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
     <li> Bracket</li>
   </ol>
   
+  > Design Tools 
+  <ol type = "1">
+    <li> [Canva](https://www.canva.com/en_gb/)</li>
+    <li> Adobe XD</li>
+    <li> Atom</li>
+    <li> Bracket</li>
+  </ol>
   
   
 
