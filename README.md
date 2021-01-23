@@ -158,6 +158,3 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
   <li> <a href="https://www.framer.com/" target="_blank">Framer</a></li> 
   <li> <a href="https://www.figma.com/" target="_blank">Figma</a></li> 
   </ol>
-  
-  
-
