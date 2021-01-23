@@ -36,7 +36,7 @@ Being Passionate about <strong>Data Science</strong>, I keep working on New Data
 
 <p align="justify">Well Versed with <strong>Jupyter</strong> and <strong>Anaconda</strong> Environment for My <strong>Data Analysis</strong> Task</p>
 
-<p align="justify">Comfortable with <strong>Streamlit</strong> and <strong>Heroku</strong> for Building, Sharing, Deploying and Managing Data Apps.</p>
+<p align="justify">Comfortable with <strong>Streamlit</strong> and <strong>Heroku</strong> for Building, Sharing, Deploying and Managing Data Applications.</p>
 
 ### <a name="full-stack-development">Full Stack Development 🖥</a>
 <p align="justify">
