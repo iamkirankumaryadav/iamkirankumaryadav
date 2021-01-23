@@ -131,4 +131,14 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
     <li> MiddleMan</li>
   </ol>
   
+  > Text Editors
+  <ol type = "1">
+    <li> Microsoft Visual Code</li>
+    <li> Sublime Text</li>
+    <li> Atom</li>
+    <li> Bracket</li>
+  </ol>
+  
+  
+  
 
