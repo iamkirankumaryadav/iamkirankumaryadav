@@ -38,7 +38,7 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
   
 <p align="center" width="100%">
   <img src="Image/R.png" alt="R" width="3%" title="R">&nbsp;&nbsp;
-  <img src="Image/Python.png" width="3%" alt="Python" title="Python">&nbsp;&nbsp;
+  <img src="Image/Python.png" width="2%" alt="Python" title="Python">&nbsp;&nbsp;
 </p>
 
   
