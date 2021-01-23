@@ -3,6 +3,9 @@
 <img src="Image/Me.png" alt="Kirankumar" width="200">
   </a>
 </p>
+
+<p align="center"><img src="Image/whatsapp.svg" width="50">&nbsp;<img src="Image/whatsapp.svg" width="50"></p>
+
 <h2 align="center">Kirankumar Yadav</h2>
 
 <p align="center">
@@ -16,9 +19,7 @@
 <p align="center">🚀 Learn Something New Everyday.</p>
 
 <br>
-
-<p align="center"><img src="Image/whatsapp.svg" width="50"></p>
-  ___
+___
   
 [Data Science](#data-science)
   
