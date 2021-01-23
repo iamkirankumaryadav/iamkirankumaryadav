@@ -73,7 +73,8 @@ I have over <strong>3+</strong> Years of Working Experience. Creating <strong>We
 
 > Interactive Development Environment 
   <ol type = "1">
-    <li> IDLE(<strong>Python</strong>)</li>
+    <li> IDLE (<strong>Python</strong>)</li>
+    <li> <strong>PyCharm</strong></li>
     <li> <strong>R Studio</strong></li>
     <li> Microsoft <strong>Visual Studio</strong></li>
     <li> Microsoft <strong>Visual Code</strong></li>
