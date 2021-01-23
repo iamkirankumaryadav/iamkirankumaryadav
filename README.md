@@ -66,7 +66,7 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
   
 ___
 
-### <a name="full-stack-development">Full Stack Development 🖥</a>
+<h1 name="full-stack-development" align="center">Full Stack Development 🖥</h1>
 <p align="justify">
 I have over <strong>3+</strong> Years of Working Experience. Creating <strong>Web Forms</strong> and <strong>Active Server Pages</strong> using <strong>ASP.NET</strong> Framework and <strong>C#</strong> Programming Language over Integrated Development Environment of <strong>Microsoft Visual Studio</strong> and <strong>Microsoft SQL Server Management Studio</strong>. Projects are Completely Responsive, working for Desktops and Tablets.
 </p>
@@ -114,7 +114,7 @@ I have over <strong>3+</strong> Years of Working Experience. Creating <strong>We
 
 ----
 
-### <a name="web-design-and-development">Web Design and Development 🎯</a>
+<h1 name="web-design-and-development" align="center">Web Design and Development 🎯</h1>
 <p align="justify">
 Passionate and Creative for <strong>Website</strong> Designs, Customizations, Layouts, Forms, Components, Utilities, Icons, Styles, Navigations, Colors, Graphics, Vectors, Isometric Illustrations, <strong>Data Representation</strong>, <strong>Data Visualization</strong> and Everything that can make a <strong>Website</strong> and <strong>Visual Content</strong> Look Delightful. Iam Well Versed with <strong>Front End Responsive Frameworks</strong>.
 </p>
