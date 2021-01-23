@@ -26,7 +26,7 @@ ___
   
   ___
   
-<h2 name="data-science" align="center">Data Science 🤖</h2>
+<h3 name="data-science" align="center">Data Science 🤖</h3>
 <p align="justify">
 Being Passionate about <strong>Data Science</strong>, I keep working on New Data Sets, Understanding the <strong>Domain</strong> and <strong>Business Requirements<strong>.
 Executing <strong>Analytical Experiments</strong> and Applying My <strong>Business Knowledge</strong> to Solve various Business related Problems. Data Preprocessing, Data      Cleaning, Data Exploration, Data Modeling and Data Visualization using <strong>Python</strong> and <strong>R</strong>. Identifying Relevant Data, Cleaning Data, Understanding Hidden Patterns and Relationships using Graphs and Charts, Exploring the Data and Applying <strong>Machine Learning</strong> Algorithms, Performing Data and Error Analysis to Improve Accuracy. <strong>Data Cleaning</strong> and <strong>Data Visualization</strong> is My Favourite Part in the Data Science Process. Well Versed with <strong>Jupyter</strong> and <strong>Anaconda</strong> Environment for My <strong>Data Analysis</strong> Task. Comfortable with <strong>Streamlit</strong> and <strong>Heroku</strong> for Building, Sharing, Deploying and Managing Data Applications.
@@ -48,9 +48,7 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
     <li> TensorFlow</li>
   </ol>  
   
-> Data Visualization Tools 
-  <ol type = "1">
-    <li> <a href="https://www.tableau.com/" target="_blank">Tableau</a></li>
+ #### Data Visualization Tools : [Tableau](https://www.tableau.com/)
     <li> <a href="https://powerbi.microsoft.com/en-us/" target="_blank">Power BI</a></li>
     <li> <a href="https://developers.google.com/chart" target="_blank">Google Charts</a></li>
   </ol>  
