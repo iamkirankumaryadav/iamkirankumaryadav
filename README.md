@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<p align="center"><img src="Image/whatsapp.svg" width="50">&nbsp;&nbsp;&nbsp;<img src="Image/linkedin.png" width="48">&nbsp;&nbsp;&nbsp;<img src="Image/slack.png" width="48"></p>
+<p align="center"><img src="Image/whatsapp.svg" width="50">&nbsp;&nbsp;&nbsp;<img src="Image/linkedin.png" width="45">&nbsp;&nbsp;&nbsp;<img src="Image/Slack.png" width="45"></p>
 
 <h2 align="center">Kirankumar Yadav</h2>
 
