@@ -10,12 +10,14 @@
 </p>
 
 <br>  
-<br>
  
 <p align="center">🤖 Data Science | Python | R | Interactive Visualization | Machine Learning | Artificial Intelligence.</p>
 <p align="center">💻 Web Design | UI Design | Graphic Design | Illustration.</p>
 <p align="center">🚀 Learn Something New Everyday.</p>
-  
+
+<br>
+
+<p align="center"><img src="Image/whatsapp.png" width="50"></p>
   ___
   
 [Data Science](#data-science)
