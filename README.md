@@ -68,6 +68,10 @@ I have over <strong>3+</strong> Years of Working Experience. Creating <strong>We
 
 > Interactive Development Environment : [IDLE](https://docs.python.org/3/library/idle.html) | [PyCharm](https://www.jetbrains.com/pycharm/) | [R Studio](https://rstudio.com/products/rstudio/download/) | [Microsoft Visual Studio](https://visualstudio.microsoft.com/vs/) | [Microsoft SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver15)
 
+<p align="right">
+  <a href="#name" align="right"> Go Back to Top</a>
+</p>
+
 ---
 
 <h3 name="web-design-and-development" align="center">Web Design and Development 🎯</h3>
@@ -84,4 +88,9 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 > Text Editors : [Microsoft Visual Code](https://code.visualstudio.com/) | [Sublime Text](https://www.sublimetext.com/) | [Atom](https://atom.io/) | [Bracket](http://brackets.io/)
 
 > Design Tools : [Canva](https://www.canva.com/en_gb/) | [Adobe XD](https://www.adobe.com/in/products/xd.html) | [Framer](https://www.framer.com/) | [Figma](https://www.figma.com/)
-___
+
+<p align="right">
+  <a href="#name" align="right"> Go Back to Top</a>
+</p>
+
+---
