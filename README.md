@@ -22,9 +22,9 @@
 
 ___
 
-### Experience : [Data Science](#data-science) | [Full Stack Development](#full-stack-development) | [Web Design and Development](#web-design-and-development)
+<h3 align="center"> Experience : [Data Science](#data-science) | [Full Stack Development](#full-stack-development) | [Web Design and Development](#web-design-and-development)</a>
   
-  ___
+___
   
 <h3 name="data-science" align="center">Data Science 🤖</h3>
 <p align="justify">
