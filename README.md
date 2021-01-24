@@ -29,14 +29,14 @@ ___
 <h3 name="data-science" align="center">Data Science 🤖</h3>
 <p align="justify">
 Being Passionate about <strong>Data Science</strong>, I keep working on New Data Sets, Understanding the <strong>Domain</strong> and <strong>Business Requirements<strong>.
-Executing <strong>Analytical Experiments</strong> and Applying My <strong>Business Knowledge</strong> to Solve various Business related Problems. Data Preprocessing, Data      Cleaning, Data Exploration, Data Modeling and Data Visualization using <strong>Python</strong> and <strong>R</strong>. Identifying Relevant Data, Cleaning Data, Understanding Hidden Patterns and Relationships using Graphs and Charts, Exploring the Data and Applying <strong>Machine Learning</strong> Algorithms, Performing Data and Error Analysis to Improve Accuracy. <strong>Data Cleaning</strong> and <strong>Data Visualization</strong> is My Favourite Part in the Data Science Process. Well Versed with <strong>Jupyter</strong> and <strong>Anaconda</strong> Environment for My <strong>Data Analysis</strong> Task. Comfortable with <strong>Streamlit</strong> and <strong>Heroku</strong> for Building, Sharing, Deploying and Managing Data Applications.
+Executing <strong>Analytical Experiments</strong> and Applying My <strong>Business Knowledge</strong> to Solve various Business related Problems. Data Preprocessing, Data      Cleaning, Data Exploration, Data Modeling and Data Visualization using <strong>Python</strong> and <strong>R</strong>. Identifying Relevant Data, Cleaning Data, Understanding Hidden Patterns and Relationships using Graphs and Charts, Exploring the Data and Applying <strong>Machine Learning</strong> Algorithms, Performing Data and Error Analysis to Improve Accuracy. <strong>Data Cleaning</strong> and <strong>Data Visualization</strong> is My Favourite Part in the Data Science Process. Well Versed with <a href="https://jupyter.org/">Jupyter</a> and <a href="https://www.anaconda.com/">Anaconda</a> Environment for My <strong>Data Analysis</strong> Task. Comfortable with <strong>Streamlit Sharing</strong> and <strong>Heroku</strong> for Building, Sharing, Deploying and Managing Data Applications.
 </p>
   
 #### Environment 
 
-> Language : [R]() | [Python]() | [SQL]() 
+> Language : [R](https://www.r-project.org/) | [Python](https://www.python.org/) | [SQL]
   
-> Libraries : [Pandas]() | [NumPy]() | [Matplotlib]() | [Seaborn]() | [Plotly]() | [Bokeh]() | [Scikit Learn]() | [TensorFlow]()
+> Libraries : [Pandas](https://pandas.pydata.org/) | [NumPy](https://numpy.org/) | [Matplotlib](https://matplotlib.org/) | [Seaborn](https://seaborn.pydata.org/) | [Plotly](https://plotly.com/) | [Bokeh](https://bokeh.org/) | [Scikit Learn](https://scikit-learn.org/) | [TensorFlow](https://www.tensorflow.org/) | [Streamlit](https://www.streamlit.io/)
   
 > Data Visualization Tools : [Tableau](https://www.tableau.com/) | [Power BI](https://powerbi.microsoft.com/en-us/) | [Google Charts](https://developers.google.com/chart)
   
@@ -49,15 +49,15 @@ I have over <strong>3+</strong> Years of Working Experience. Creating <strong>We
 
 #### Environment 
 
-> Front End : [HTML5]() | [CSS3]() | [JavaScript]() | [Bootstrap4]()
+> Front End : [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) | [CSS3](https://css-tricks.com/) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [Bootstrap](https://getbootstrap.com/)
 
-> Static Front End : [Markdown]() | [Jekyll]() | [Hugo]() | [MiddleMan]()
+> Static Front End : [Markdown](https://www.markdownguide.org/) | [Jekyll](https://jekyllrb.com/) | [Hugo](https://gohugo.io/) | [MiddleMan](https://middlemanapp.com/)
 
-> Back End : [Python]() | [C#]() | [ASP.NET]()
+> Back End : [Python](https://www.python.org/) | [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) | [ASP.NET](https://dotnet.microsoft.com/apps/aspnet)
 
-> Database : [SQL]() | [SSMS]()
+> Database : [SQL] | [SSMS](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver15)
 
-> Interactive Development Environment : [IDLE]() | [PyCharm]() | [R Studio]() | [Microsoft Visual Studio]() | [Microsoft SQL Server Management Studio]()
+> Interactive Development Environment : [IDLE](https://docs.python.org/3/library/idle.html) | [PyCharm](https://www.jetbrains.com/pycharm/) | [R Studio](https://rstudio.com/products/rstudio/download/) | [Microsoft Visual Studio](https://visualstudio.microsoft.com/vs/) | [Microsoft SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver15)
 
 ---
 
@@ -68,11 +68,11 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 #### Environment
 
-> Front End : [HTML5]() | [CSS3]() | [JavaScript]() | [Bootstrap4]() 
+> Front End : [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) | [CSS3](https://css-tricks.com/) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [Bootstrap](https://getbootstrap.com/) 
 
-> Static Front End : [Markdown]() | [Jekyll]() | [Hugo]() | [MiddleMan]() 
+> Static Front End : [Markdown](https://www.markdownguide.org/) | [Jekyll](https://jekyllrb.com/) | [Hugo](https://gohugo.io/) | [MiddleMan](https://middlemanapp.com/) 
   
-> Text Editors : [Microsoft Visual Code]() | [Sublime Text]() | [Atom]() | [Bracket]()
+> Text Editors : [Microsoft Visual Code](https://code.visualstudio.com/) | [Sublime Text](https://www.sublimetext.com/) | [Atom](https://atom.io/) | [Bracket](http://brackets.io/)
 
 > Design Tools : [Canva](https://www.canva.com/en_gb/) | [Adobe XD](https://www.adobe.com/in/products/xd.html) | [Framer](https://www.framer.com/) | [Figma](https://www.figma.com/)
 ___
