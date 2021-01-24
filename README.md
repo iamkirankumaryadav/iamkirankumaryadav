@@ -108,7 +108,7 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 <p align="justify">Edvancer Eduventures</p>
 
-> Post Graduate Certification in Data Science and Artificial Intelligence : Certified Data Science Specialist
+> Post Graduate Certification in Data Science and Artificial Intelligence : [Certified Data Science Specialist](PDF/CertifiedDataScienceSpecialist.pdf)
 
 <p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
 
@@ -160,13 +160,13 @@ Apart from Being A <strong>Data Scientist</strong> and A <strong>Developer</stro
 
 <p align="justify"> Edvancer Eduventures</p>
  
-> [Certified Data Science Specialist](PDF/CertifiedDataScienceSpecialist.pdf).
+> [Certified Data Science Specialist](PDF/CertifiedDataScienceSpecialist.pdf)
 
 <p align="justify"> DataCamp </p>
 
-> [Python](PDF/Python.pdf).
+> [Python](PDF/Python.pdf)
 
-> [Data Analysis in Excel](PDF/DataAnalysisExcel.pdf).
+> [Data Analysis in Excel](PDF/DataAnalysisExcel.pdf)
 
 > [Data Cleaning in Python](PDF/DataCleaningPython.pdf)
 
