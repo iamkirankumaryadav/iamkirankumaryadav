@@ -14,7 +14,7 @@
 
 <br>
 
-<h1 align="center">Kirankumar Yadav</h1>
+<h1 name="name" align="center">Kirankumar Yadav</h1>
 
 <p align="center">🚀 An Aspiring <strong>Data Scientist</strong>  |  A <strong>Full Stack Developer</strong>  |  A <strong>Web Designer and Developer</strong>.</p>  
 <p align="center">🤖 Data Science | Python | R | Interactive Visualization | Machine Learning | Artificial Intelligence.</p>
@@ -45,7 +45,9 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
   
 > Data Visualization Tools : [Tableau](https://www.tableau.com/) | [Power BI](https://powerbi.microsoft.com/en-us/) | [Google Charts](https://developers.google.com/chart)
 
-<a href="#experience" align="right"> Go Back to Experience</a>
+<p align="right">
+  <a href="#name" align="right"> Go Back to Top</a>
+</p>
 
 ---
 
