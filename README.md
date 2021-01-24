@@ -53,9 +53,7 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
   
 > Data Visualization Tools : [Tableau](https://www.tableau.com/) | [Power BI](https://powerbi.microsoft.com/en-us/) | [Google Charts](https://developers.google.com/chart)
 
-<p align="right">
-  <a href="#name" align="right"> Go Back to Top</a>
-</p>
+<p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
 
 ---
 
@@ -76,9 +74,7 @@ I have over <strong>3+</strong> Years of Working Experience. Creating <strong>We
 
 > Interactive Development Environment : [IDLE](https://docs.python.org/3/library/idle.html) | [PyCharm](https://www.jetbrains.com/pycharm/) | [R Studio](https://rstudio.com/products/rstudio/download/) | [Microsoft Visual Studio](https://visualstudio.microsoft.com/vs/) | [Microsoft SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver15)
 
-<p align="right">
-  <a href="#name" align="right"> Go Back to Top</a>
-</p>
+<p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
 
 ---
 
@@ -97,8 +93,17 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 > Design Tools : [Canva](https://www.canva.com/en_gb/) | [Adobe XD](https://www.adobe.com/in/products/xd.html) | [Framer](https://www.framer.com/) | [Figma](https://www.figma.com/)
 
-<p align="right">
-  <a href="#name" align="right"> Go Back to Top</a>
-</p>
+<p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
+
+---
+
+<h3 name="education" align="center">Education 🎓</h3>
+<p align="justify"> University of Mumbai</p>
+> Bachelor of Engineering  (May 2013 - May 2017) | Computer Engineering : (SGPI : 8.52)
+
+<p align="justify">Edvancer Eduventures</p>
+> Post Graduate Certification in Data Science and Artificial Intelligence  | Certified Data Science Specialist
+
+<p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
 
 ---
