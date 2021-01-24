@@ -37,7 +37,7 @@
   <a href="#web-design-and-development">Web Design and Development</a>
 </h4>
   
-___
+---
   
 <h3 name="data-science" align="center">Data Science 🤖</h3>
 <p align="justify">
