@@ -57,7 +57,7 @@ I have over <strong>3+</strong> Years of Working Experience. Creating <strong>We
 
 > Database : [SQL]() | [SSMS]()
 
-> Interactive Development Environment : [IDLE (Python)]() | [PyCharm]() | [R Studio]() | [Microsoft Visual Studio]() | [Microsoft Visual Code]() | [Microsoft SQL Server Management Studio]
+> Interactive Development Environment : [IDLE (Python)]() | [PyCharm]() | [R Studio]() | [Microsoft Visual Studio]() | [Microsoft SQL Server Management Studio]()
 
 ---
 
