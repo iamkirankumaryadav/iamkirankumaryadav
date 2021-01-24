@@ -22,10 +22,12 @@
 
 
 <h4 align="center" width="100%">
+  <a href="#education"> Portfolio </a> |
+  <a href="https://kirankumar7296.github.io/Resume/"> Resume </a> |
   <a href="#education"> Education </a> |
-  <a href="#skill">Skills</a> | 
-  <a href="#interest">Interests</a> | 
-  <a href="#certification">Certifications</a>
+  <a href="#skill"> Skills </a> | 
+  <a href="#interest"> Interests </a> | 
+  <a href="#certification"> Certifications </a>
 </h4>
 
 
@@ -158,21 +160,43 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 <p align="justify"> Edvancer Eduventures</p>
  
-> [Certified Data Science Specialist](Image/whatsapp.svg).
+> [Certified Data Science Specialist](PDF/CertifiedDataScienceSpecialist.pdf).
 
-> Well Versed with Important Python Libraries like Pandas, NumPy, Matplotlib, Pyplot, Bokeh, Seaborn, TensorFlow, Scikit Learn,etc.
+<p align="justify"> DataCamp </p>
 
-> Comfortable with Data Visualization Tools like Tableau and Power BI.
+> [Python](PDF/Python.pdf).
 
-> Handling Data using Microsoft SQL Server Management Studio and Microsoft Excel.
+> [Data Analysis in Excel](PDF/DataAnalysisExcel.pdf).
 
-> Creating Web Forms and Active Server Pages using ASP.NET Framework, C# and SQL.
+> [Data Cleaning in Python](PDF/DataCleaningPython.pdf)
 
-> Design and Development of Website using HTML, CSS, JavaScript, Bootstrap.
+> [Data Manipulation with Pandas](PDF/DataManipulationPandas.pdf)
 
-> Familiar with Static Site Generators like Markdown, Jekyll, Middleman, Hugo.
+> [Exploratory Data Analysis in Python](PDF/EDAPython.pdf)
 
-> Comfortable with Streamlit and Heroku for Building, Sharing, Deploying and Managing Data Apps.
+<p align="justify"> Kaggle </p>
+
+> [Python](PDF/KagglePython.png)
+
+> [Pandas](PDF/KagglePandas.png)
+
+<p align="justify"> Great Learning </p>
+
+> [Data Visualization using Python](PDF/GLDataVisualization.pdf)
+
+> [Python for Machine Learning](PDF/GLPythonMachineLearning.pdf)
+
+<p align="justify"> 365 Data Science </p>
+
+> [The Python Programmer Bootcamp](PDF/365ThePythonProgrammerBootcamp.pdf)
+
+> [Tableau](PDF/365Tableau.pdf)
+
+> [Git and GitHub](PDF/365GitAndGitHub.pdf)
+
+<p align="justify"> Edureka </p>
+
+> [AI and Machine Learning Workshop](PDF/EdurekaWorkshop.pdf)
 
 <p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
 
