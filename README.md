@@ -101,12 +101,37 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 <p align="justify"> University of Mumbai</p>
   
-> Bachelor of Engineering  (May 2013 - May 2017) | Computer Engineering : (SGPI : 8.52)
+> Bachelor of Engineering  (May 2013 - May 2017) : Computer Engineering (SGPI | 8.52)
 
 <p align="justify">Edvancer Eduventures</p>
 
-> Post Graduate Certification in Data Science and Artificial Intelligence  | Certified Data Science Specialist
+> Post Graduate Certification in Data Science and Artificial Intelligence : Certified Data Science Specialist
 
 <p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
 
 ---
+
+<h3 name="education" align="center">Skills 👨🏻‍💻</h3>
+
+<p align="justify"> Workflow</p>
+ 
+> Data Preprocessing, Data Manipulation, Data Cleaning, Exploration Data Analysis, Data Modeling and Data Visualization using Python.
+
+> Well Versed with Important Python Libraries like Pandas, NumPy, Matplotlib, Pyplot, Bokeh, Seaborn, TensorFlow, Scikit Learn,etc.
+
+> Comfortable with Data Visualization Tools like Tableau and Power BI.
+
+> Handling Data using Microsoft SQL Server Management Studio and Microsoft Excel.
+
+> Creating Web Forms and Active Server Pages using ASP.NET Framework, C# and SQL.
+
+> Design and Development of Website using HTML, CSS, JavaScript, Bootstrap.
+
+> Familiar with Static Site Generators like Markdown, Jekyll, Middleman, Hugo.
+
+> Comfortable with Streamlit and Heroku for Building, Sharing, Deploying and Managing Data Apps.
+
+<p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
+
+---
+
