@@ -21,12 +21,12 @@
 <p align="center">💻 Web Design | UI Design | Graphic Design | Illustration.</p>
 
 
-<p align="center" width="100%">
+<h4 align="center" width="100%">
   <a href="#education"> Education </a> |
   <a href="#skills">Skills</a> | 
   <a href="#interests">Interests</a> | 
   <a href="#certification">Certifications</a>
-</p>
+</h4>
 
 ---
 
