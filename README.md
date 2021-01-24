@@ -68,28 +68,10 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 #### Environment
 
-> Front End
-  <ol type = "1">
-    <li> HTML5</li>
-    <li> CSS3</li>
-    <li> JavaScript</li>
-    <li> Bootstrap4</li>
-  </ol>
+> Front End : [HTML5]() | [CSS3]() | [JavaScript]() | [Bootstrap4]() 
 
-> Static Front End
-  <ol type = "1">
-    <li> Markdown</li>
-    <li> Jekyll</li>
-    <li> Hugo</li>
-    <li> MiddleMan</li>
-  </ol>
+> Static Front End : [Markdown]() | [Jekyll]() | [Hugo]() | [MiddleMan]() 
   
-  > Text Editors
-  <ol type = "1">
-    <li> Microsoft Visual Code</li>
-    <li> Sublime Text</li>
-    <li> Atom</li>
-    <li> Bracket</li>
-  </ol>
-  
-  > Design Tools : [Canva](https://www.canva.com/en_gb/) | [Adobe XD](https://www.adobe.com/in/products/xd.html) | [Framer](https://www.framer.com/) | [Figma](https://www.figma.com/)
+> Text Editors : [Microsoft Visual Code]() | [Sublime Text]() | [Atom]() | [Bracket]()
+
+> Design Tools : [Canva](https://www.canva.com/en_gb/) | [Adobe XD](https://www.adobe.com/in/products/xd.html) | [Framer](https://www.framer.com/) | [Figma](https://www.figma.com/)
