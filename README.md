@@ -98,12 +98,12 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 ---
 
 <h3 name="education" align="center">Education 🎓</h3>
-<p align="justify"> University of Mumbai</p>
+<p align="justify"> University of Mumbai
 > Bachelor of Engineering  (May 2013 - May 2017) | Computer Engineering : (SGPI : 8.52)
-
-<p align="justify">Edvancer Eduventures</p>
+</p>
+<p align="justify">Edvancer Eduventures
 > Post Graduate Certification in Data Science and Artificial Intelligence  | Certified Data Science Specialist
-
+</p>
 <p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
 
 ---
