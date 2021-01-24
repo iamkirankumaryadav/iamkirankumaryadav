@@ -23,8 +23,8 @@
 
 <h4 align="center" width="100%">
   <a href="#education"> Education </a> |
-  <a href="#skills">Skills</a> | 
-  <a href="#interests">Interests</a> | 
+  <a href="#skill">Skills</a> | 
+  <a href="#interest">Interests</a> | 
   <a href="#certification">Certifications</a>
 </h4>
 
@@ -150,6 +150,30 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
   When I Move Outdoor, I Love to Go for Walk, Running, Cycling or Simply Skipping for Physical Activity. Apart from All this My Hobbies are Photography, Drawing, Reading and       Writing. I Keep Consistency in My Daily Scheduled Personal Life, Work Life or Any Task that I Perform and Love Simplicity with One Goal in My Mind that I have to Learn a New     Thing Each and Every Day that All Matters for Me at the End of the Day.
 </p>
   
+<p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
+
+---
+
+<h3 name="certification" align="center">Certifications 🚀</h3>
+
+<p align="justify"> Edvancer Eduventures</p>
+ 
+> [Certified Data Science Specialist](Image/whatsapp.png).
+
+> Well Versed with Important Python Libraries like Pandas, NumPy, Matplotlib, Pyplot, Bokeh, Seaborn, TensorFlow, Scikit Learn,etc.
+
+> Comfortable with Data Visualization Tools like Tableau and Power BI.
+
+> Handling Data using Microsoft SQL Server Management Studio and Microsoft Excel.
+
+> Creating Web Forms and Active Server Pages using ASP.NET Framework, C# and SQL.
+
+> Design and Development of Website using HTML, CSS, JavaScript, Bootstrap.
+
+> Familiar with Static Site Generators like Markdown, Jekyll, Middleman, Hugo.
+
+> Comfortable with Streamlit and Heroku for Building, Sharing, Deploying and Managing Data Apps.
+
 <p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
 
 ---
