@@ -22,12 +22,12 @@
 
 ___
 
-<p align="center" width="100%">
+<h4 align="center" width="100%">
   <a id="Experience"> Experience : </a>
   <a href="#data-science">Data Science</a> | 
   <a href="#full-stack-development">Full Stack Development</a> | 
   <a href="#web-design-and-development">Web Design and Development</a>
-</p>
+</h4>
   
 ___
   
