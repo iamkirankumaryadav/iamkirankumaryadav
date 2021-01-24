@@ -158,7 +158,7 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 <p align="justify"> Edvancer Eduventures</p>
  
-> [Certified Data Science Specialist](Image/whatsapp.png).
+> [Certified Data Science Specialist](Image/whatsapp.svg).
 
 > Well Versed with Important Python Libraries like Pandas, NumPy, Matplotlib, Pyplot, Bokeh, Seaborn, TensorFlow, Scikit Learn,etc.
 
