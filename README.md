@@ -23,7 +23,7 @@
 ___
 
 <h4 align="center" width="100%">
-  <a id="Experience"> Experience : </a>
+  <a name="Experience"> Experience : </a>
   <a href="#data-science">Data Science</a> | 
   <a href="#full-stack-development">Full Stack Development</a> | 
   <a href="#web-design-and-development">Web Design and Development</a>
@@ -45,9 +45,9 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
   
 > Data Visualization Tools : [Tableau](https://www.tableau.com/) | [Power BI](https://powerbi.microsoft.com/en-us/) | [Google Charts](https://developers.google.com/chart)
   
-<h4 align="right" width="100%">
+<p align="right" width="100%">
   <a href="Experience"> Go Back to Experience : </a>
-</h4>
+</p>
 ___
 
 <h3 name="full-stack-development" align="center">Full Stack Development 🖥</h3>
