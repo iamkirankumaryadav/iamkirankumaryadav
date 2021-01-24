@@ -23,10 +23,10 @@
 ___
 
 <p align="center" width="100%">
-<a id="Experience"> Experience : </a>
-<a href="#data-science">Data Science</a> | 
-[Full Stack Development](#full-stack-development) | 
-[Web Design and Development](#web-design-and-development)</a>
+  <a id="Experience"> Experience : </a>
+  <a href="#data-science">Data Science</a> | 
+  <a href="#full-stack-development">Full Stack Development</a> | 
+  <a href="#web-design-and-development">Web Design and Development</a>
 </p>
   
 ___
