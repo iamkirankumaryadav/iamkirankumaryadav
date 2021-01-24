@@ -23,7 +23,7 @@
 ___
 
 <h4 align="center" width="100%">
-  <a name="Experience"> Experience : </a>
+  <a name="experience"> Experience : </a>
   <a href="#data-science">Data Science</a> | 
   <a href="#full-stack-development">Full Stack Development</a> | 
   <a href="#web-design-and-development">Web Design and Development</a>
@@ -44,11 +44,10 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
 > Libraries : [Pandas](https://pandas.pydata.org/) | [NumPy](https://numpy.org/) | [Matplotlib](https://matplotlib.org/) | [Seaborn](https://seaborn.pydata.org/) | [Plotly](https://plotly.com/) | [Bokeh](https://bokeh.org/) | [Scikit Learn](https://scikit-learn.org/) | [TensorFlow](https://www.tensorflow.org/) | [Streamlit](https://www.streamlit.io/)
   
 > Data Visualization Tools : [Tableau](https://www.tableau.com/) | [Power BI](https://powerbi.microsoft.com/en-us/) | [Google Charts](https://developers.google.com/chart)
-  
-<p align="right" width="100%">
-  <a href="Experience"> Go Back to Experience : </a>
-</p>
-___
+
+<a href="#experience" align="right"> Go Back to Experience</a>
+
+---
 
 <h3 name="full-stack-development" align="center">Full Stack Development 🖥</h3>
 <p align="justify">
