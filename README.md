@@ -145,7 +145,7 @@ Apart from Being A <strong>Data Scientist</strong> and A <strong>Developer</stro
 </p>
 
 <p align="justify">
-  Exploring <strong>Data Science</strong> World and Inventions in <strong>Artificial Intelligence</strong> (Natural Language Processing, Computer Vision, Internet of Things, etc.) is My Hobby.
+  Exploring Data Science World and Inventions in Artificial Intelligence (Natural Language Processing, Computer Vision, Internet of Things, etc.) is My Hobby.
 </p>
 
 <p align="justify">
