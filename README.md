@@ -49,46 +49,17 @@ I have over <strong>3+</strong> Years of Working Experience. Creating <strong>We
 
 #### Environment 
 
-> Front End
-  <ol type = "1">
-    <li> HTML5</li>
-    <li> CSS3</li>
-    <li> JavaScript</li>
-    <li> Bootstrap4</li>
-  </ol>
+> Front End : [HTML5]() | [CSS3]() | [JavaScript]() | [Bootstrap4]()
 
-> Static Front End
-  <ol type = "1">
-    <li> Markdown</li>
-    <li> Jekyll</li>
-    <li> Hugo</li>
-    <li> MiddleMan</li>
-  </ol>
+> Static Front End : [Markdown]() | [Jekyll]() | [Hugo]() | [MiddleMan]()
 
-> Back End
-  <ol type = "1">
-    <li> Python</li>
-    <li> C#</li>
-    <li> ASP.NET</li>
-  </ol>
+> Back End : [Python]() | [C#]() | [ASP.NET]()
 
-> Database
-  <ol type = "1">
-    <li> SQL</li>
-    <li> SSMS</li>
-  </ol>
+> Database : [SQL]() | [SSMS]()
 
-> Interactive Development Environment 
-  <ol type = "1">
-    <li> IDLE (Python)</li>
-    <li> PyCharm</li>
-    <li> R Studio</li>
-    <li> Microsoft Visual Studio</li>
-    <li> Microsoft Visual Code</li>
-    <li> Microsoft SQL Server Management Studio</li>
-  </ol>
+> Interactive Development Environment : [IDLE (Python)]() | [PyCharm]() | [R Studio]() | [Microsoft Visual Studio]() | [Microsoft Visual Code]() | [Microsoft SQL Server Management Studio]
 
-----
+---
 
 <h3 name="web-design-and-development" align="center">Web Design and Development 🎯</h3>
 <p align="justify">
