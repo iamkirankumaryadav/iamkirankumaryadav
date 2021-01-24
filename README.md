@@ -22,7 +22,11 @@
 
 ___
 
-<a id="Experience" alihn="center"> Experience : <a id="#data-science">Data Science</a> | [Full Stack Development](#full-stack-development) | [Web Design and Development](#web-design-and-development)</a>
+<p align="center" width="100%">
+<a id="Experience"> Experience : <a id="#data-science">Data Science</a> | 
+[Full Stack Development](#full-stack-development) | 
+[Web Design and Development](#web-design-and-development)</a>
+</p>
   
 ___
   
