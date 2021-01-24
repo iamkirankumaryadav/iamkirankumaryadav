@@ -114,7 +114,7 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 ---
 
-<h3 name="skills" align="center">Skills 👨🏻‍💻</h3>
+<h3 name="skill" align="center">Skills 👨🏻‍💻</h3>
 
 <p align="justify"> Workflow</p>
  
