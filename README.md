@@ -60,7 +60,7 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
 
 ---
 
-<h3 name="full-stack-development" align="center">Full Stack Development 🖥</h3>
+<h3 name="full-stack-development" align="center">Full Stack Development 🖥 💻</h3>
 <p align="justify">
 I have over <strong>3+</strong> Years of Working Experience. Creating <strong>Web Forms</strong> and <strong>Active Server Pages</strong> using <strong>ASP.NET</strong> Framework and <strong>C#</strong> Programming Language over Integrated Development Environment of <strong>Microsoft Visual Studio</strong> and <strong>Microsoft SQL Server Management Studio</strong>. Projects are Completely Responsive, working for Desktops and Tablets.
 </p>
