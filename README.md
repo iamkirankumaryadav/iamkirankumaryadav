@@ -28,6 +28,7 @@
   <a href="#certification">Certifications</a>
 </h4>
 
+
 ---
 
 <h4 align="center" width="100%">
@@ -131,6 +132,24 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 > Comfortable with Streamlit and Heroku for Building, Sharing, Deploying and Managing Data Apps.
 
+<p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
+
+---
+
+<h3 name="interest" align="center">Interests 🧠</h3>
+
+<p align="justify">
+  Apart from Being A Data Scientist and A Developer, I Enjoy most of My Time Learning New Things, keeping Myself Busy and Use My Time Precisely, Love to Spend My Free Time         Exploring Technology Advancements in the Digital World, Smartphones, Tablets and Laptops Exploring there UI, UX and OS Enhancements. Love Exploring UI Design, Graphic Designs,   Web Designs and Productivity Utility Tools.
+</p>
+
+<p align="justify">
+  Exploring Data Science World and Inventions in Artificial Intelligence (Natural Language Processing, Computer Vision, Internet of Things, etc.) is My Hobby.
+</p>
+
+<p align="justify">
+  When I Move Outdoor, I Love to Go for Walk, Running, Cycling or Simply Skipping for Physical Activity. Apart from All this My Hobbies are Photography, Drawing, Reading and       Writing. I Keep Consistency in My Daily Scheduled Personal Life, Work Life or Any Task that I Perform and Love Simplicity with One Goal in My Mind that I have to Learn a New     Thing Each and Every Day that All Matters for Me at the End of the Day.
+</p>
+  
 <p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
 
 ---
