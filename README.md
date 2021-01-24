@@ -20,7 +20,15 @@
 <p align="center">🤖 Data Science | Python | R | Interactive Visualization | Machine Learning | Artificial Intelligence.</p>
 <p align="center">💻 Web Design | UI Design | Graphic Design | Illustration.</p>
 
-___
+
+<h4 align="center" width="100%">
+  <a href="#education"> Education : </a>
+  <a href="#skills">Skills</a> | 
+  <a href="#interests">Hobbies and Interests</a> | 
+  <a href="#certification">Certifications</a>
+</h4>
+
+---
 
 <h4 align="center" width="100%">
   <a name="experience"> Experience : </a>
@@ -39,7 +47,7 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
   
 #### Environment 
 
-> Language : [R](https://www.r-project.org/) | [Python](https://www.python.org/) | [SQL]
+> Language : [R](https://www.r-project.org/) | [Python](https://www.python.org/) | SQL
   
 > Libraries : [Pandas](https://pandas.pydata.org/) | [NumPy](https://numpy.org/) | [Matplotlib](https://matplotlib.org/) | [Seaborn](https://seaborn.pydata.org/) | [Plotly](https://plotly.com/) | [Bokeh](https://bokeh.org/) | [Scikit Learn](https://scikit-learn.org/) | [TensorFlow](https://www.tensorflow.org/) | [Streamlit](https://www.streamlit.io/)
   
@@ -64,7 +72,7 @@ I have over <strong>3+</strong> Years of Working Experience. Creating <strong>We
 
 > Back End : [Python](https://www.python.org/) | [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) | [ASP.NET](https://dotnet.microsoft.com/apps/aspnet)
 
-> Database : [SQL] | [SSMS](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver15)
+> Database : SQL | [SSMS](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver15)
 
 > Interactive Development Environment : [IDLE](https://docs.python.org/3/library/idle.html) | [PyCharm](https://www.jetbrains.com/pycharm/) | [R Studio](https://rstudio.com/products/rstudio/download/) | [Microsoft Visual Studio](https://visualstudio.microsoft.com/vs/) | [Microsoft SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver15)
 
