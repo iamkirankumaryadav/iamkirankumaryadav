@@ -138,18 +138,18 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 ---
 
-<h3 name="interest" align="center">Interests 🧠</h3>
+<h3 name="interest" align="center">Hobbies and Interests 🧠🎨🏃🏻‍♂️</h3>
 
 <p align="justify">
-  Apart from Being A Data Scientist and A Developer, I Enjoy most of My Time Learning New Things, keeping Myself Busy and Use My Time Precisely, Love to Spend My Free Time         Exploring Technology Advancements in the Digital World, Smartphones, Tablets and Laptops Exploring there UI, UX and OS Enhancements. Love Exploring UI Design, Graphic Designs,   Web Designs and Productivity Utility Tools.
+  Apart from Being A <strong>Data Scientist</strong> and A <strong>Developer</strong>, I Enjoy most of My Time <strong>Learning New Things</strong>, keeping Myself Busy and Use My Time Precisely, Love to Spend     My Free Time         Exploring <strong>Technology Advancements</strong> in the Digital World, <strong>Smartphones</strong>, <strong>Tablets</strong>, <strong>Laptops</strong> and Every New Gadgets. Exploring there <strong>UI</strong>, <strong>UX</strong> and <strong>OS</strong> Enhancements. Love Exploring <strong>UI</strong>       Design, <strong>Graphic</strong> Designs,   <strong>Web</strong> Designs and <strong>Productivity Utility Tools</strong>.
 </p>
 
 <p align="justify">
-  Exploring Data Science World and Inventions in Artificial Intelligence (Natural Language Processing, Computer Vision, Internet of Things, etc.) is My Hobby.
+  Exploring <strong>Data Science</strong> World and Inventions in <strong>Artificial Intelligence</strong> (Natural Language Processing, Computer Vision, Internet of Things, etc.) is My Hobby.
 </p>
 
 <p align="justify">
-  When I Move Outdoor, I Love to Go for Walk, Running, Cycling or Simply Skipping for Physical Activity. Apart from All this My Hobbies are Photography, Drawing, Reading and       Writing. I Keep Consistency in My Daily Scheduled Personal Life, Work Life or Any Task that I Perform and Love Simplicity with One Goal in My Mind that I have to Learn a New     Thing Each and Every Day that All Matters for Me at the End of the Day.
+  When I Move Outdoor, I Love to Go for Walk, Running, Cycling or Simply Skipping for Physical Activity. Apart from All this My Hobbies are <strong>Photography</strong>, <strong>Drawing</strong>, <strong>Reading</strong> and       <strong>Writing</strong>. I Keep <strong>Consistency</strong> in My Daily Scheduled Personal Life, Work Life or Any Task that I Perform and Love <strong>Simplicity</strong> with One Goal in My Mind that I have to Learn a New     Thing Each and Every Day that All Matters for Me at the End of the Day.
 </p>
   
 <p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
