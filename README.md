@@ -114,7 +114,7 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
   
 <p align="justify"> Text Editors </p>
 
-> [Microsoft Visual Code](https://code.visualstudio.com/) | [Sublime Text](https://www.sublimetext.com/) | [Atom](https://atom.io/) | [Bracket](http://brackets.io/)
+> [Microsoft Visual Studio Code](https://code.visualstudio.com/) | [Sublime Text](https://www.sublimetext.com/) | [Atom](https://atom.io/) | [Bracket](http://brackets.io/)
 
 <p align="justify"> Design Tools </p>
 
