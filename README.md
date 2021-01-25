@@ -160,7 +160,7 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 > Familiar with Static Site Generators like [Markdown](https://www.markdownguide.org/), [Jekyll](https://jekyllrb.com/), [Hugo](https://gohugo.io/) and [MiddleMan](https://middlemanapp.com/). 
 
-> Comfortable with [Streamlit](https://www.streamlit.io/) and Heroku for Building, Sharing, Deploying and Managing Data Apps.
+> Comfortable with [Streamlit](https://www.streamlit.io/) and [Heroku](https://www.heroku.com/) for Building, Sharing, Deploying and Managing Data Apps.
 
 <p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
 
