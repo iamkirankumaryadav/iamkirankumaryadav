@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://getbootstrap.com/">
 <img src="Image/Me.png" alt="Kirankumar" width="20%">
-  </a>
 </p>
 
 <p align="center" width="100%">
@@ -214,3 +212,6 @@ Apart from <strong>Data Science</strong>, <strong>Development</strong> and <stro
 
 ---
 
+<p align="center">
+  <img src="Image/Smile.gif" alt="Kirankumar" width="20%">
+</p>
