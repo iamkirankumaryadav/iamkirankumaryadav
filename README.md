@@ -116,7 +116,7 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 ---
 
-<h3 name="skill" align="center">Skills 👨🏻‍💻 📈📉📊</h3>
+<h3 name="skill" align="center">Skills 👨🏻‍💻</h3>
 
 <p align="justify"> Workflow</p>
  
@@ -140,7 +140,7 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 ---
 
-<h3 name="interest" align="center">Hobbies and Interests 🧠🎨🏃🏻‍♂️</h3>
+<h3 name="interest" align="center">Hobbies and Interests 🧠🏃🏻‍♂️</h3>
 
 <p align="justify">
 Apart from <strong>Data Science</strong> and <strong>Development</strong>, I Enjoy most of My Time <strong>Learning New Things</strong>, keeping Myself Busy and Use My Time Precisely, Love to Spend My Free Time Exploring <strong>Technology Advancements</strong> in the Digital World, <strong>Smartphones</strong>, <strong>Tablets</strong>, <strong>Laptops</strong> and Every New Gadgets. Exploring there <strong>UI</strong>, <strong>UX</strong> and <strong>OS</strong> Enhancements. Love Exploring <strong>UI</strong>  Design, <strong>Graphic</strong> Designs, <strong>Web</strong> Designs and <strong>Productivity Utility Tools</strong>.
