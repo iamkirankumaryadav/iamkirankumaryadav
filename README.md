@@ -213,5 +213,5 @@ Apart from <strong>Data Science</strong>, <strong>Development</strong> and <stro
 ---
 
 <p align="center">
-  <img src="Image/Smile.gif" alt="Kirankumar" width="20%">
+  <img src="Image/Smile.gif" alt="Kirankumar" width="10%">
 </p>
