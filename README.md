@@ -72,7 +72,7 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
 
 <h3 name="full-stack-development" align="center">Full Stack Development 🖥💻</h3>
 <p align="justify">
-I have over <strong>3+</strong> Years of Working Experience. Creating <strong>Web Forms</strong> and <strong>Active Server Pages</strong> using <strong>ASP.NET</strong> Framework and <strong>C#</strong> Programming Language over Integrated Development Environment of <strong>Microsoft Visual Studio</strong> and <strong>Microsoft SQL Server Management Studio</strong>. Projects are Completely Responsive, working for Desktops and Tablets.
+I have over <strong>3+</strong> Years of Working Experience. Creating <strong>Web Forms</strong> and <strong>Active Server Pages</strong> using <a href="https://dotnet.microsoft.com/apps/aspnet">ASP.NET</a> Framework and <a href="https://www.anaconda.com/">C#</a> Programming Language over Integrated Development Environment of <a href="https://visualstudio.microsoft.com/vs/">Microsoft Visual Studio</a> and <a href="https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms">Microsoft SQL Server Management Studio</>. Projects are Completely Responsive, working for Desktops and Tablets.
 </p>
 
 <p align="justify"> Front End </p>
@@ -89,7 +89,7 @@ I have over <strong>3+</strong> Years of Working Experience. Creating <strong>We
 
 <p align="justify"> Database </p>
 
-> SQL | [SSMS](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver15)
+> SQL | [SSMS](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms)
 
 <p align="justify"> Interactive Development Environment </p>
 
