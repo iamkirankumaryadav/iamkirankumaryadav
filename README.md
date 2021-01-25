@@ -62,6 +62,10 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
 
 > [Tableau](https://www.tableau.com/) | [Power BI](https://powerbi.microsoft.com/en-us/) | [Google Charts](https://developers.google.com/chart)
 
+<p align="justify"> Environment </p>
+
+> [Anaconda](https://www.anaconda.com/) | [Jupyter](https://jupyter.org/)
+
 <p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
 
 ---
@@ -87,7 +91,9 @@ I have over <strong>3+</strong> Years of Working Experience. Creating <strong>We
 
 > SQL | [SSMS](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver15)
 
-> Interactive Development Environment : [IDLE](https://docs.python.org/3/library/idle.html) | [PyCharm](https://www.jetbrains.com/pycharm/) | [R Studio](https://rstudio.com/products/rstudio/download/) | [Microsoft Visual Studio](https://visualstudio.microsoft.com/vs/) | [Microsoft SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver15)
+<p align="justify"> Interactive Development Environment </p>
+
+> [IDLE](https://docs.python.org/3/library/idle.html) | [PyCharm](https://www.jetbrains.com/pycharm/) | [R Studio](https://rstudio.com/products/rstudio/download/) | [Microsoft Visual Studio](https://visualstudio.microsoft.com/vs/) | [Microsoft SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver15)
 
 <p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
 
