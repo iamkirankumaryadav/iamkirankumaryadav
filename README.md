@@ -146,9 +146,9 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 <p align="justify"> Workflow</p>
  
-> Data Preprocessing, Data Manipulation, Data Cleaning, Exploration Data Analysis, Data Modeling and Data Visualization using Python.
+> Data Preprocessing, Data Manipulation, Data Cleaning, Exploration Data Analysis, Data Modeling and Data Visualization using [Python](https://www.python.org/).
 
-> Well Versed with Important Python Libraries like Pandas, NumPy, Matplotlib, Pyplot, Bokeh, Seaborn, TensorFlow, Scikit Learn,etc.
+> Well Versed with Important [Python](https://www.python.org/) Libraries like [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [Plotly](https://plotly.com/), [Bokeh](https://bokeh.org/), [Scikit Learn](https://scikit-learn.org/), [TensorFlow](https://www.tensorflow.org/), [Streamlit](https://www.streamlit.io/) etc.
 
 > Comfortable with Data Visualization Tools like Tableau and Power BI.
 
@@ -169,7 +169,7 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 <h3 name="interest" align="center">Hobbies and Interests 🧠🏃🏻‍♂️</h3>
 
 <p align="justify">
-Apart from <strong>Data Science</strong> and <strong>Development</strong>, I Enjoy most of My Time <strong>Learning New Things</strong>, keeping Myself Busy and Use My Time Precisely, Love to Spend My Free Time Exploring <strong>Technology Advancements</strong> in the Digital World, <strong>Smartphones</strong>, <strong>Tablets</strong>, <strong>Laptops</strong> and Every New Gadgets. Exploring there <strong>UI</strong>, <strong>UX</strong> and <strong>OS</strong> Enhancements. Love Exploring <strong>UI</strong>  Design, <strong>Graphic</strong> Designs, <strong>Web</strong> Designs and <strong>Productivity Utility Tools</strong>.
+Apart from <strong>Data Science</strong>, <strong>Development</strong> and <strong>Design</strong>, I Enjoy most of My Time <strong>Learning New Things</strong>, keeping Myself Busy and Use My Time Precisely, Love to Spend My Free Time Exploring <strong>Technology Advancements</strong> in the Digital World, <strong>Smartphones</strong>, <strong>Tablets</strong>, <strong>Laptops</strong> and Every New Gadgets. Exploring there <strong>UI</strong>, <strong>UX</strong> and <strong>OS</strong> Enhancements. Love Exploring <strong>UI</strong>  Design, <strong>Graphic</strong> Designs, <strong>Web</strong> Designs and <strong>Productivity Utility Tools</strong>.
 </p>
 
 <p align="justify">
