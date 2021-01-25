@@ -24,7 +24,7 @@
 
 
 <h4 align="center" width="100%">
-  <a href="#education"> Portfolio </a> |
+  <a href="https://kirankumar7296.github.io/Portfolio/"> Portfolio </a> |
   <a href="https://kirankumar7296.github.io/Resume/"> Resume </a> |
   <a href="#education"> Education </a> |
   <a href="#skill"> Skills </a> | 
@@ -119,6 +119,10 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 <p align="justify"> Design Tools </p>
 
 > [Canva](https://www.canva.com/en_gb/) | [Adobe XD](https://www.adobe.com/in/products/xd.html) | [Framer](https://www.framer.com/) | [Figma](https://www.figma.com/)
+
+<p align="justify"> Productivity Tools </p>
+
+> [Notion](https://www.notion.so/) | [Behance](https://www.behance.net/) | [Dribble](https://dribbble.com/) | [Pinterest](https://in.pinterest.com/)
 
 <p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
 
