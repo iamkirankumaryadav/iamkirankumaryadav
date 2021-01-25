@@ -148,7 +148,7 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
  
 > Data Preprocessing, Data Manipulation, Data Cleaning, Exploration Data Analysis, Data Modeling and Data Visualization using [Python](https://www.python.org/).
 
-> Well Versed with Important [Python](https://www.python.org/) Libraries like [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [Plotly](https://plotly.com/), [Bokeh](https://bokeh.org/), [Scikit Learn](https://scikit-learn.org/), [TensorFlow](https://www.tensorflow.org/), [Streamlit](https://www.streamlit.io/) etc.
+> Well Versed with Important [Python](https://www.python.org/) Libraries like [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [Plotly](https://plotly.com/), [Bokeh](https://bokeh.org/), [Scikit Learn](https://scikit-learn.org/), [TensorFlow](https://www.tensorflow.org/) etc.
 
 > Comfortable with Data Visualization Tools like Tableau and Power BI.
 
@@ -160,7 +160,7 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 > Familiar with Static Site Generators like Markdown, Jekyll, Middleman, Hugo.
 
-> Comfortable with Streamlit and Heroku for Building, Sharing, Deploying and Managing Data Apps.
+> Comfortable with [Streamlit](https://www.streamlit.io/) and Heroku for Building, Sharing, Deploying and Managing Data Apps.
 
 <p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
 
