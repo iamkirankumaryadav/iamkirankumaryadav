@@ -150,15 +150,15 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 > Well Versed with Important [Python](https://www.python.org/) Libraries like [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [Plotly](https://plotly.com/), [Bokeh](https://bokeh.org/), [Scikit Learn](https://scikit-learn.org/), [TensorFlow](https://www.tensorflow.org/) etc.
 
-> Comfortable with Data Visualization Tools like Tableau and Power BI.
+> Comfortable with Data Visualization Tools like [Tableau](https://www.tableau.com/), [Power BI](https://powerbi.microsoft.com/en-us/) and [Google Charts](https://developers.google.com/chart).
 
-> Handling Data using Microsoft SQL Server Management Studio and Microsoft Excel.
+> Handling Data using [Microsoft SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms) and [Microsoft Excel](https://www.microsoft.com/en-in/microsoft-365/excel).
 
-> Creating Web Forms and Active Server Pages using ASP.NET Framework, C# and SQL.
+> Creating Web Forms and Active Server Pages using [ASP.NET](https://dotnet.microsoft.com/apps/aspnet) Framework, [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) and SQL.
 
 > Design and Development of Website using HTML, CSS, JavaScript, Bootstrap.
 
-> Familiar with Static Site Generators like Markdown, Jekyll, Middleman, Hugo.
+> Familiar with Static Site Generators like [Markdown](https://www.markdownguide.org/), [Jekyll](https://jekyllrb.com/), [Hugo](https://gohugo.io/) and [MiddleMan](https://middlemanapp.com/). 
 
 > Comfortable with [Streamlit](https://www.streamlit.io/) and Heroku for Building, Sharing, Deploying and Managing Data Apps.
 
