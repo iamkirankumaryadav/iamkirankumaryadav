@@ -178,23 +178,15 @@ Apart from <strong>Data Science</strong> and <strong>Development</strong>, I Enj
 
 <p align="justify"> Kaggle </p>
 
-> [Python](PDF/KagglePython.png)
-
-> [Pandas](PDF/KagglePandas.png)
+> [Python](PDF/KagglePython.png) | [Pandas](PDF/KagglePandas.png)
 
 <p align="justify"> Great Learning </p>
 
-> [Data Visualization using Python](PDF/GLDataVisualization.pdf)
-
-> [Python for Machine Learning](PDF/GLPythonMachineLearning.pdf)
+> [Data Visualization using Python](PDF/GLDataVisualization.pdf) | [Python for Machine Learning](PDF/GLPythonMachineLearning.pdf)
 
 <p align="justify"> 365 Data Science </p>
 
-> [The Python Programmer Bootcamp](PDF/365ThePythonProgrammerBootcamp.pdf)
-
-> [Tableau](PDF/365Tableau.pdf)
-
-> [Git and GitHub](PDF/365GitAndGitHub.pdf)
+> [The Python Programmer Bootcamp](PDF/365ThePythonProgrammerBootcamp.pdf) | [Tableau](PDF/365Tableau.pdf) | [Git and GitHub](PDF/365GitAndGitHub.pdf)
 
 <p align="justify"> Edureka </p>
 
