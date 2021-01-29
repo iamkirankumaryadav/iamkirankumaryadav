@@ -24,7 +24,7 @@
 <h4 align="center" width="100%">
   <a href="https://kirankumar7296.github.io/Portfolio"> Portfolio </a> |
   <a href="https://kirankumar7296.github.io/Resume"> Resume </a> |
-  <a href="PDF/Resume.pdf"> CV PDF </a> |
+  <a href="PDF/Resume.pdf"> PDF </a> |
   <a href="#education"> Education </a> |
   <a href="#skill"> Skills </a> | 
   <a href="#interest"> Interests </a> | 
