@@ -16,7 +16,7 @@
 
 <h1 name="name" align="center">Kirankumar Yadav</h1>
 
-<p align="center">🚀 A <strong>Data Science Specialist</strong>  |  A <strong>Full Stack Developer</strong>  |  A <strong>Web Designer and Developer</strong>.</p>  
+<p align="center">🚀 <strong>Data Science Specialist</strong>  | <strong>Full Stack Developer</strong>  | <strong>Web Designer and Developer</strong>.</p>  
 <p align="center">🤖 Data Science | Python | Interactive Visualization | Machine Learning | Artificial Intelligence.</p>
 <p align="center">💻 Web Design | UI Design | Graphic Design | Illustration.</p>
 
