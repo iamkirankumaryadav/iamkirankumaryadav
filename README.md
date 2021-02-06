@@ -80,7 +80,7 @@ I have over <strong>3+</strong> Years of Working Experience. Creating <strong>We
 
 <p align="justify"> Back End </p>
 
-> [Python](https://www.python.org/) | [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) | [ASP.NET](https://dotnet.microsoft.com/apps/aspnet)
+> [Python](https://www.python.org/) | [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) | [ASP.NET](https://dotnet.microsoft.com/apps/aspnet) | SQL
 
 <p align="justify"> Database </p>
 
