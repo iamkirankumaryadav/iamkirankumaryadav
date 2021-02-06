@@ -63,7 +63,7 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
 
 <p align="justify"> Environment </p>
 
-> [Microsoft Visual Studio Code](https://code.visualstudio.com/) | [RStudio](https://rstudio.com/) | [Anaconda](https://www.anaconda.com/) | [Jupyter](https://jupyter.org/)
+> [Microsoft Visual Studio Code](https://code.visualstudio.com/) | [R Studio](https://rstudio.com/) | [Anaconda](https://www.anaconda.com/) | [Jupyter](https://jupyter.org/)
 
 <p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
 
