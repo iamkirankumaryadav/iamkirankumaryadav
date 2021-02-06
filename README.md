@@ -51,7 +51,7 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
   
 <p align="justify"> Language </p>
 
-> [R](https://www.r-project.org/) | [Python](https://www.python.org/) | SQL
+> [Python](https://www.python.org/) | SQL
   
 <p align="justify"> Libraries </p>
 
