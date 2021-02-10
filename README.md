@@ -69,7 +69,7 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
 
 ---
 
-<h3 name="full-stack-development" align="center">Full Stack Development 🖥💻</h3>
+<h3 name="full-stack-development" align="center">🖥 Full Stack Development 💻</h3>
 <p align="justify">
 I have over <strong>3+</strong> Years of Working Experience. Creating <strong>Web Forms</strong> and <strong>Active Server Pages</strong> using <a href="https://dotnet.microsoft.com/apps/aspnet">ASP.NET</a> Framework and <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">C#</a> Programming Language over Integrated Development Environment of <a href="https://visualstudio.microsoft.com/vs/">Microsoft Visual Studio</a> and <a href="https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms">Microsoft SQL Server Management Studio</a>. Projects are Completely Responsive, working for Desktops and Tablets.
 </p>
@@ -161,7 +161,7 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 ---
 
-<h3 name="interest" align="center">Hobbies and Interests 🧠🏃🏻‍♂️</h3>
+<h3 name="interest" align="center">🧠 Hobbies and Interests 🏃🏻‍♂️</h3>
 
 <p align="justify">
 Apart from <strong>Data Science</strong>, <strong>Development</strong> and <strong>Design</strong>, I Enjoy most of My Time <strong>Learning New Things</strong>, keeping Myself Busy and Use My Time Precisely, Love to Spend My Free Time Exploring <strong>Technology Advancements</strong> in the Digital World, <strong>Smartphones</strong>, <strong>Tablets</strong>, <strong>Laptops</strong> and Every New Gadgets. Exploring there <strong>UI</strong>, <strong>UX</strong> and <strong>OS</strong> Enhancements. Love Exploring <strong>UI</strong>  Design, <strong>Graphic</strong> Designs, <strong>Web</strong> Designs and <strong>Productivity Utility Tools</strong>.
