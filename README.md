@@ -123,7 +123,7 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 ---
 
-<h3 name="education" align="center">Education 🎓</h3>
+<h3 name="education" align="center">🏫 Education 🎓</h3>
 
 <p align="justify"> University of Mumbai</p>
   
