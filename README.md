@@ -101,11 +101,7 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 <p align="justify"> Front End </p>
 
-> [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) | [CSS3](https://css-tricks.com/) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [Bootstrap](https://getbootstrap.com/) 
-
-<p align="justify"> Static Front End </p>
-
-> [Markdown](https://www.markdownguide.org/) | [Jekyll](https://jekyllrb.com/) | [Hugo](https://gohugo.io/) | [MiddleMan](https://middlemanapp.com/) 
+> [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) | [CSS3](https://css-tricks.com/) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [Bootstrap](https://getbootstrap.com/) | [Markdown](https://www.markdownguide.org/)
   
 <p align="justify"> Text Editors </p>
 
