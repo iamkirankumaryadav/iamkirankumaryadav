@@ -83,11 +83,11 @@ I have over <strong>3+</strong> Years of Working Experience. Creating <strong>We
 
 <p align="justify"> Database </p>
 
-> SQL | [SSMS](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms)
+> SQL | [Microsoft SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms)
 
 <p align="justify"> Interactive Development Environment </p>
 
-> [Microsoft Visual Studio](https://visualstudio.microsoft.com/vs/) | [Microsoft SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver15)
+> [Microsoft Visual Studio](https://visualstudio.microsoft.com/vs/) 
 
 <p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
 
