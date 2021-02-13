@@ -21,13 +21,13 @@
 
 
 <h4 align="center" width="100%">
-  <a href="https://kirankumar7296.github.io/Portfolio"> Portfolio </a> |
-  <a href="https://kirankumar7296.github.io/Resume"> Resume </a> |
-  <a href="PDF/Resume.pdf"> PDF </a> |
-  <a href="#education"> Education </a> |
-  <a href="#skill"> Skills </a> | 
-  <a href="#interest"> Interests </a> | 
-  <a href="#certification"> Certifications </a>
+  <a href="https://kirankumar7296.github.io/Portfolio"> <strong>Portfolio</strong> </a> |
+  <a href="https://kirankumar7296.github.io/Resume"> <strong>Resume</strong> </a> |
+  <a href="PDF/Resume.pdf"> <strong>PDF</strong> </a> |
+  <a href="#education"> <strong>Education</strong> </a> |
+  <a href="#skill"> <strong>Skills</strong> </a> | 
+  <a href="#interest"> <strong>Interests</strong> </a> | 
+  <a href="#certification"> <strong>Certifications</strong> </a>
 </h4>
 
 
