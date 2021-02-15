@@ -176,9 +176,9 @@ Apart from <strong>Data Science</strong>, <strong>Development</strong> and <stro
 
 <p align="justify"> Edvancer Eduventures</p>
  
-> [**Data Scientist** - Post Graduate Certification in Data Science : Machine Learning](PDF/CertifiedDataScienceSpecialist.pdf)
+> [**Data Scientist** - Post Graduate Certification in Data Science : **Machine Learning**](PDF/CertifiedDataScienceSpecialist.pdf)
 
-> [**Data Scientist** - Post Graduate Certification in Data Science : Deep Learning](PDF/CertifiedDataScientistSpecialist.pdf)
+> [**Data Scientist** - Post Graduate Certification in Data Science : **Deep Learning**](PDF/CertifiedDataScientistSpecialist.pdf)
 
 <p align="justify"> DataCamp </p>
 
