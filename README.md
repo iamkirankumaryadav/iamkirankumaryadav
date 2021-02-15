@@ -176,7 +176,7 @@ Apart from <strong>Data Science</strong>, <strong>Development</strong> and <stro
 
 <p align="justify"> Edvancer Eduventures</p>
  
-> [Certified Data Science Specialist](PDF/CertifiedDataScienceSpecialist.pdf)
+> [Certified Data Scientist | Specialist](PDF/CertifiedDataScienceSpecialist.pdf)
 
 <p align="justify"> DataCamp </p>
 
