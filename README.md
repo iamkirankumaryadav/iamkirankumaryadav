@@ -130,11 +130,11 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 <p align="justify"> Higher Secondary School Certificate <strong>12<sup>th</sup></strong></p>
   
-> **65.83 %** | May 2013
+> <strong>65.83 %</strong> | May 2013
 
 <p align="justify"> Secondary School Certificate <strong>10<sup>th</sup></strong></p>
   
-> **89.82 %** | May 2011
+> <strong>89.82 %</strong> | May 2011
 
 <p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
 
