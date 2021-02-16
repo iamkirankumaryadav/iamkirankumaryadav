@@ -122,7 +122,7 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 <p align="justify"> University of Mumbai</p>
   
-> Bachelor of Engineering  (May 2013 - May 2017) : **Computer Engineering** (SGPI | 8.52)
+> Bachelor of Engineering  (May 2013 - May 2017) : **Computer Engineering** (CGPA - 7.54)
 
 <p align="justify">Edvancer Eduventures</p>
 
