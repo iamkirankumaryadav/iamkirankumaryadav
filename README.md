@@ -120,13 +120,21 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 <h3 name="education" align="center">Education 🎓</h3>
 
-<p align="justify"> University of Mumbai</p>
-  
-> Bachelor of Engineering  (May 2013 - May 2017) : **Computer Engineering** (CGPA - 7.54)
-
 <p align="justify">Edvancer Eduventures</p>
 
 > Post Graduate Certification in [**Data Science**](PDF/CertifiedDataScienceSpecialist.pdf) and [**Artificial Intelligence**](PDF/CertifiedDataScientistSpecialist.pdf)
+
+<p align="justify"> University of Mumbai</p>
+  
+> Bachelor of Engineering | **Computer Engineering** | CGPA - 7.54 | May 2013 - May 2017 
+
+<p align="justify"> Higher Secondary School Certificate **12<sup>th</sup>**</p>
+  
+> **65.83 %** | May 2013
+
+<p align="justify"> Secondary School Certificate **10<sup>th</sup>**</p>
+  
+> **89.82 %** | May 2011
 
 <p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
 
