@@ -169,7 +169,7 @@ Apart from <strong>Data Science</strong>, <strong>Development</strong> and <stro
 </p>
 
 <p align="justify">
-  Exploring **Data Science** World and Inventions in **Artificial Intelligence** (ML, DL, NLP, Neural Network, Computer Vision, IoT, etc.) is My Hobby.
+  Exploring <strong>Data Science</strong> World and Inventions in <strong>Artificial Intelligence</strong> (ML, DL, NLP, Neural Network, Computer Vision, IoT, etc.) is My Hobby.
 </p>
 
 <p align="justify">
