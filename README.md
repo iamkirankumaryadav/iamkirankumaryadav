@@ -128,11 +128,11 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
   
 > Bachelor of Engineering | **Computer Engineering** | CGPA - 7.54 | May 2013 - May 2017 
 
-<p align="justify"> Higher Secondary School Certificate **12**<sup>th</sup></p>
+<p align="justify"> Higher Secondary School Certificate <strong>12<sup>th</sup></strong></p>
   
 > **65.83 %** | May 2013
 
-<p align="justify"> Secondary School Certificate **10**<sup>th</sup></p>
+<p align="justify"> Secondary School Certificate <strong>10<sup>th</sup></strong></p>
   
 > **89.82 %** | May 2011
 
