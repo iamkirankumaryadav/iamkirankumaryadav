@@ -54,7 +54,7 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
   
 <p align="justify"> Libraries </p>
 
-> [Pandas](https://pandas.pydata.org/) | [NumPy](https://numpy.org/) | [Matplotlib](https://matplotlib.org/) | [Seaborn](https://seaborn.pydata.org/) | [Plotly](https://plotly.com/) | [Bokeh](https://bokeh.org/) | [Scikit Learn](https://scikit-learn.org/) | [TensorFlow](https://www.tensorflow.org/) | [Keras](https://keras.io/) | [OpenCV](https://opencv.org/) 
+> [Pandas](https://pandas.pydata.org/) | [NumPy](https://numpy.org/) | [SciPy](https://www.scipy.org/) | [Matplotlib](https://matplotlib.org/) | [Seaborn](https://seaborn.pydata.org/) | [Plotly](https://plotly.com/) | [Bokeh](https://bokeh.org/) | [Scikit Learn](https://scikit-learn.org/) | [TensorFlow](https://www.tensorflow.org/) | [Keras](https://keras.io/) | [OpenCV](https://opencv.org/) | [PyTorch](https://pytorch.org/)
 
 <p align="justify"> Data Visualization Tools </p>
 
