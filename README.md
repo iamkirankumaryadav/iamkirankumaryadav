@@ -190,7 +190,7 @@ Apart from <strong>Data Science</strong>, <strong>Development</strong> and <stro
 
 <p align="justify"> DataCamp </p>
 
-> [Python](PDF/Python.pdf) | [Data Analysis in Excel](PDF/DataAnalysisExcel.pdf) | [Data Cleaning in Python](PDF/DataCleaningPython.pdf) | [Data Manipulation with Pandas](PDF/DataManipulationPandas.pdf) | [Exploratory Data Analysis in Python](PDF/EDAPython.pdf)
+> [Python](PDF/Python.pdf) | [**Data Analysis** in **Excel**](PDF/DataAnalysisExcel.pdf) | [**Data Cleaning** in Python](PDF/DataCleaningPython.pdf) | [**Data Manipulation** with **Pandas**](PDF/DataManipulationPandas.pdf) | [**Exploratory Data Analysis** in Python](PDF/EDAPython.pdf)
 
 <p align="justify"> Kaggle </p>
 
