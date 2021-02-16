@@ -126,7 +126,7 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 <p align="justify">Edvancer Eduventures</p>
 
-> Post Graduate Certification in **Data Science** and **Artificial Intelligence** : **[Certified Data Scientist](PDF/CertifiedDataScienceSpecialist.pdf)**
+> Post Graduate Certification in [**Data Science**](PDF/CertifiedDataScienceSpecialist.pdf) and [**Artificial Intelligence**](PDF/CertifiedDataScientistSpecialist.pdf)
 
 <p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
 
