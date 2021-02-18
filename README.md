@@ -144,19 +144,19 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 <p align="justify"> Workflow</p>
  
-> Data Preprocessing, Data Manipulation, **Data Cleaning**, Exploration Data Analysis, Data Modeling and **Data Visualization**.
+> Data **Preprocessing**, **Manipulation**, **Cleaning**, **Exploration Data Analysis**, **Modeling** and **Visualization** using **Python**.
 
 > Well Versed with Important [Python](https://www.python.org/) Libraries like [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [Plotly](https://plotly.com/), [Bokeh](https://bokeh.org/), [Scikit Learn](https://scikit-learn.org/), [TensorFlow](https://www.tensorflow.org/) etc.
 
-> Comfortable with Data Visualization Tools like [Tableau](https://www.tableau.com/), [Power BI](https://powerbi.microsoft.com/en-us/) and [Google Charts](https://developers.google.com/chart).
+> Comfortable with **Data Visualization** Tools like [**Tableau**](https://www.tableau.com/) and [**Google Charts**](https://developers.google.com/chart).
 
-> Handling Data using [Microsoft SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms) and [Microsoft Excel](https://www.microsoft.com/en-in/microsoft-365/excel).
+> Handling Data using [**Microsoft SQL Server Management Studio**](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms) and [**Microsoft Excel**](https://www.microsoft.com/en-in/microsoft-365/excel).
 
-> Creating Web Forms and Active Server Pages using [ASP.NET](https://dotnet.microsoft.com/apps/aspnet) Framework, [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) and SQL.
+> Creating **WCF Services**, **Web Forms** and **Active Server Pages** using [**ASP.NET**](https://dotnet.microsoft.com/apps/aspnet) Framework, [**C#**](https://docs.microsoft.com/en-us/dotnet/csharp/) and SQL.
 
-> Design and Development of Website using HTML, CSS, JavaScript, [Bootstrap](https://getbootstrap.com/) and [Markdown](https://www.markdownguide.org/). 
+> Design and Development of Website using **HTML**, **CSS**, **JavaScript**, [**Bootstrap**](https://getbootstrap.com/) and [**Markdown**](https://www.markdownguide.org/). 
 
-> Comfortable with [Streamlit](https://www.streamlit.io/) and [Heroku](https://www.heroku.com/) for Building, Sharing, Deploying and Managing Data Apps.
+> Comfortable with [**Streamlit**](https://www.streamlit.io/) and [**Heroku**](https://www.heroku.com/) for **Building**, **Sharing**, **Deploying** and **Managing** **Data Apps**.
 
 <p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
 
