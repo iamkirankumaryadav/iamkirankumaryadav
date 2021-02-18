@@ -48,23 +48,23 @@ Being Passionate about <strong>Data Science</strong>, I keep working on New Data
 Executing <strong>Analytical Experiments</strong> and Applying My <strong>Business Knowledge</strong> to Solve various Business related Problems. <strong>Data Preprocessing</strong>, <strong>Data Cleaning</strong>, <strong>Data Exploration</strong>, <strong>Data Modeling</strong> and <strong>Data Visualization</strong> using <a href="https://www.python.org/"><strong>Python</strong></a>. Identifying Relevant Data, Cleaning Data, Understanding <strong>Hidden Patterns</strong> and <strong>Relationships</strong> using <strong>Graphs</strong> and <strong>Charts</strong>, Exploring the Data and Applying <strong>Machine Learning</strong> Algorithms, Performing Data and Error Analysis to Improve Accuracy. <strong>Data Cleaning</strong> and <strong>Data Visualization</strong> is My Favourite Part in the <strong>Data Science</strong> Process. Well Versed with <a href="https://jupyter.org/"><strong>Jupyter</strong></a> and <a href="https://www.anaconda.com/"><strong>Anaconda</strong></a> Environment for My <strong>Data Analysis</strong> Task. Comfortable with <a href="https://www.streamlit.io/sharing"><strong>Streamlit Sharing</strong></a> and <a href="https://www.heroku.com/"><strong>Heroku</strong></a> for <strong>Building</strong>, <strong>Sharing</strong>, <strong>Deploying</strong> and <strong>Managing</strong> <strong>Data Applications</strong>.
 </p>
   
-<p align="justify"> Language </p>
+<p align="justify"> <strong>Language</strong> </p>
 
 > [**Python**](https://www.python.org/) | **SQL**
   
-<p align="justify"> Libraries </p>
+<p align="justify"> <strong>Libraries</strong> </p>
 
 > [**Pandas**](https://pandas.pydata.org/) | [**NumPy**](https://numpy.org/) | [**SciPy**](https://www.scipy.org/) | [**Matplotlib**](https://matplotlib.org/) | [**Seaborn**](https://seaborn.pydata.org/) | [**Plotly**](https://plotly.com/) | [**Bokeh**](https://bokeh.org/) | [**Scikit Learn**](https://scikit-learn.org/) | [**TensorFlow**](https://www.tensorflow.org/) | [**Keras**](https://keras.io/) | [**OpenCV**](https://opencv.org/) | [**PyTorch**](https://pytorch.org/)
 
-<p align="justify"> Data Visualization Tools </p>
+<p align="justify"> <strong>Data Visualization Tools</strong> </p>
 
 > [**Tableau**](https://www.tableau.com/) | [**Google Charts**](https://developers.google.com/chart)
 
-<p align="justify"> Environment </p>
+<p align="justify"> <strong>Environment</strong> </p>
 
 > [**PyCharm**](https://www.jetbrains.com/pycharm/) | [**Microsoft Visual Studio Code**](https://code.visualstudio.com/) | [**R Studio**](https://rstudio.com/) | [**Anaconda**](https://www.anaconda.com/) | [**Jupyter**](https://jupyter.org/)
 
-<p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
+<p align="right"><a href="#name" align="right"> <strong>Go Back to Top</strong></a></p>
 
 ---
 
