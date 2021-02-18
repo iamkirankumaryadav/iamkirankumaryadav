@@ -77,19 +77,19 @@ I have over <strong>3+</strong> Years of Working Experience. Creating <strong>We
 
 > [**HTML5**](https://developer.mozilla.org/en-US/docs/Web/HTML) | [**CSS3**](https://css-tricks.com/) | [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [**Bootstrap**](https://getbootstrap.com/)
 
-<p align="justify"> Back End </p>
+<p align="justify"> <strong>Back End</strong> </p>
 
-> [Python](https://www.python.org/) | [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) | [ASP.NET](https://dotnet.microsoft.com/apps/aspnet) 
+> [**Python**](https://www.python.org/) | [**C#**](https://docs.microsoft.com/en-us/dotnet/csharp/) | [**ASP.NET**](https://dotnet.microsoft.com/apps/aspnet) 
 
-<p align="justify"> Database </p>
+<p align="justify"> <strong>Database</strong> </p>
 
-> SQL | [Microsoft SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms)
+> **SQL** | [**Microsoft SQL Server Management Studio**](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms)
 
-<p align="justify"> Interactive Development Environment </p>
+<p align="justify"> <strong>Interactive Development Environment</strong> </p>
 
-> [Microsoft Visual Studio](https://visualstudio.microsoft.com/vs/) 
+> [**Microsoft Visual Studio**](https://visualstudio.microsoft.com/vs/) 
 
-<p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
+<p align="right"><a href="#name" align="right"> <strong>Go Back to Top</strong></a></p>
 
 ---
 
@@ -98,23 +98,23 @@ I have over <strong>3+</strong> Years of Working Experience. Creating <strong>We
 Passionate and Creative for <strong>Website</strong> Designs, Customizations, Layouts, Forms, Components, Utilities, Icons, Styles, Navigations, Colors, Graphics, Vectors, Isometric Illustrations, <strong>Data Representation</strong>, <strong>Data Visualization</strong> and Everything that can make a <strong>Website</strong> and <strong>Visual Content</strong> Look Delightful. Iam Well Versed with <strong>Front End Responsive Frameworks</strong>.
 </p>
 
-<p align="justify"> Front End </p>
+<p align="justify"> <strong>Front End</strong> </p>
 
-> [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) | [CSS3](https://css-tricks.com/) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [Bootstrap](https://getbootstrap.com/) | [Markdown](https://www.markdownguide.org/)
+> [**HTML5**](https://developer.mozilla.org/en-US/docs/Web/HTML) | [**CSS3**](https://css-tricks.com/) | [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [**Bootstrap**](https://getbootstrap.com/) | [**Markdown**](https://www.markdownguide.org/)
   
-<p align="justify"> Text Editors </p>
+<p align="justify"> <strong>Text Editors</strong> </p>
 
-> [Microsoft Visual Studio Code](https://code.visualstudio.com/) | [Sublime Text](https://www.sublimetext.com/) | [Atom](https://atom.io/) | [Bracket](http://brackets.io/)
+> [**Microsoft Visual Studio Code**](https://code.visualstudio.com/) | [**Sublime Text**](https://www.sublimetext.com/) | [**Atom**](https://atom.io/) | [**Bracket**](http://brackets.io/)
 
-<p align="justify"> Design Tools </p>
+<p align="justify"> <strong>Design Tools</strong> </p>
 
-> [Canva](https://www.canva.com/en_gb/) | [Adobe XD](https://www.adobe.com/in/products/xd.html) | [Framer](https://www.framer.com/) | [Figma](https://www.figma.com/)
+> [**Canva**](https://www.canva.com/en_gb/) | [**Adobe XD**](https://www.adobe.com/in/products/xd.html) | [**Framer**](https://www.framer.com/) | [**Figma**](https://www.figma.com/)
 
-<p align="justify"> Productivity Tools </p>
+<p align="justify"> <strong>Productivity Tools</strong> </p>
 
-> [Notion](https://www.notion.so/) | [Behance](https://www.behance.net/) | [Dribble](https://dribbble.com/) | [Pinterest](https://in.pinterest.com/)
+> [**Notion**](https://www.notion.so/) | [**Behance**](https://www.behance.net/) | [**Dribble**](https://dribbble.com/) | [**Pinterest**](https://in.pinterest.com/)
 
-<p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
+<p align="right"><a href="#name" align="right"> <strong>Go Back to Top<strong></a></p>
 
 ---
 
@@ -136,13 +136,13 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
   
 > <strong>89.82 %</strong> | May 2011
 
-<p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
+<p align="right"><a href="#name" align="right"> <strong>Go Back to Top</strong></a></p>
 
 ---
 
 <h3 name="skill" align="center">Skills 👨🏻‍💻</h3>
 
-<p align="justify"> Workflow</p>
+<p align="justify"> <strong>Workflow</strong></p>
  
 > Data **Preprocessing**, **Manipulation**, **Cleaning**, **Exploration Data Analysis**, **Modeling** and **Visualization** using **Python**.
 
@@ -158,7 +158,7 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 > Comfortable with [**Streamlit**](https://www.streamlit.io/) and [**Heroku**](https://www.heroku.com/) for **Building**, **Sharing**, **Deploying** and **Managing** **Data Apps**.
 
-<p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
+<p align="right"><a href="#name" align="right"> <strong>Go Back to Top</strong></a></p>
 
 ---
 
@@ -208,7 +208,7 @@ Apart from <strong>Data Science</strong>, <strong>Development</strong> and <stro
 
 > [**Artificial Intelligence** and **Machine Learning** Workshop](PDF/EdurekaWorkshop.pdf)
 
-<p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
+<p align="right"><a href="#name" align="right"> <strong>Go Back to Top</strong></a></p>
 
 ---
 
