@@ -182,29 +182,29 @@ Apart from <strong>Data Science</strong>, <strong>Development</strong> and <stro
 
 <h3 name="certification" align="center">Certifications 🚀</h3>
 
-<p align="justify"> Edvancer Eduventures</p>
+<p align="justify"> <strong>Edvancer Eduventures</strong></p>
  
 > [**Data Scientist** - Post Graduate Certification in **Data Science**](PDF/CertifiedDataScienceSpecialist.pdf)
 
 > [**Data Scientist** - Post Graduate Certification in **Artificial Intelligence**](PDF/CertifiedDataScientistSpecialist.pdf)
 
-<p align="justify"> DataCamp </p>
+<p align="justify"> <strong>DataCamp</strong> </p>
 
 > [Python](PDF/Python.pdf) | [**Data Analysis** in **Excel**](PDF/DataAnalysisExcel.pdf) | [**Data Cleaning** in Python](PDF/DataCleaningPython.pdf) | [**Data Manipulation** with **Pandas**](PDF/DataManipulationPandas.pdf) | [**Exploratory Data Analysis** in Python](PDF/EDAPython.pdf)
 
-<p align="justify"> Kaggle </p>
+<p align="justify"> <strong>Kaggle</strong> </p>
 
 > [Python](PDF/KagglePython.png) | [Pandas](PDF/KagglePandas.png)
 
-<p align="justify"> Great Learning </p>
+<p align="justify"> <strong>Great Learning</strong> </p>
 
 > [**Data Visualization** using Python](PDF/GLDataVisualization.pdf) | [Python for **Machine Learning**](PDF/GLPythonMachineLearning.pdf)
 
-<p align="justify"> 365 Data Science </p>
+<p align="justify"> <strong>365 Data Science</strong> </p>
 
 > [The Python Programmer **Bootcamp**](PDF/365ThePythonProgrammerBootcamp.pdf) | [**Tableau**](PDF/365Tableau.pdf) | [Git and GitHub](PDF/365GitAndGitHub.pdf)
 
-<p align="justify"> Edureka </p>
+<p align="justify"> <strong>Edureka</strong> </p>
 
 > [**Artificial Intelligence** and **Machine Learning** Workshop](PDF/EdurekaWorkshop.pdf)
 
