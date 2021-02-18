@@ -58,11 +58,11 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
 
 <p align="justify"> Data Visualization Tools </p>
 
-> [Tableau](https://www.tableau.com/) | [Power BI](https://powerbi.microsoft.com/en-us/) | [Google Charts](https://developers.google.com/chart)
+> [**Tableau**](https://www.tableau.com/) | [**Google Charts**](https://developers.google.com/chart)
 
 <p align="justify"> Environment </p>
 
->  [IDLE](https://docs.python.org/3/library/idle.html) | [PyCharm](https://www.jetbrains.com/pycharm/) | [Microsoft Visual Studio Code](https://code.visualstudio.com/) | [R Studio](https://rstudio.com/) | [Anaconda](https://www.anaconda.com/) | [Jupyter](https://jupyter.org/)
+> [**PyCharm**](https://www.jetbrains.com/pycharm/) | [**Microsoft Visual Studio Code**](https://code.visualstudio.com/) | [**R Studio**](https://rstudio.com/) | [**Anaconda**](https://www.anaconda.com/) | [**Jupyter**](https://jupyter.org/)
 
 <p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
 
