@@ -184,9 +184,7 @@ Apart from <strong>Data Science</strong>, <strong>Development</strong> and <stro
 
 <p align="justify"> <strong>Edvancer Eduventures</strong></p>
  
-> [**Data Scientist** - Post Graduate Certification in **Data Science**](PDF/CertifiedDataScienceSpecialist.pdf)
-
-> [**Data Scientist** - Post Graduate Certification in **Artificial Intelligence**](PDF/CertifiedDataScientistSpecialist.pdf)
+> [**Data Scientist** - Post Graduate Certification in **Data Science**](PDF/CertifiedDataScienceSpecialist.pdf) and [**Artificial Intelligence**](PDF/CertifiedDataScientistSpecialist.pdf)
 
 <p align="justify"> <strong>DataCamp</strong> </p>
 
