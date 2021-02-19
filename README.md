@@ -194,7 +194,7 @@ Apart from <strong>Data Science</strong>, <strong>Development</strong> and <stro
 
 <p align="justify"> <strong>LinkedIn Learning</strong> </p>
 
-> [Python Object Oriented Programming](PDF/PythonOOP.pdf) 
+> [Python Object Oriented Programming](PDF/LinkedInPythonOOP.pdf) 
  
 <p align="justify"> <strong>Kaggle</strong> </p>
 
