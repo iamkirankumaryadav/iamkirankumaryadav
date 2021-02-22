@@ -19,7 +19,6 @@
 <p align="center">🤖 <strong>Data Science</strong> | <strong>Python</strong> | <strong>Interactive Visualization</strong> | <strong>Machine Learning</strong> | <strong>Artificial Intelligence</strong></p>
 <p align="center">💻 <strong>Web Design</strong> | <strong>UI Design</strong> | <strong>Graphic Design</strong> | <strong>Illustration</strong></p>
 
-
 <h4 align="center" width="100%">
   <a href="https://kirankumar7296.github.io/Portfolio"> <strong>Portfolio</strong> </a> |
   <a href="https://kirankumar7296.github.io/Resume"> <strong>Resume</strong> </a> |
@@ -29,7 +28,6 @@
   <a href="#interest"> <strong>Interests</strong> </a> | 
   <a href="#certification"> <strong>Certifications</strong> </a>
 </h4>
-
 
 ---
 
@@ -58,7 +56,7 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
 
 <p align="justify"> <strong>Data Visualization Tools</strong> </p>
 
-> [**Tableau**](https://www.tableau.com/) | [**Google Charts**](https://developers.google.com/chart)
+> [**Tableau**](https://www.tableau.com/) | [**Google Charts**](https://developers.google.com/chart) | [Data Studio](https://datastudio.google.com/)
 
 <p align="justify"> <strong>Environment</strong> </p>
 
