@@ -163,15 +163,21 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 <h3 name="interest" align="center">🧠 Hobbies and Interests 🏃🏻‍♂️</h3>
 
 <p align="justify">
-Apart from <strong>Data Science</strong>, <strong>Development</strong> and <strong>Design</strong>, I Enjoy most of My Time <strong>Learning New Things</strong>, keeping Myself Busy and Use My Time Precisely, Love to Spend My Free Time Exploring <strong>Technology Advancements</strong> in the Digital World, <strong>Smartphones</strong>, <strong>Tablets</strong>, <strong>Laptops</strong> and Every New Gadgets. Exploring there <strong>UI</strong>, <strong>UX</strong> and <strong>OS</strong> Enhancements. Love Exploring <strong>UI</strong>  Design, <strong>Graphic</strong> Designs, <strong>Web</strong> Designs and <strong>Productivity Utility Tools</strong>.
+
+Apart from <strong>Data Science</strong>, <strong>Development</strong> and <strong>Design</strong>, I Enjoy most of My Time <strong>Learning New Things</strong>, keeping Myself Busy and Use My Time Precisely, Love to Spend My Free Time Exploring <strong>Technology Advancements</strong> in the Digital World, <strong>Smartphones</strong>, <strong>Tablets</strong>, <strong>Laptops</strong> and Every New <strong>Gadgets</strong>. Exploring there <strong>UI</strong>, <strong>UX</strong> and <strong>OS</strong> Enhancements. Love Exploring <strong>UI</strong> Designs, <strong>Graphic</strong> Designs, <strong>Web</strong> Designs and <strong>Productivity</strong> and <strong>Utility Tools</strong>.
+
 </p>
 
 <p align="justify">
-  Exploring <strong>Data Science</strong> World and Inventions in <strong>Artificial Intelligence</strong> (ML, DL, NLP, Neural Network, Computer Vision, IoT, etc.) is My Hobby.
+  
+Exploring <strong>Data Science</strong> World and Inventions in <strong>Artificial Intelligence</strong> (ML, DL, NLP, Neural Network, Computer Vision, IoT, etc.) is My Hobby.
+
 </p>
 
 <p align="justify">
-  When I Move Outdoor, I Love to Go for Walk, Running, Cycling or Simply Skipping for Physical Activity. Apart from All this My Hobbies are <strong>Photography</strong>, <strong>Drawing</strong>, <strong>Reading</strong> and       <strong>Writing</strong>. I Keep <strong>Consistency</strong> in My Daily Scheduled Personal Life, Work Life or Any Task that I Perform and Love <strong>Simplicity</strong> with One Goal in My Mind that I have to Learn a New     Thing Each and Every Day that All Matters for Me at the End of the Day.
+  
+When I Move Outdoor, I Love to Go for Walk, Running, Cycling or Simply Skipping for Physical Activity. Apart from All this My Hobbies are <strong>Photography</strong>, <strong>Drawing</strong>, <strong>Reading</strong> and       <strong>Writing</strong>. I Keep <strong>Consistency</strong> in My Daily Scheduled Personal Life, Work Life or Any Task that I Perform and Love <strong>Simplicity</strong> with One Goal in My Mind that I have to Learn a New     Thing Each and Every Day that All Matters for Me at the End of the Day.
+
 </p>
   
 <p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
