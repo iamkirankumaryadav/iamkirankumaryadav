@@ -16,8 +16,8 @@
 <h1 name="name" align="center">Kirankumar Yadav</h1>
 
 <h3 align="center">🚀 <strong>Data Scientist</strong>  | <strong>Full Stack Developer</strong>  | <strong>Web Designer and Developer</strong></h3>  
-<p align="center">🤖 <strong>Data Science</strong> | <strong>Python</strong> | <strong>Interactive Visualization</strong> | <strong>Machine Learning</strong> | <strong>Artificial Intelligence</strong></p>
-<p align="center">💻 <strong>Web Design</strong> | <strong>UI Design</strong> | <strong>Graphic Design</strong> | <strong>Illustration</strong></p>
+<h3 align="center">🤖 <strong>Data Science</strong> | <strong>Python</strong> | <strong>Interactive Visualization</strong> | <strong>Machine Learning</strong> | <strong>Artificial Intelligence</strong></h3>
+<h3 align="center">💻 <strong>Web Design</strong> | <strong>UI Design</strong> | <strong>Graphic Design</strong> | <strong>Illustration</strong></h3>
 
 <h4 align="center" width="100%">
   <a href="https://kirankumar7296.github.io/Portfolio"> <strong>Portfolio</strong> </a> |
