@@ -56,7 +56,7 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
 
 <p align="justify"> <strong>Data Visualization Tools</strong> </p>
 
-> [**Tableau**](https://www.tableau.com/) | [**Google Charts**](https://developers.google.com/chart) | [Data Studio](https://datastudio.google.com/)
+> [**Tableau**](https://www.tableau.com/) | [**Data Studio**](https://datastudio.google.com/) | [**Google Charts**](https://developers.google.com/chart) 
 
 <p align="justify"> <strong>Environment</strong> </p>
 
