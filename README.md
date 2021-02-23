@@ -161,7 +161,9 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 ---
 
 <h3 name="interest" align="center"> 🧠 Hobbies and Interests 🏃🏻‍♂️ </h3>
-
+<p align="justify">
+Passionate and Creative for <strong>Website</strong> Designs, Customizations, Layouts, Forms, Components, Utilities, Icons, Styles, Navigations, Colors, Graphics, Vectors, Isometric Illustrations, <strong>Data Representation</strong>, <strong>Data Visualization</strong> and Everything that can make a <strong>Website</strong> and <strong>Visual Content</strong> Look Delightful. Iam Well Versed with <strong>Front End Responsive Frameworks</strong>.
+</p>
 <p align="justify">  
 Apart from <strong> Data Science </strong>, <strong>Development</strong> and <strong>Design</strong>, I Enjoy most of My Time <strong>Learning New Things</strong>, keeping Myself Busy and Use My Time Precisely, Love to Spend My Free Time Exploring <strong>Technology Advancements</strong> in the Digital World, <strong>Smartphones</strong>, <strong>Tablets</strong>, <strong>Laptops</strong> and Every New <strong>Gadgets</strong>. Exploring there <strong>UI</strong>, <strong>UX</strong> and <strong>OS</strong> Enhancements. Love Exploring <strong>UI</strong> Designs, <strong>Graphic</strong> Designs, <strong>Web</strong> Designs and <strong>Productivity</strong> and <strong>Utility Tools</strong>.
 </p>
