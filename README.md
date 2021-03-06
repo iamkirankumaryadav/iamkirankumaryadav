@@ -29,44 +29,6 @@
   <a href="#certification"> <strong>Certifications</strong> </a>
 </h4>
 
-td, th {
-    border:none
-}
-
-<table style="border:none">
-<tbody>
-
-<tr>
-<td align="center" width="10%">
-<span><b><center></center></b></span> 
-<img src="https://img.icons8.com/color/48/000000/python.png"/>
-</td>
-
-<td align="center" width="10%">
-<span><b><center></center></b></span> 
-<img src="https://img.icons8.com/color/48/000000/c-sharp.png"/>
-</td>
-
-<td align="center" width="10%">
-<span><b><center></center></b></span> 
-<img src="https://img.icons8.com/nolan/48/ms-excel.png" width="65" height="65"/> 
-</td>
-
-<td align="center" width="10%">
-<span><b><center></center></b></span> 
-<img height=65px src="https://img.icons8.com/color/48/000000/javascript-logo-1.png" > 
-</td>
-
-<td align="center" width="10%">
-<span><b><center></center></b></span>
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
-</td>
-
-</tr>
-
-</tbody>
-</table>
-
 ---
 
 <h4 align="center" width="100%">
