@@ -29,6 +29,9 @@
   <a href="#certification"> <strong>Certifications</strong> </a>
 </h4>
 
+td, th {
+    border:none
+}
 
 <table style="border:none">
 <tbody>
