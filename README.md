@@ -30,7 +30,7 @@
 </h4>
 
 
-<table>
+<table style="border:none">
 <tbody>
 
 <tr>
