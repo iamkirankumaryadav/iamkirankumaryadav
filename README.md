@@ -49,6 +49,7 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
 <p align="center" width="100%">
   <a href="https://www.python.org/"><img src="Image/Python.png" alt="Python" width="3%" title="Python"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.r-project.org/"><img src="Image/R.png" alt="R" width="4%" title="R Programming">&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href=""> <img src="https://raw.githubusercontent.com/KIRANKUMAR7296/Resume/main/image/Anaconda.png" alt="Anaconda" width="4%" title="Anaconda">
 </p>
 
   
