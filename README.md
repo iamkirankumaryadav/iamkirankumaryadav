@@ -47,8 +47,8 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
 </p>
 
 <p align="center" width="100%">
-  <a href="https://www.linkedin.com/in/kk7296/"><img src="Image/Python.png" alt="Python" width="3%" title="Python"></a>&nbsp;&nbsp;
-  <a href="mailto:Kirankumaryadav7296@gmail.com"><img src="Image/R.png" alt="R" width="4%" title="R Programming">
+  <a href="https://www.linkedin.com/in/kk7296/"><img src="Image/Python.png" alt="Python" width="3%" title="Python"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:Kirankumaryadav7296@gmail.com"><img src="Image/R.png" alt="R" width="4%" title="R Programming">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
   
