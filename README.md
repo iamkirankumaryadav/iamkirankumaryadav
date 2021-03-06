@@ -46,14 +46,6 @@ Being Passionate about <strong>Data Science</strong>, I keep working on New Data
 Executing <strong>Analytical Experiments</strong> and Applying My <strong>Business Knowledge</strong> to Solve various Business related Problems. <strong>Data Preprocessing</strong>, <strong>Data Cleaning</strong>, <strong>Data Exploration</strong>, <strong>Data Modeling</strong> and <strong>Data Visualization</strong> using <a href="https://www.python.org/"><strong>Python</strong></a>. Identifying Relevant Data, Cleaning Data, Understanding <strong>Hidden Patterns</strong> and <strong>Relationships</strong> using <strong>Graphs</strong> and <strong>Charts</strong>, Exploring the Data and Applying <strong>Machine Learning</strong> Algorithms, Performing Data and Error Analysis to Improve Accuracy. <strong>Data Cleaning</strong> and <strong>Data Visualization</strong> is My Favourite Part in the <strong>Data Science</strong> Process. Well Versed with <a href="https://jupyter.org/"><strong>Jupyter</strong></a> and <a href="https://www.anaconda.com/"><strong>Anaconda</strong></a> Environment for My <strong>Data Analysis</strong> Task. Comfortable with <a href="https://www.streamlit.io/sharing"><strong>Streamlit Sharing</strong></a> and <a href="https://www.heroku.com/"><strong>Heroku</strong></a> for <strong>Building</strong>, <strong>Sharing</strong>, <strong>Deploying</strong> and <strong>Managing</strong> <strong>Data Applications</strong>.
 </p>
 
-<p align="center" width="100%">
-  <a href="https://www.python.org/"><img src="Image/Python.png" alt="Python" width="3%" title="Python"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.r-project.org/"><img src="Image/R.png" alt="R" width="4%" title="R Programming">&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.anaconda.com/"><img src="https://raw.githubusercontent.com/KIRANKUMAR7296/Resume/main/image/Anaconda.png" alt="Anaconda" width="3%" title="Anaconda">&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://jupyter.org/"><img src="https://jupyter.org/assets/nav_logo.svg" width="12%" title="Jupyter">  
-</p>
-
-  
 <p align="justify"> <strong>Language</strong> </p>
 
 > [**Python**](https://www.python.org/) | **SQL**
