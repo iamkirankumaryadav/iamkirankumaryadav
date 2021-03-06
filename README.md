@@ -34,62 +34,62 @@
 <tbody>
 
 <tr>
-<td align="center" width="20%">
-<span><b><center></center></b></span> 
-<img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-</td>
-
-<td align="center" width="20%">
+<td align="center" width="10%">
 <span><b><center></center></b></span> 
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
 </td>
 
-<td align="center" width="20%">
-<span><b><center></center></b></span>
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<td align="center" width="10%">
+<span><b><center></center></b></span> 
+<img src="https://img.icons8.com/color/48/000000/c-sharp.png"/>
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="10%">
+<span><b><center></center></b></span>
+<img src="https://img.icons8.com/color/48/000000/asp.png"/>
+</td>
+
+<td align="center" width="10%">
 <span><b><center></center></b></span> 
 <img height=65px src="https://img.icons8.com/color/48/000000/azure-1.png"> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="10%">
 <span><b><center></center></b></span> 
 <img src="https://img.icons8.com/nolan/48/ms-excel.png" width="65" height="65"/> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="10%">
 <span><b><center></center></b></span>
 <img src="https://img.icons8.com/plasticine/64/000000/react.png"/>
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="10%">
 <span><b><center></center></b></span>
 <img src="https://img.icons8.com/clouds/100/000000/office-365.png" width="50" height="60"/>
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="10%">
 <span><b><center></center></b></span> 
 <img height=65px src="https://img.icons8.com/color/48/000000/javascript-logo-1.png" > 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="10%">
 <span><b><center></center></b></span> 
 <img src="https://img.icons8.com/color/48/000000/php.png" width="50" height="50"/> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="10%">
 <span><b><center></center></b></span>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="10%">
 <span><b><center></center></b></span> 
 <img src="https://img.icons8.com/dusk/64/000000/hand-with-pen.png"/>
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="10%">
 <span><b><center></center></b></span> 
 <img src="https://img.icons8.com/bubbles/64/000000/api.png" width="80" height="60"/>
 </td>
