@@ -53,11 +53,6 @@ td, th {
 </td>
 
 <td align="center" width="10%">
-<span><b><center></center></b></span>
-<img src="https://img.icons8.com/clouds/100/000000/office-365.png" width="50" height="60"/>
-</td>
-
-<td align="center" width="10%">
 <span><b><center></center></b></span> 
 <img height=65px src="https://img.icons8.com/color/48/000000/javascript-logo-1.png" > 
 </td>
@@ -67,10 +62,6 @@ td, th {
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </td>
 
-<td align="center" width="10%">
-<span><b><center></center></b></span> 
-<img src="https://img.icons8.com/bubbles/64/000000/api.png" width="80" height="60"/>
-</td>
 </tr>
 
 </tbody>
