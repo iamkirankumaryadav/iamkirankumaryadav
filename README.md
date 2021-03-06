@@ -45,23 +45,8 @@
 </td>
 
 <td align="center" width="10%">
-<span><b><center></center></b></span>
-<img src="https://img.icons8.com/color/48/000000/asp.png"/>
-</td>
-
-<td align="center" width="10%">
-<span><b><center></center></b></span> 
-<img height=65px src="https://img.icons8.com/color/48/000000/azure-1.png"> 
-</td>
-
-<td align="center" width="10%">
 <span><b><center></center></b></span> 
 <img src="https://img.icons8.com/nolan/48/ms-excel.png" width="65" height="65"/> 
-</td>
-
-<td align="center" width="10%">
-<span><b><center></center></b></span>
-<img src="https://img.icons8.com/plasticine/64/000000/react.png"/>
 </td>
 
 <td align="center" width="10%">
@@ -75,18 +60,8 @@
 </td>
 
 <td align="center" width="10%">
-<span><b><center></center></b></span> 
-<img src="https://img.icons8.com/color/48/000000/php.png" width="50" height="50"/> 
-</td>
-
-<td align="center" width="10%">
 <span><b><center></center></b></span>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
-</td>
-
-<td align="center" width="10%">
-<span><b><center></center></b></span> 
-<img src="https://img.icons8.com/dusk/64/000000/hand-with-pen.png"/>
 </td>
 
 <td align="center" width="10%">
