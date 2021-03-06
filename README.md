@@ -50,7 +50,6 @@
 </td>
 </tr>
 
-<tr>
 <td align="center" width="20%">
 <span><b><center></center></b></span> 
 <img height=65px src="https://img.icons8.com/color/48/000000/azure-1.png"> 
@@ -65,7 +64,6 @@
 <span><b><center></center></b></span>
 <img src="https://img.icons8.com/plasticine/64/000000/react.png"/>
 </td>
-</tr>
 
 <tr>
 <td align="center" width="20%">
