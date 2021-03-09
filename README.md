@@ -17,7 +17,7 @@
 
 <p align="center">🚀 <strong>Data Scientist</strong>  | <strong>Full Stack Developer</strong>  | <strong>Web Designer and Developer</strong></p>  
 <p align="center">🤖 <strong>Data Science</strong> | <strong>Artificial Intelligence</strong> | <strong>Machine Learning</strong> | <strong>Deep Learning</strong> | <strong>Natural Language Processing</strong> | <strong>Computer Vision</strong> </p>  
-<p align="center">🗳🗃   <strong>Python</strong> | <strong>Exploratory Data Analysis</strong> | <strong>Data Cleaning</strong> | <strong>Feature Engineering</strong> | <strong>Interactive Data Visualization</strong></p>
+<p align="center">🗳  <strong>Python</strong> | <strong>Exploratory Data Analysis</strong> | <strong>Data Cleaning</strong> | <strong>Feature Engineering</strong> | <strong>Interactive Data Visualization</strong></p>
 <p align="center">💻 <strong>Web Design</strong> | <strong>UI Design</strong> | <strong>Graphic Design</strong> | <strong>Illustration</strong></p>
 
 <h4 align="center" width="100%">
