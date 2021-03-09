@@ -16,7 +16,7 @@
 <h1 name="name" align="center">Kirankumar Yadav</h1>
 
 <p align="center">🚀 <strong>Data Scientist</strong>  | <strong>Full Stack Developer</strong>  | <strong>Web Designer and Developer</strong></p>  
-<p align="center">🤖 <strong>Data Science</strong> | <strong>Python</strong> | <strong>Interactive Visualization</strong> | <strong>Machine Learning</strong> | <strong>Artificial Intelligence</strong></p>
+<p align="center">🤖 <strong>Data Science</strong> | <strong>Artificial Intelligence</strong> | <strong>Machine Learning</strong> | <strong>Deep Learning</strong> | <strong>Python</strong> | <strong>Interactive Visualization</strong></p>
 <p align="center">💻 <strong>Web Design</strong> | <strong>UI Design</strong> | <strong>Graphic Design</strong> | <strong>Illustration</strong></p>
 
 <h4 align="center" width="100%">
