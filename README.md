@@ -193,7 +193,7 @@ When I Move Outdoor, I Love to Go for Walk, Running, Cycling or Simply Skipping 
 
 > [Python Object Oriented Programming](PDF/LinkedInPythonOOP.pdf) 
  
-> [**Deep Learning** with **OpenCV**](PDF/LinkedInDeepLearningOpenCV.pdf) | [**NLP** with **Python** for **Machine Learning**](PDF/LinkedInNLPPythonMachineLearningEssential.pdf) 
+> [**Deep Learning** with **OpenCV**](PDF/LinkedInDeepLearningOpenCV.pdf) | [**NLP** with **Python** for **Machine Learning**](PDF/LinkedInNLPPythonMachineLearningEssential.pdf) | [**Text Analytics**](PDF/TextAnalytics.pdf)
  
 <p align="justify"> <strong>Kaggle</strong> </p>
 
