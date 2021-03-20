@@ -22,8 +22,8 @@
 
 <h4 align="center" width="100%">
   <a href="https://kirankumar7296.github.io/Portfolio"> <strong>Portfolio</strong> </a> |
-  <a href="https://kirankumar7296.github.io/Resume"> <strong>Resume</strong> </a> |
-  <a href="PDF/Resume.pdf"> <strong>PDF</strong> </a> |
+  <a href="https://kirankumar7296.github.io/Resume"> <strong>Digital Resume</strong> </a> |
+  <a href="PDF/Resume.pdf"> <strong>Resume PDF</strong> </a> |
   <a href="#education"> <strong>Education</strong> </a> |
   <a href="#skill"> <strong>Skills</strong> </a> | 
   <a href="#interest"> <strong>Interests</strong> </a> | 
