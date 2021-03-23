@@ -121,7 +121,7 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 <p align="justify">Edvancer Eduventures</p>
 
-> Post Graduate Certification in [**Data Science**](PDF/CertifiedDataScienceSpecialist.pdf) and [**Artificial Intelligence**](PDF/CertifiedDataScientistSpecialist.pdf)
+> Post Graduate in [**Data Science**](PDF/CertifiedDataScienceSpecialist.pdf) and [**Artificial Intelligence**](PDF/CertifiedDataScientistSpecialist.pdf)
 
 <p align="justify"> University of Mumbai</p>
   
