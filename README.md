@@ -191,7 +191,9 @@ When I Move Outdoor, I Love to Go for Walk, Running, Cycling or Simply Skipping 
 
 <p align="justify"> <strong>LinkedIn Learning</strong> </p>
 
-> [Python Object Oriented Programming](PDF/LinkedInPythonOOP.pdf) 
+> [Python Object Oriented Programming](PDF/LinkedInPythonOOP.pdf) | [Advance Python](PDF/AdvancePython.pdf)
+
+> [Applied Machine Learning Foundations](PDF/AppliedMachineLearningFoundationss.pdf) | [Applied Machine Learning Algorithms](PDF/AppliedMachineLearningAlgorithms.pdf) | [Artificial Intelligence Foundation Machine Learning](PDF/ArtificialIntelligenceFoundationsMachineLearning.pdf)
  
 > [**Deep Learning** with **OpenCV**](PDF/LinkedInDeepLearningOpenCV.pdf) | [**NLP** with **Python** for **Machine Learning**](PDF/LinkedInNLPPythonMachineLearningEssential.pdf) | [**Text Analytics**](PDF/TextAnalytics.pdf)
  
