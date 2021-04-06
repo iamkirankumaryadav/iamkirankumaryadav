@@ -119,7 +119,7 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 <h3 name="education" align="center">Education 🎓</h3>
 
-<p align="justify">Edvancer Eduventures</p>
+<p align="justify">Edvancer Eduventures ( IIT - IIM Venture )</p>
 
 > Post Graduate in [**Data Science**](PDF/CertifiedDataScienceSpecialist.pdf) and [**Artificial Intelligence**](PDF/CertifiedDataScientistSpecialist.pdf)
 
