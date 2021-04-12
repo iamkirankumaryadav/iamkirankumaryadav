@@ -57,7 +57,7 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
 
 <p align="justify"> <strong>Data Visualization Tools</strong> </p>
 
-> [**Tableau**](https://www.tableau.com/) | [**Google Data Studio**](https://datastudio.google.com/) | [**Google Charts**](https://developers.google.com/chart) | [**Microsoft Power BI**]() 
+> [**Tableau**](https://www.tableau.com/) | [**Google Data Studio**](https://datastudio.google.com/) | [**Google Charts**](https://developers.google.com/chart) | [**Microsoft Power BI**](https://powerbi.microsoft.com/en-us/) 
 
 <p align="justify"> <strong>Environment</strong> </p>
 
