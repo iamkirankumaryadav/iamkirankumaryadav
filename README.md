@@ -147,7 +147,7 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 > [Python](https://www.python.org/) Libraries : [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [Plotly](https://plotly.com/), [Bokeh](https://bokeh.org/), [Scikit Learn](https://scikit-learn.org/), [TensorFlow](https://www.tensorflow.org/), [NLTK](https://www.nltk.org/), [OpenCV](https://opencv.org/) etc.
 
-> Comfortable with **Data Visualization** Tools like [**Tableau**](https://www.tableau.com/), [**Data Studio**](https://datastudio.google.com/) and [**Google Charts**](https://developers.google.com/chart).
+> Comfortable with **Data Visualization** Tools like [**Tableau**](https://www.tableau.com/), [**Microsoft Power BI**](https://powerbi.microsoft.com/en-us/), [**Data Studio**](https://datastudio.google.com/) and [**Google Charts**](https://developers.google.com/chart).
 
 > Handling Data using [**Microsoft SQL Server Management Studio**](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms) and [**Microsoft Excel**](https://www.microsoft.com/en-in/microsoft-365/excel).
 
