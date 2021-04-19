@@ -1,7 +1,6 @@
 <p align="center">
 <img src="Image/Me.png" alt="Kirankumar" width="20%">
 </p>
-
 <p align="center" width="100%">
   <a href="https://www.linkedin.com/in/kk7296/"><img src="Image/linkedin.png" alt="LinkedIn" width="4%" title="KK7296"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:Kirankumaryadav7296@gmail.com"><img src="Image/Gmail.png" alt="Gmail" width="4%" title="Kirankumaryadav7296@gmail.com"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -10,7 +9,7 @@
   <a href="https://twitter.com/KIRAN7296KUMAR/"><img src="Image/Tweet.png" width="4%" alt="Twitter" title="KIRAN7296KUMAR"></a>
 </p>
 <br>
-<h1 name="name" align="center">Kirankumar Yadav</h1>
+<p><h1 name="name" align="center">Kirankumar Yadav</h1></p>
 <p align="center">🚀 <strong>Data Scientist</strong>  | <strong>Full Stack Developer</strong>  | <strong>Web Designer and Developer</strong></p>  
 <p align="center">🤖 <strong>Data Science</strong> | <strong>Artificial Intelligence</strong> | <strong>Machine Learning</strong> | <strong> Natural Language Processing </strong> | <strong>Computer Vision</strong> </p>  
 <p align="center">🗳  <strong>Python</strong> | <strong>Exploratory Data Analysis</strong> | <strong>Data Cleaning</strong> | <strong>Feature Engineering</strong> | <strong>Data Visualization</strong></p>
