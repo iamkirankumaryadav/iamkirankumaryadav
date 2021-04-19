@@ -9,7 +9,7 @@
   <a href="https://twitter.com/KIRAN7296KUMAR/"><img src="Image/Tweet.png" width="4%" alt="Twitter" title="KIRAN7296KUMAR"></a>
 </p>
 <br>
-<p><h1 name="name" align="center">Kirankumar Yadav</h1></p>
+<h1 name="name" align="center">Kirankumar Yadav</h1>
 <p align="center">🚀 <strong>Data Scientist</strong>  | <strong>Full Stack Developer</strong>  | <strong>Web Designer and Developer</strong></p>  
 <p align="center">🤖 <strong>Data Science</strong> | <strong>Artificial Intelligence</strong> | <strong>Machine Learning</strong> | <strong> Natural Language Processing </strong> | <strong>Computer Vision</strong> </p>  
 <p align="center">🗳  <strong>Python</strong> | <strong>Exploratory Data Analysis</strong> | <strong>Data Cleaning</strong> | <strong>Feature Engineering</strong> | <strong>Data Visualization</strong></p>
