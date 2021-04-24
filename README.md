@@ -134,7 +134,7 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 ---
 
-<h3 name="skill" align="center">Skills 👨🏻‍💻</h3>
+<h3 name="skill" align=center> Skills 👨🏻‍💻 </h3>
 
 <p align="justify"> <strong>Workflow</strong></p>
  
@@ -146,13 +146,13 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 > Handling Data using [**Microsoft SQL Server Management Studio**](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms) and [**Microsoft Excel**](https://www.microsoft.com/en-in/microsoft-365/excel).
 
-> Creating **WCF Services**, **Web Forms** and **Active Server Pages** using [**ASP.NET**](https://dotnet.microsoft.com/apps/aspnet) Framework, [**C#**](https://docs.microsoft.com/en-us/dotnet/csharp/) and SQL.
+> Creating **WCF Services**, **Web Forms** and **Active Server Pages** using [**ASP.NET**](https://dotnet.microsoft.com/apps/aspnet) Framework, [**C#**](https://docs.microsoft.com/en-us/dotnet/csharp/) and **SQL**.
 
 > Design and Development of Website using **HTML**, **CSS**, **JavaScript**, [**Bootstrap**](https://getbootstrap.com/) and [**Markdown**](https://www.markdownguide.org/). 
 
 > Comfortable with [**Streamlit**](https://www.streamlit.io/) and [**Heroku**](https://www.heroku.com/) for **Building**, **Sharing**, **Deploying** and **Managing** **Data Apps**.
 
-<p align="right"><a href="#name" align="right"> <strong>Go Back to Top</strong></a></p>
+<p align="right"><a href="#name" align=right> <strong>Go Back to Top</strong></a></p>
 
 ---
 
