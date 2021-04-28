@@ -108,7 +108,7 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 > [**Notion**](https://www.notion.so/) | [**Behance**](https://www.behance.net/) | [**Dribble**](https://dribbble.com/) | [**Pinterest**](https://in.pinterest.com/)
 
-<p align="right"><a href="#name" align="right"> <strong>Go Back to Top<strong></a></p>
+<p align="right"><a href="#name" align="right"> <strong>Go Back to Top</strong></a></p>
 
 ---
 
