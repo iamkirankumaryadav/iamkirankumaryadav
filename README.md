@@ -64,7 +64,7 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
 
 <h3 name="full-stack-development" align="center">Full Stack Development 💻</h3>
 <p align="justify">
-I have over <strong>3+</strong> Years of Working Experience. Creating <strong>Web Forms</strong> and <strong>Active Server Pages</strong> using <a href="https://dotnet.microsoft.com/apps/aspnet"><strong>ASP.NET</strong></a> Framework and <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><strong>C#</strong></a> Programming Language over Integrated Development Environment of <a href="https://visualstudio.microsoft.com/vs/"><strong>Microsoft Visual Studio</strong></a> and <a href="https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms"><strong>Microsoft SQL Server Management Studio</strong></a>. Projects are Completely Responsive, working for <strong>Desktops</strong> and <strong>Tablets</strong>.
+Work Experience of <strong>3 Years</strong> and <strong>8 Months</strong>. Creating <strong>Web Forms</strong> and <strong>Active Server Pages</strong> using <a href="https://dotnet.microsoft.com/apps/aspnet"><strong>ASP.NET</strong></a> Framework and <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><strong>C#</strong></a> Programming Language over Integrated Development Environment of <a href="https://visualstudio.microsoft.com/vs/"><strong>Microsoft Visual Studio</strong></a> and <a href="https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms"><strong>Microsoft SQL Server Management Studio</strong></a>. Projects are Completely Responsive, working for <strong>Desktops</strong> and <strong>Tablets</strong>.
 </p>
 
 <p align="justify"> <strong>Front End</strong> </p>
