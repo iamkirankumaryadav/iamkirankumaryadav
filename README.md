@@ -8,7 +8,7 @@
   <a href="https://wa.me/[+919004967226]"><img src="Image/whatsapp.svg" width="4%" alt="Whatsapp" title="+919004967226"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/KIRAN7296KUMAR/"><img src="Image/Tweet.png" width="4%" alt="Twitter" title="KIRAN7296KUMAR"></a>
 </p>
-<br>
+
 <h1 name="name" align="center">Kirankumar Yadav</h1>
 <p align="center">🚀 <strong>Data Scientist</strong>  | <strong>Full Stack Developer</strong>  | <strong>Web Designer and Developer</strong></p>  
 <p align="center">🤖 <strong>Data Science</strong> | <strong>Artificial Intelligence</strong> | <strong>Machine Learning</strong> | <strong> Natural Language Processing </strong> | <strong>Computer Vision</strong> </p>  
