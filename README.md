@@ -27,7 +27,6 @@
 ---
 
 <h4 align="center" width="100%">
-  <a name="experience"> Experience ( <strong>3 Years</strong> and <strong>8 Months</strong> ) : </a>
   <a href="#data-science">Data Science</a> | 
   <a href="#full-stack-development">Full Stack Development</a> | 
   <a href="#web-design-and-development">Web Design and Development</a>
