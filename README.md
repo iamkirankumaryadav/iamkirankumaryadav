@@ -166,7 +166,7 @@ When I Move Outdoor, I Love to Go for Walk, Running, Cycling or Simply Skipping 
 
 <h3 name="certification" align="center">Certifications 🚀</h3>
 
-<p align="justify"> <strong>Edvancer Eduventures</strong></p>
+<p align="justify"> <strong>Edvancer</strong></p>
  
 > [**Data Scientist** - Post Graduate Certification in **Data Science**](PDF/CertifiedDataScienceSpecialist.pdf) and [**Artificial Intelligence**](PDF/CertifiedDataScientistSpecialist.pdf)
 
