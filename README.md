@@ -102,10 +102,6 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 > [**Canva**](https://www.canva.com/en_gb/) | [**Adobe XD**](https://www.adobe.com/in/products/xd.html) | [**Framer**](https://www.framer.com/) | [**Figma**](https://www.figma.com/)
 
-<p align="justify"> <strong>Productivity Tools</strong> </p>
-
-> [**Notion**](https://www.notion.so/) | [**Behance**](https://www.behance.net/) | [**Dribble**](https://dribbble.com/) | [**Pinterest**](https://in.pinterest.com/)
-
 <p align="right"><a href="#name" align="right"> <strong>Go Back to Top</strong></a></p>
 
 ---
