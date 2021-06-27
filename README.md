@@ -132,7 +132,7 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 <p align="justify"> <strong>Workflow</strong></p>
  
-> **Exploratory Data Analysis**, **Data Cleaning**, **Feature Engineering** and **Data Visualization** using **Python**.
+> **Exploratory Data Analysis**, **Data Cleaning** and **Data Visualization** using **Python**.
 
 > [Python](https://www.python.org/) Libraries : [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [Plotly](https://plotly.com/), [Bokeh](https://bokeh.org/), [Scikit Learn](https://scikit-learn.org/), [TensorFlow](https://www.tensorflow.org/), [NLTK](https://www.nltk.org/), [OpenCV](https://opencv.org/) etc.
 
