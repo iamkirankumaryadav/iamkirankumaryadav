@@ -134,7 +134,7 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
  
 > **Exploratory Data Analysis**, **Data Cleaning** and **Data Visualization** using **Python**.
 
-> [Python](https://www.python.org/) Libraries : [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [Plotly](https://plotly.com/), [Bokeh](https://bokeh.org/), [Scikit Learn](https://scikit-learn.org/), [TensorFlow](https://www.tensorflow.org/), [NLTK](https://www.nltk.org/), [OpenCV](https://opencv.org/) etc.
+> [Python](https://www.python.org/) Libraries : [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [Plotly](https://plotly.com/), [Bokeh](https://bokeh.org/) and [Scikit Learn](https://scikit-learn.org/).
 
 > Comfortable with **Data Visualization** Tools like [**Tableau**](https://www.tableau.com/), [**Microsoft Power BI**](https://powerbi.microsoft.com/en-us/), [**Google Data Studio**](https://datastudio.google.com/) and [**Google Charts**](https://developers.google.com/chart).
 
