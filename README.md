@@ -37,7 +37,7 @@
 <h3 name="data-science" align="center">Data Science 🤖</h3>
 <p align="justify">
 Being Passionate about <strong>Data Science</strong>, I keep working on New Data Sets, Understanding the <strong>Domain</strong> and <strong>Business Requirements</strong>.
-Executing <strong>Analytical Experiments</strong> and Applying My <strong>Business Knowledge</strong> to Solve various Business related Problems. <strong>Exploratory Data Analysis</strong>, <strong>Data Preprocessing</strong>, <strong>Data Cleaning</strong>, <strong>Data Modeling</strong> and <strong>Data Visualization</strong> using <a href="https://www.python.org/"><strong>Python</strong></a>. Understanding <strong>Hidden Patterns</strong> and <strong>Relationships</strong> using <strong>Graphs</strong> and <strong>Charts</strong>, Exploring the Data and Applying <strong>Machine Learning</strong> Algorithms, Performing Data and Error Analysis to Improve Accuracy. 
+Executing <strong>Analytical Experiments</strong> and Applying My <strong>Business Knowledge</strong> to Solve various Business related Problems. <strong>Exploratory Data Analysis</strong>, <strong>Data Preprocessing</strong>, <strong>Data Cleaning</strong> and <strong>Data Visualization</strong> using <a href="https://www.python.org/"><strong>Python</strong></a>. Exploring <strong>Hidden Patterns</strong> and <strong>Relationships</strong> using <strong>Graphs</strong> and <strong>Charts</strong>. 
 </p>
 
 <p align="justify"> <strong>Language</strong> </p>
