@@ -153,9 +153,7 @@ Apart from <strong>Data Science</strong>, <strong>Business Intelligence</strong>
 <strong>Digital World</strong> : <strong>Smartphones</strong>, <strong>Tablets</strong>, <strong>Laptops</strong> and <strong>Smart Watches</strong>.<br>
 <strong>Designs</strong> : <strong>UI</strong>, <strong>UX</strong>, <strong>OS</strong>, Graphic</strong> and <strong>Web Designs</strong>.<br>
 <strong>Productivity</strong> and <strong>Utility</strong> tools.<br>
-Inventions in the field of <strong>Data Science</strong> and <strong>AI</strong> ( ML, DL, NLP, Neural Network, Computer Vision, IoT, etc. )
-</p>
-<p align="justify">  
+Inventions in the field of <strong>Data Science</strong> and <strong>AI</strong> ( ML, DL, NLP, Neural Network, Computer Vision, IoT, etc. )<br>  
 <strong>Hobbies</strong> : <strong>Photography</strong>, <strong>Drawing</strong>, <strong>Reading</strong>, <strong>Writing</strong>, <strong>Teaching</strong> and <strong>Learning</strong>.
 </p>
   
