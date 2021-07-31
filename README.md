@@ -50,7 +50,7 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
 
 <p align="justify"> <strong>Data Visualization Tools</strong> </p>
 
-> [**Microsoft Power BI**](https://powerbi.microsoft.com/en-us/) | [**Google Data Studio**](https://datastudio.google.com/) | [**Tableau**](https://www.tableau.com/)
+> [**Microsoft Power BI**](https://powerbi.microsoft.com/en-us/) | [**Google Data Studio**](https://datastudio.google.com/)
 
 <p align="justify"> <strong>Environment</strong> </p>
 
