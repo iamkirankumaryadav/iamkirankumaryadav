@@ -150,12 +150,10 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 <p align="justify">  
 Apart from <strong>Data Science</strong>, <strong>Development</strong> and <strong>Design</strong>,<br>
-Love exploring and experimenting :<br>
-<strong>Digital World</strong> : <strong>Smartphones</strong>, <strong>Tablets</strong>, <strong>Laptops</strong> and <strong>Smart Watches</strong><br>
-<strong>Designs</strong> : <strong>UI</strong>, <strong>UX</strong>, <strong>OS</strong>, Graphic</strong> and <strong>Web Designa</strong><br> 
-<strong>Productivity</strong> and <strong>Utility</strong> tools.
-</p>
-<p align="justify">  
+Love  <strong>Learning</strong>, <strong>Exploring</strong> and <strong>Experimenting</strong> :<br>
+<strong>Digital World</strong> : <strong>Smartphones</strong>, <strong>Tablets</strong>, <strong>Laptops</strong> and <strong>Smart Watches</strong><br>.
+<strong>Designs</strong> : <strong>UI</strong>, <strong>UX</strong>, <strong>OS</strong>, Graphic</strong> and <strong>Web Designs</strong><br>. 
+<strong>Productivity</strong> and <strong>Utility</strong> tools.<br>
 Inventions in the field of <strong>Data Science</strong> and <strong>AI</strong> ( ML, DL, NLP, Neural Network, Computer Vision, IoT, etc. )
 </p>
 <p align="justify">  
