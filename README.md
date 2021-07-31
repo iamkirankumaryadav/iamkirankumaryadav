@@ -149,7 +149,10 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 <h3 name="interest" align=center> 🧠 Hobbies and Interests 🏃🏻‍♂️ </h3>
 
 <p align="justify">  
-Apart from <strong>Data Science</strong>, <strong>Development</strong> and <strong>Design</strong>, I enjoy most of my time in learning, Love to spend my time exploring advancements in the digital world, smartphones, tablets, laptops and every other gadgets that is implementing AI and Machine Learning techniques. Love exploring <strong>UI</strong>, <strong>UX</strong>, <strong>OS</strong>, Graphic</strong> designs, <strong>Web</strong>design, <strong>Productivity</strong> tools and enhancements.
+Apart from <strong>Data Science</strong>, <strong>Development</strong> and <strong>Design</strong>,<br>
+Love exploring the <strong>Digital World</strong> :<br>
+  Smartphones | Tablets | Laptops <br>
+  <strong>UI</strong>, <strong>UX</strong>, <strong>OS</strong>, Graphic</strong> designs, <strong>Web</strong>design<br> <strong>Productivity</strong> and <strong>Utility</strong> tools.
 </p>
 <p align="justify">  
 Exploring <strong>Data Science</strong> world and inventions in <strong>AI</strong> ( ML, DL, NLP, Neural Network, Computer Vision, IoT, etc. )
