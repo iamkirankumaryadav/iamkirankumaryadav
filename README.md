@@ -142,8 +142,6 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 > Design and Development of Website using **HTML**, **CSS**, **JavaScript**, [**Bootstrap**](https://getbootstrap.com/) and [**Markdown**](https://www.markdownguide.org/). 
 
-> Comfortable with [**Streamlit**](https://www.streamlit.io/) and [**Heroku**](https://www.heroku.com/) for **Building**, **Sharing**, **Deploying** and **Managing** **Data Apps**.
-
 <p align="right"><a href="#name" align=right> <strong>Go Back to Top</strong></a></p>
 
 ---
