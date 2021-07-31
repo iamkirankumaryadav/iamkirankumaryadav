@@ -151,7 +151,8 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 <p align="justify">  
 Apart from <strong>Data Science</strong>, <strong>Development</strong> and <strong>Design</strong>,<br>
 Love exploring the <strong>Digital World</strong> : <strong>Smartphones</strong>, <strong>Tablets</strong>, <strong>Laptops</strong> and <strong>Smart Watches</strong><br>
-<strong>UI</strong>, <strong>UX</strong>, <strong>OS</strong>, Graphic</strong> designs, <strong>Web</strong>design<br> <strong>Productivity</strong> and <strong>Utility</strong> tools.
+Love exploring and experimenting Designs : <strong>UI</strong>, <strong>UX</strong>, <strong>OS</strong>, Graphic</strong> <strong>Web Design</strong> ( Adobe XD, Figma Framer, Paint 3D )<br> 
+<strong>Productivity</strong> and <strong>Utility</strong> tools.
 </p>
 <p align="justify">  
 Exploring <strong>Data Science</strong> world and inventions in <strong>AI</strong> ( ML, DL, NLP, Neural Network, Computer Vision, IoT, etc. )
