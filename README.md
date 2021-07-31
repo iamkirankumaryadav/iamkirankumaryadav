@@ -150,12 +150,13 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 
 <p align="justify">  
 Apart from <strong>Data Science</strong>, <strong>Development</strong> and <strong>Design</strong>,<br>
-Love exploring the <strong>Digital World</strong> : <strong>Smartphones</strong>, <strong>Tablets</strong>, <strong>Laptops</strong> and <strong>Smart Watches</strong><br>
-Love exploring and experimenting <strong>Designs</strong> : <strong>UI</strong>, <strong>UX</strong>, <strong>OS</strong>, Graphic</strong> and <strong>Web Designa</strong><br> 
-Love exploring <strong>Productivity</strong> and <strong>Utility</strong> tools.
+Love exploring and experimenting :<br>
+<strong>Digital World</strong> : <strong>Smartphones</strong>, <strong>Tablets</strong>, <strong>Laptops</strong> and <strong>Smart Watches</strong><br>
+<strong>Designs</strong> : <strong>UI</strong>, <strong>UX</strong>, <strong>OS</strong>, Graphic</strong> and <strong>Web Designa</strong><br> 
+<strong>Productivity</strong> and <strong>Utility</strong> tools.
 </p>
 <p align="justify">  
-Exploring <strong>Data Science</strong> world and inventions in <strong>AI</strong> ( ML, DL, NLP, Neural Network, Computer Vision, IoT, etc. )
+Inventions in the field of <strong>Data Science</strong> and <strong>AI</strong> ( ML, DL, NLP, Neural Network, Computer Vision, IoT, etc. )
 </p>
 <p align="justify">  
 <strong>Hobbies</strong> : <strong>Photography</strong>, <strong>Drawing</strong>, <strong>Reading</strong>, <strong>Writing</strong>, <strong>Teaching</strong> and <strong>Learning</strong>.
