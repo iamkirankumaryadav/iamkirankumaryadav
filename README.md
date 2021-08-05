@@ -149,7 +149,7 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 <h3 name="interest" align=center> 🧠 Hobbies and Interests 🏃🏻‍♂️ </h3>
 
 <p align="justify">  
-Apart from <strong>Data Science</strong>, <strong>Business Intelligence</strong> and <strong>AI</strong>, Love <strong>Learning</strong>, <strong>Exploring</strong> and <strong>Experimenting</strong>.<br>
+Apart from <strong>Data Science</strong>, <strong>Business Intelligence</strong> and <strong>Artificial Intelligence</strong>, Love <strong>Learning</strong>, <strong>Exploring</strong> and <strong>Experimenting</strong>.<br>
 <strong>Digital World</strong> : <strong>Smartphones</strong>, <strong>Tablets</strong>, <strong>Laptops</strong> and <strong>Smart Watches</strong>.<br>
 <strong>Designs</strong> : <strong>UI</strong>, <strong>UX</strong>, <strong>OS</strong>, Graphic</strong> and <strong>Web Designs</strong>.<br>
 <strong>Productivity</strong> and <strong>Utility</strong> tools.<br>
