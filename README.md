@@ -153,7 +153,7 @@ Apart from Data Science, Business Intelligence and Artificial Intelligence,<br>
 I Love Learning and Exploring with :<br>
 <strong>The Digital Gadgets</strong> : Smartphones, Tablets, Laptops and Smart Watches.<br>
 <strong>The Design, Interface and Experience</strong> : UI, UX and OS.<br>
-The Productivity and Utility tools<br>
+The Productivity, Creativity and Utility tools<br>
 Inventions in the field of Data Science and AI ( ML, DL, NLP, Neural Network, Computer Vision, IoT, etc. )<br>  
 Hobbies : Learning, Drawing, Reading, Teaching and Photography.
 </p>
