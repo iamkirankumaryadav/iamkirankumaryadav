@@ -149,12 +149,12 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 <h3 name="interest" align=center> 🧠 Hobbies and Interests 🏃🏻‍♂️ </h3>
 
 <p align="justify">  
-Apart from <strong>Data Science</strong>, <strong>Business Intelligence</strong> and <strong>Artificial Intelligence</strong>, Love <strong>Learning</strong>, <strong>Exploring</strong> and <strong>Experimenting</strong>.<br>
-<strong>Digital World</strong> : <strong>Smartphones</strong>, <strong>Tablets</strong>, <strong>Laptops</strong> and <strong>Smart Watches</strong>.<br>
-<strong>Designs</strong> : <strong>UI</strong>, <strong>UX</strong>, <strong>OS</strong>, Graphic</strong> and <strong>Web Designs</strong>.<br>
-<strong>Productivity</strong> and <strong>Utility</strong> tools.<br>
-Inventions in the field of <strong>Data Science</strong> and <strong>AI</strong> ( ML, DL, NLP, Neural Network, Computer Vision, IoT, etc. )<br>  
-<strong>Hobbies</strong> : <strong>Photography</strong>, <strong>Drawing</strong>, <strong>Reading</strong>, <strong>Writing</strong>, <strong>Teaching</strong> and <strong>Learning</strong>.
+Apart from Data Science, Business Intelligence and Artificial Intelligence, I Love Learning, Exploring and Experimenting.<br>
+<strong>The Digital Gadgets</strong> : Smartphones, Tablets, Laptops and Smart Watches.<br>
+<strong>The Design, Interface and Experience</strong> : UI, UX and OS.<br>
+The Productivity and Utility tools<br>
+Inventions in the field of Data Science and AI ( ML, DL, NLP, Neural Network, Computer Vision, IoT, etc. )<br>  
+Hobbies : Learning, Drawing, Reading, Teaching and Photography.
 </p>
   
 <p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
