@@ -149,7 +149,8 @@ Passionate and Creative for <strong>Website</strong> Designs, Customizations, La
 <h3 name="interest" align=center> 🧠 Hobbies and Interests 🏃🏻‍♂️ </h3>
 
 <p align="justify">  
-Apart from Data Science, Business Intelligence and Artificial Intelligence, I Love Learning, Exploring and Experimenting.<br>
+Apart from Data Science, Business Intelligence and Artificial Intelligence,<br> 
+I Love Learning and Exploring with :<br>
 <strong>The Digital Gadgets</strong> : Smartphones, Tablets, Laptops and Smart Watches.<br>
 <strong>The Design, Interface and Experience</strong> : UI, UX and OS.<br>
 The Productivity and Utility tools<br>
