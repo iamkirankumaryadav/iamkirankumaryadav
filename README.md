@@ -42,7 +42,7 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
 
 <p align="justify"> <strong>Language</strong> </p>
 
-> [**Python**](https://www.python.org/) | **SQL**
+> [**Python**](https://www.python.org/) | **SQL** | **DAX**
   
 <p align="justify"> <strong>Libraries</strong> </p>
 
