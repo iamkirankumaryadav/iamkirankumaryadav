@@ -35,10 +35,6 @@
 ---
   
 <h3 name="data-science" align="center">Data Science 🤖</h3>
-<p align="justify">
-Being Passionate about <strong>Data Science</strong>, I keep working on New Data Sets, Understanding the <strong>Domain</strong> and <strong>Business Requirements</strong>.
-Executing <strong>Analytical Experiments</strong> and Applying My <strong>Business Knowledge</strong> to Solve various Business related Problems. <strong>Exploratory Data Analysis</strong>, <strong>Data Preprocessing</strong>, <strong>Data Cleaning</strong> and <strong>Data Visualization</strong> using <a href="https://www.python.org/"><strong>Python</strong></a>. Exploring <strong>Hidden Patterns</strong> and <strong>Relationships</strong> using <strong>Graphs</strong> and <strong>Charts</strong>. 
-</p>
 
 <p align="justify"> <strong>Language</strong> </p>
 
@@ -48,7 +44,7 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
 
 > [**Pandas**](https://pandas.pydata.org/) | [**NumPy**](https://numpy.org/) | [**SciPy**](https://www.scipy.org/) | [**Matplotlib**](https://matplotlib.org/) | [**Seaborn**](https://seaborn.pydata.org/) | [**Plotly**](https://plotly.com/) | [**Bokeh**](https://bokeh.org/) | [**Scikit Learn**](https://scikit-learn.org/)
 
-<p align="justify"> <strong>Data Visualization Tools</strong> </p>
+<p align="justify"> <strong>Business Intelligence Tools</strong> </p>
 
 > [**Microsoft Power BI**](https://powerbi.microsoft.com/en-us/) | [**Google Data Studio**](https://datastudio.google.com/)
 
@@ -61,9 +57,6 @@ Executing <strong>Analytical Experiments</strong> and Applying My <strong>Busine
 ---
 
 <h3 name="full-stack-development" align="center">Full Stack Development 💻</h3>
-<p align="justify">
-Creating <strong>Web Forms</strong> and <strong>Active Server Pages</strong> using <a href="https://dotnet.microsoft.com/apps/aspnet"><strong>ASP.NET</strong></a> Framework and <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><strong>C#</strong></a> Programming Language over Integrated Development Environment of <a href="https://visualstudio.microsoft.com/vs/"><strong>Microsoft Visual Studio</strong></a> and <a href="https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms"><strong>Microsoft SQL Server Management Studio</strong></a>. Projects are Completely Responsive, working for <strong>Desktops</strong> and <strong>Tablets</strong>.
-</p>
 
 <p align="justify"> <strong>Front End</strong> </p>
 
@@ -86,9 +79,6 @@ Creating <strong>Web Forms</strong> and <strong>Active Server Pages</strong> usi
 ---
 
 <h3 name="web-design-and-development" align="center">Web Design and Development 🎯</h3>
-<p align="justify">
-Passionate and Creative for <strong>Website</strong> Designs, Customizations, Layouts, Forms, Components, Utilities, Icons, Styles, Navigations, Colors, Graphics, Vectors, Isometric Illustrations, <strong>Data Representation</strong>, <strong>Data Visualization</strong> and Everything that can make a <strong>Website</strong> and <strong>Visual Content</strong> Look Delightful. Iam Well Versed with <strong>Front End Responsive Frameworks</strong>.
-</p>
 
 <p align="justify"> <strong>Front End</strong> </p>
 
