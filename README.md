@@ -170,7 +170,7 @@ Hobbies : Learning, Drawing, Reading, Teaching and Photography.
 
 <p align="justify"> <strong>DataCamp</strong> </p>
 
-> [Python Introduction](PDF/IntroPython.pdf) | [Python Intermediate](PDF/Python.pdf) | [**Data Analysis** in **Excel**](PDF/DataAnalysisExcel.pdf)
+> [Python Intermediate](PDF/Python.pdf) | [**Data Analysis** in **Excel**](PDF/DataAnalysisExcel.pdf)
 
 > [**Data Cleaning** in Python](PDF/DataCleaningPython.pdf) | [**Data Manipulation** with **Pandas**](PDF/DataManipulationPandas.pdf) | [**Exploratory Data Analysis** in Python](PDF/EDAPython.pdf)
 
@@ -182,7 +182,7 @@ Hobbies : Learning, Drawing, Reading, Teaching and Photography.
 
 > [Applied Machine Learning Foundations](PDF/AppliedMachineLearningFoundations.pdf) | [Applied Machine Learning Algorithms](PDF/AppliedMachineLearningAlgorithms.pdf) | [Artificial Intelligence Foundation Machine Learning](PDF/ArtificialIntelligenceFoundationsMachineLearning.pdf)
  
-> [**Deep Learning** with **OpenCV**](PDF/LinkedInDeepLearningOpenCV.pdf) | [**NLP** with **Python** for **Machine Learning**](PDF/LinkedInNLPPythonMachineLearningEssential.pdf) | [**Text Analytics**](PDF/TextAnalytics.pdf)
+> [**NLP** with **Python** for **Machine Learning**](PDF/LinkedInNLPPythonMachineLearningEssential.pdf) | [**Text Analytics**](PDF/TextAnalytics.pdf)
  
 <p align="justify"> <strong>Kaggle</strong> </p>
 
