@@ -42,7 +42,7 @@
   
 <p align="justify"> <strong>Libraries</strong> </p>
 
-> [**Pandas**](https://pandas.pydata.org/) | [**NumPy**](https://numpy.org/) | [**SciPy**](https://www.scipy.org/) | [**Matplotlib**](https://matplotlib.org/) | [**Seaborn**](https://seaborn.pydata.org/) | [**Plotly**](https://plotly.com/) | [**Bokeh**](https://bokeh.org/) | [**Scikit Learn**](https://scikit-learn.org/)
+> [**Pandas**](https://pandas.pydata.org/) | [**NumPy**](https://numpy.org/) | [**Matplotlib**](https://matplotlib.org/) | [**Seaborn**](https://seaborn.pydata.org/) | [**Plotly**](https://plotly.com/) | [**Bokeh**](https://bokeh.org/) | [**Scikit Learn**](https://scikit-learn.org/)
 
 <p align="justify"> <strong>Business Intelligence Tools</strong> </p>
 
