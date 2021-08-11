@@ -170,7 +170,7 @@ Hobbies : Learning, Drawing, Reading, Teaching and Photography.
 
 <p align="justify"> <strong>DataCamp</strong> </p>
 
-> [Python Introduction](PDF/IntroPython.pdf) | [Python Intermediate](PDF/Python.pdf) | [Tableau](PDF/IntroTableau.pdf) | [SQL](PDF/IntroSQL.pdf) | [**Data Analysis** in **Excel**](PDF/DataAnalysisExcel.pdf)
+> [Python Introduction](PDF/IntroPython.pdf) | [Python Intermediate](PDF/Python.pdf) | [**Data Analysis** in **Excel**](PDF/DataAnalysisExcel.pdf)
 
 > [**Data Cleaning** in Python](PDF/DataCleaningPython.pdf) | [**Data Manipulation** with **Pandas**](PDF/DataManipulationPandas.pdf) | [**Exploratory Data Analysis** in Python](PDF/EDAPython.pdf)
 
