@@ -182,7 +182,7 @@ Hobbies : Learning, Drawing, Reading, Teaching and Photography.
 
 > [Applied Machine Learning Foundations](PDF/AppliedMachineLearningFoundations.pdf) | [Applied Machine Learning Algorithms](PDF/AppliedMachineLearningAlgorithms.pdf) | [Artificial Intelligence Foundation Machine Learning](PDF/ArtificialIntelligenceFoundationsMachineLearning.pdf)
  
-> [**NLP** with **Python** for **Machine Learning**](PDF/LinkedInNLPPythonMachineLearningEssential.pdf) | [**Text Analytics**](PDF/TextAnalytics.pdf)
+> [**NLP** with **Python** for **Machine Learning**](PDF/LinkedInNLPPythonMachineLearningEssential.pdf) 
  
 <p align="justify"> <strong>Kaggle</strong> </p>
 
@@ -194,7 +194,7 @@ Hobbies : Learning, Drawing, Reading, Teaching and Photography.
 
 <p align="justify"> <strong>365 Data Science</strong> </p>
 
-> [The Python Programmer **Bootcamp**](PDF/365ThePythonProgrammerBootcamp.pdf) | [**Tableau**](PDF/365Tableau.pdf) | [Git and GitHub](PDF/365GitAndGitHub.pdf)
+> [The Python Programmer **Bootcamp**](PDF/365ThePythonProgrammerBootcamp.pdf)
 
 <p align="justify"> <strong>Edureka</strong> </p>
 
