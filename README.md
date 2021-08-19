@@ -3,7 +3,7 @@
 </p>
 <p align="center" width="100%">
   <a href="https://www.linkedin.com/in/kk7296/"><img src="Image/LinkedIn.png" alt="LinkedIn" width=38 title="KK7296"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:Kirankumaryadav7296@gmail.com"><img src="Image/Gmail.png" alt="Gmail" width=38 title="Kirankumaryadav7296@gmail.com"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:Kirankumaryadav7296@gmail.com"><img src="Image/Gmail.png" alt="Gmail" width=40 title="Kirankumaryadav7296@gmail.com"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/[+919004967226]"><img src="Image/whatsapp.svg" width=38 alt="Whatsapp" title="+919004967226"></a>  
 </p>
 <P name="name" align="center"><h3 align="center">Kirankumar Yadav</h3></p>
