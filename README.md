@@ -4,8 +4,7 @@
 <p align="center" width="100%">
   <a href="https://www.linkedin.com/in/kk7296/"><img src="Image/linkedin.png" alt="LinkedIn" width="4%" title="KK7296"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:Kirankumaryadav7296@gmail.com"><img src="Image/Gmail.png" alt="Gmail" width="4%" title="Kirankumaryadav7296@gmail.com"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/[+919004967226]"><img src="Image/whatsapp.svg" width="4%" alt="Whatsapp" title="+919004967226"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/KIRAN7296KUMAR/"><img src="Image/Tweet.png" width="4%" alt="Twitter" title="KIRAN7296KUMAR"></a>
+  <a href="https://wa.me/[+919004967226]"><img src="Image/whatsapp.svg" width="4%" alt="Whatsapp" title="+919004967226"></a>  
 </p>
 <P name="name" align="center"><h3 align="center">Kirankumar Yadav</h3></p>
 <p align="center">🚀 <strong>Data Scientist</strong>  | <strong>Full Stack Developer</strong>  | <strong>Web Designer</strong></p>  
