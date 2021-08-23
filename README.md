@@ -196,4 +196,4 @@ Hobbies : Learning, Drawing, Reading, Teaching and Photography.
 <p align="center">
   <img src="Image/Smile.gif" alt="Kirankumar" width="10%">
 </p>
-<P name="name" align="center"><h5 align="center">Learn, Implement & Share</h5></p>
+<P name="name" align="center"><h6 align="center">Learn, Implement & Share</h6></p>
