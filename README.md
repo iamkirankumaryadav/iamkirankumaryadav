@@ -124,9 +124,9 @@
 
 > [Python](https://www.python.org/) Libraries : [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [Plotly](https://plotly.com/), [Bokeh](https://bokeh.org/) and [Scikit Learn](https://scikit-learn.org/).
 
-> Comfortable with **Data Visualization** Tools like [**Microsoft Power BI**](https://powerbi.microsoft.com/en-us/) and [**Google Data Studio**](https://datastudio.google.com/).
+> Business Intelligence Tools : [**Microsoft Power BI**](https://powerbi.microsoft.com/en-us/), [Data Analysis Expressions](https://docs.microsoft.com/en-us/dax/) and [**Google Data Studio**](https://datastudio.google.com/).
 
-> Handling Data using [**Microsoft SQL Server Management Studio**](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms) and [**Microsoft Excel**](https://www.microsoft.com/en-in/microsoft-365/excel).
+> Data : [**Microsoft SQL Server Management Studio**](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms) and [**Microsoft Excel**](https://www.microsoft.com/en-in/microsoft-365/excel).
 
 > Design and Development of Website using **HTML**, **CSS**, **JavaScript**, [**Bootstrap**](https://getbootstrap.com/) and [**Markdown**](https://www.markdownguide.org/). 
 
