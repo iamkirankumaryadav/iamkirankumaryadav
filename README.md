@@ -26,7 +26,6 @@
 
 <h4 align="center" width="100%">
   <a href="#data-science">Data Science</a> | 
-  <a href="#full-stack-development">Full Stack Development</a> | 
   <a href="#web-design-and-development">Web Design and Development</a>
 </h4>
   
@@ -50,27 +49,10 @@
 
 > [**Anaconda**](https://www.anaconda.com/) | [**Jupyter**](https://jupyter.org/) | [**Microsoft Visual Studio Code**](https://code.visualstudio.com/)
 
-<p align="right"><a href="#name" align="right"> <strong>Go Back to Top</strong></a></p>
-
----
-
-<h3 name="full-stack-development" align="center">Full Stack Development 💻</h3>
-
-<p align="justify"> <strong>Front End</strong> </p>
-
-> [**HTML5**](https://developer.mozilla.org/en-US/docs/Web/HTML) | [**CSS3**](https://css-tricks.com/) | [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [**Bootstrap**](https://getbootstrap.com/)
-
-<p align="justify"> <strong>Back End</strong> </p>
-
-> [**Python**](https://www.python.org/) | [**C#**](https://docs.microsoft.com/en-us/dotnet/csharp/) | [**ASP.NET**](https://dotnet.microsoft.com/apps/aspnet) 
-
 <p align="justify"> <strong>Database</strong> </p>
 
-> **SQL** | [**Microsoft SQL Server Management Studio**](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms)
+> [**Microsoft SQL Server Management Studio**](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms)
 
-<p align="justify"> <strong>Interactive Development Environment</strong> </p>
-
-> [**Microsoft Visual Studio**](https://visualstudio.microsoft.com/vs/) 
 
 <p align="right"><a href="#name" align="right"> <strong>Go Back to Top</strong></a></p>
 
