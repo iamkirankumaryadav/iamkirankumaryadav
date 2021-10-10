@@ -26,7 +26,7 @@
 
 <h4 align="center" width="100%">
   <a href="#data-science">Data Science</a> | 
-  <a href="#web-design-and-development">Web Design and Development</a>
+  <a href="#web-design-and-productivity">Web Design and Productivity</a>
 </h4>
   
 ---
@@ -58,7 +58,7 @@
 
 ---
 
-<h3 name="web-design-and-development" align="center">Web Design and Development 🎯</h3>
+<h3 name="web-design-and-productivity" align="center">Web Design and Productivity 🎯</h3>
 
 <p align="justify"> <strong>Front End</strong> </p>
 
@@ -66,7 +66,7 @@
   
 <p align="justify"> <strong>Text Editors</strong> </p>
 
-> [**Microsoft Visual Studio Code**](https://code.visualstudio.com/) | [**Sublime Text**](https://www.sublimetext.com/) | [**Atom**](https://atom.io/) | [**Bracket**](http://brackets.io/)
+> [**Microsoft Visual Studio Code**](https://code.visualstudio.com/) 
 
 <p align="justify"> <strong>Design Tools</strong> </p>
 
