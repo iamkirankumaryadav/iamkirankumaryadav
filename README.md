@@ -7,7 +7,7 @@
   <a href="https://wa.me/[+919004967226]"><img src="Image/whatsapp.svg" width=38 alt="Whatsapp" title="+919004967226"></a>  
 </p>
 <P name="name" align="center"><h3 align="center">Kirankumar Yadav</h3></p>
-<p align="center">🚀 <strong>Data Scientist</strong>  | <strong>Full Stack Developer</strong>  | <strong>Web Designer</strong></p>  
+<p align="center">🚀 <strong>Data Scientist</strong>  | <strong>Web Design & Productivity</strong></p>  
 <p align="center">🤖 <strong>Data Science</strong> | <strong>Business Intelligence</strong> | <strong>Artificial Intelligence</strong></p>  
 <p align="center">💻 <strong>Python</strong> | <strong>Exploratory Data Analysis</strong> | <strong>Data Cleaning</strong> | <strong>Data Visualization</strong></p>
 
