@@ -84,7 +84,7 @@
 
 <p align="justify"> University of Mumbai</p>
   
-> Bachelor of Engineering | **Computer Engineering** | CGPA - **7.54** | May 2013 - May 2017 
+> Bachelor of Engineering | **Computer Engineering** | CGPA - **7.54** | May 2017 
 
 <p align="justify"> Higher Secondary School Certificate <strong>12<sup>th</sup></strong></p>
   
@@ -107,6 +107,8 @@
 > [**Python**](https://www.python.org/) Libraries : [**Pandas**](https://pandas.pydata.org/), [**NumPy**](https://numpy.org/), [**Matplotlib**](https://matplotlib.org/), [**Seaborn**](https://seaborn.pydata.org/), [**Plotly**](https://plotly.com/), [**Bokeh**](https://bokeh.org/) and [**Scikit Learn**](https://scikit-learn.org/).
 
 > Business Intelligence Tools : [**Microsoft Power BI**](https://powerbi.microsoft.com/en-us/), [**Data Analysis Expressions**](https://docs.microsoft.com/en-us/dax/) and [**Google Data Studio**](https://datastudio.google.com/).
+
+>  Excel Analytics : **Power Pivot** and **Power Query**.
 
 > Data : [**Microsoft SQL Server Management Studio**](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms) and [**Microsoft Excel**](https://www.microsoft.com/en-in/microsoft-365/excel).
 
