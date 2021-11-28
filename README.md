@@ -127,7 +127,7 @@ I love learning and exploring with :<br>
 <strong>The Design, Interface and Experience</strong> : UI, UX and OS.<br>
 The Productivity, Creativity and Utility tools<br>
 Inventions in the field of Data Science and AI ( ML, DL, NLP, Neural Network, Computer Vision, IoT, etc. )<br>  
-Hobbies : Learning, Drawing, Reading, Teaching and Photography.
+<br>Hobbies</br> : Learning, Reading, Teaching, Drawing and Photography.
 </p>
   
 <p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
