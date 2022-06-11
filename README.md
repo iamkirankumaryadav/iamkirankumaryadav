@@ -84,7 +84,7 @@
 
 <p align="justify"> University of Mumbai</p>
   
-> Bachelor of Engineering | **Computer Engineering** | CGPA - **7.54** | May 2017 
+> Bachelor of Engineering | **Computer Engineering** | May 2017 
 
 <p align="justify"> Higher Secondary School Certificate <strong>12<sup>th</sup></strong></p>
   
