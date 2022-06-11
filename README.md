@@ -80,7 +80,7 @@
 
 <p align="justify">Edvancer ( IIT + IIM Venture )</p>
 
-> Post Graduate in [**Data Science**](PDF/CertifiedDataScienceSpecialist.pdf) and [**Artificial Intelligence**](PDF/CertifiedDataScientistSpecialist.pdf)
+> Postgraduate in [**Data Science**](PDF/CertifiedDataScienceSpecialist.pdf) and [**Artificial Intelligence**](PDF/CertifiedDataScientistSpecialist.pdf)
 
 <p align="justify"> University of Mumbai</p>
   
