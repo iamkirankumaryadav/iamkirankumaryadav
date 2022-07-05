@@ -104,13 +104,13 @@
  
 > Exploratory Data Analysis, Data Cleaning, Data Preprocessing and Data Visualization using Python.
 
-> [**Python**](https://www.python.org/) Libraries : [**Pandas**](https://pandas.pydata.org/), [**NumPy**](https://numpy.org/), [**Matplotlib**](https://matplotlib.org/), [**Seaborn**](https://seaborn.pydata.org/), [**Plotly**](https://plotly.com/), [**Bokeh**](https://bokeh.org/) and [**Scikit Learn**](https://scikit-learn.org/).
+> [**Python**](https://www.python.org/) Libraries: [**Pandas**](https://pandas.pydata.org/), [**NumPy**](https://numpy.org/), [**Matplotlib**](https://matplotlib.org/), [**Seaborn**](https://seaborn.pydata.org/), [**Plotly**](https://plotly.com/), [**Bokeh**](https://bokeh.org/) and [**Scikit Learn**](https://scikit-learn.org/).
 
-> Business Intelligence Tools : [**Microsoft Power BI**](https://powerbi.microsoft.com/en-us/), [**Data Analysis Expressions**](https://docs.microsoft.com/en-us/dax/) and [**Google Data Studio**](https://datastudio.google.com/).
+> Business Intelligence Tools: [**Microsoft Power BI**](https://powerbi.microsoft.com/en-us/), [**Data Analysis Expressions**](https://docs.microsoft.com/en-us/dax/) and [**Google Data Studio**](https://datastudio.google.com/).
 
->  Excel Analytics : **Power Pivot** and **Power Query**.
+>  Excel Analytics: **Power Pivot** and **Power Query**.
 
-> Data : [**Microsoft SQL Server Management Studio**](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms) and [**Microsoft Excel**](https://www.microsoft.com/en-in/microsoft-365/excel).
+> Data: [**Microsoft SQL Server Management Studio**](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms) and [**Microsoft Excel**](https://www.microsoft.com/en-in/microsoft-365/excel).
 
 > Website Design and Development : HTML, CSS, JavaScript, [**Bootstrap**](https://getbootstrap.com/) and [**Markdown**](https://www.markdownguide.org/). 
 
@@ -122,13 +122,13 @@
 
 <p align="justify">  
 Apart from Data Science, Business Intelligence and Artificial Intelligence,<br> 
-I love learning and exploring with :<br>
-<strong>The Digital Gadgets</strong> : Smartphones, Tablets, Laptops and Smart Watches.<br>
+I love learning and exploring with:<br>
+<strong>The Digital Gadgets</strong>: Smartphones, Tablets, Laptops and Smart Watches.<br>
 <strong>The Design, Interface and Experience</strong> : UI, UX and OS.<br>
 The Productivity, Creativity and Utility tools<br>
 Productivity Tools: Google Workspace, Microsoft 365, Salesforce Quip and Apple iWork<br>
 Inventions in the field of Data Science and AI ( ML, DL, NLP, Neural Network, Computer Vision, IoT, etc. )<br>  
-<strong>Hobbies</strong> : Learning, Reading, Teaching, Drawing and Photography.
+<strong>Hobbies</strong>: Learning, Reading, Teaching, Drawing and Photography.
 </p>
   
 <p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
