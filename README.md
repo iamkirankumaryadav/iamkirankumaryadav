@@ -126,6 +126,7 @@ I love learning and exploring with :<br>
 <strong>The Digital Gadgets</strong> : Smartphones, Tablets, Laptops and Smart Watches.<br>
 <strong>The Design, Interface and Experience</strong> : UI, UX and OS.<br>
 The Productivity, Creativity and Utility tools<br>
+Productivity Tools: Google Workspace, Microsoft 365, Salesforce Quip and Apple iWork<br>
 Inventions in the field of Data Science and AI ( ML, DL, NLP, Neural Network, Computer Vision, IoT, etc. )<br>  
 <strong>Hobbies</strong> : Learning, Reading, Teaching, Drawing and Photography.
 </p>
