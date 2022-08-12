@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Image/Overlay.png" alt="Kirankumar" width="20%">
+<img src="Image/Me.png" alt="Kirankumar" width="20%">
 </p>
 <p align="center" width="100%">
   <a href="https://www.linkedin.com/in/kk7296/"><img src="Image/LinkedIn.png" alt="LinkedIn" width=38 title="KK7296"></a>&nbsp;&nbsp;&nbsp;
