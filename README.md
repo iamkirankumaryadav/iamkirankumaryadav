@@ -51,7 +51,11 @@
 
 <p align="justify"> <strong>Database</strong> </p>
 
-> [**Microsoft SQL Server Management Studio**](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms)
+> [**Microsoft SQL Server Management Studio**](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms) | Teradata | Snowflake
+
+<p align="justify"> <strong>RDBMS</strong> </p>
+
+> MySQL Work Bench | PostgreSQL | Microsoft Access
 
 
 <p align="right"><a href="#name" align="right"> <strong>Go Back to Top</strong></a></p>
