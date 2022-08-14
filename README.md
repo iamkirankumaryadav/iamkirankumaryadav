@@ -26,7 +26,7 @@
 
 <h4 align="center" width="100%">
   <a href="#data-science">Data Science</a> | 
-  <a href="#web-design-and-productivity">Web Design and Productivity</a>
+  <a href="#web-design-and-productivity">Productivity</a>
 </h4>
   
 ---
