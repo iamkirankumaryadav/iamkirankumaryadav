@@ -92,11 +92,11 @@
 
 <p align="justify"> Higher Secondary School Certificate <strong>12<sup>th</sup></strong></p>
   
-> <strong>65.83 %</strong> | May 2013
+> <strong>66 %</strong> | May 2013
 
 <p align="justify"> Secondary School Certificate <strong>10<sup>th</sup></strong></p>
   
-> <strong>89.82 %</strong> | May 2011
+> <strong>90 %</strong> | May 2011
 
 <p align="right"><a href="#name" align="right"> <strong>Go Back to Top</strong></a></p>
 
