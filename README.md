@@ -122,7 +122,7 @@
 
 ---
 
-<h3 name="interest" align=center> 🧠 Hobbies and Interests 🏃🏻 </h3>
+<h3 name="interest" align=center> Interests 🏃🏻 </h3>
 
 <p align="justify">  
 Apart from Data Science, Business Intelligence and Artificial Intelligence,<br> 
