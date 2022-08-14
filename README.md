@@ -62,7 +62,7 @@
 
 ---
 
-<h3 name="web-design-and-productivity" align="center">Web Design and Productivity 🎯</h3>
+<h3 name="web-design-and-productivity" align="center">Productivity 🎯</h3>
 
 <p align="justify"> <strong>Front End</strong> </p>
 
