@@ -23,13 +23,6 @@
 </h4>
 
 ---
-
-<h4 align="center" width="100%">
-  <a href="#data-science">Data Science</a> | 
-  <a href="#web-design-and-productivity">Productivity</a>
-</h4>
-  
----
   
 <h3 name="data-science" align="center">Data Science 🤖</h3>
 
@@ -57,24 +50,6 @@
 
 > MySQL Work Bench | PostgreSQL | Microsoft Access
 
-
-<p align="right"><a href="#name" align="right"> <strong>Go Back to Top</strong></a></p>
-
----
-
-<h3 name="web-design-and-productivity" align="center">Productivity 🎯</h3>
-
-<p align="justify"> <strong>Front End</strong> </p>
-
-> [**HTML5**](https://developer.mozilla.org/en-US/docs/Web/HTML) | [**CSS3**](https://css-tricks.com/) | [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [**Bootstrap**](https://getbootstrap.com/) | [**Markdown**](https://www.markdownguide.org/)
-  
-<p align="justify"> <strong>Text Editors</strong> </p>
-
-> [**Microsoft Visual Studio Code**](https://code.visualstudio.com/) 
-
-<p align="justify"> <strong>Design Tools</strong> </p>
-
-> [**Canva**](https://www.canva.com/en_gb/) | [**Adobe XD**](https://www.adobe.com/in/products/xd.html) | [**Framer**](https://www.framer.com/) | [**Figma**](https://www.figma.com/)
 
 <p align="right"><a href="#name" align="right"> <strong>Go Back to Top</strong></a></p>
 
