@@ -36,7 +36,7 @@
 
 <p align="justify"> <strong>Business Intelligence Tools</strong> </p>
 
-> [**Microsoft Power BI**](https://powerbi.microsoft.com/en-us/) | [**Google Data Studio**](https://datastudio.google.com/)
+> [**Microsoft Power BI**](https://powerbi.microsoft.com/en-us/) | [**Google Data Studio**](https://datastudio.google.com/) | [**Tableau**](https://www.tableau.com/)
 
 <p align="justify"> <strong>Environment</strong> </p>
 
