@@ -12,9 +12,9 @@
 <p align="center">💻 <strong>Python</strong> | <strong>Exploratory Data Analysis</strong> | <strong>Data Cleaning</strong> | <strong>Data Visualization</strong></p>
 
 <h4 align="center" width="100%">
-  <a href="https://kirankumar7296.github.io/Portfolio"> <strong>Portfolio</strong> </a> |
-  <a href="https://kirankumar7296.github.io/Resume"> <strong>Digital Resume</strong> </a> |
-  <a href="https://kirankumar7296.github.io/Portfolio/PDF/Resume.pdf"> <strong>Resume PDF</strong></a> |
+  <a href="https://iamkirankumaryadav.github.io/Portfolio"> <strong>Portfolio</strong> </a> |
+  <a href="https://iamkirankumaryadav.github.io/Resume"> <strong>Digital Resume</strong> </a> |
+  <a href="https://iamkirankumaryadav.github.io/Portfolio/PDF/Resume.pdf"> <strong>Resume PDF</strong></a> |
   <a href="https://sites.google.com/view/kirankumar"> <strong>Site</strong></a> |
   <a href="#education"> <strong>Education</strong> </a> |
   <a href="#skill"> <strong>Skills</strong> </a> | 
