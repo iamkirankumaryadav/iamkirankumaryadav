@@ -14,7 +14,7 @@
 <h4 align="center" width="100%">
   <a href="https://iamkirankumaryadav.github.io/Portfolio"> <strong>Portfolio</strong> </a> |
   <a href="https://iamkirankumaryadav.github.io/Resume"> <strong>Digital Resume</strong> </a> |
-  <a href="https://iamkirankumaryadav.github.io/Portfolio/PDF/Kirankumar Yadav.pdf" target="_blank"> <strong>Resume PDF</strong></a> |
+  <a href=["https://iamkirankumaryadav.github.io/Portfolio/PDF/Kirankumar Yadav.pdf"](https://iamkirankumaryadav.github.io/Portfolio/PDF/Kirankumar%20Yadav.pdf)> <strong>Resume PDF</strong></a> |
   <a href="#education"> <strong>Education</strong> </a> |
   <a href="#skill"> <strong>Skills</strong> </a> | 
   <a href="#interest"> <strong>Interests</strong> </a> | 
