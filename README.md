@@ -56,9 +56,7 @@
 
 <h3 name="education" align="center">Education 🎓</h3>
 
-<p align="justify">Edvancer ( IIT + IIM Venture )</p> 
-
-> Postgraduate in [**Data Science**](PDF/CertifiedDataScienceSpecialist.pdf) and [**Artificial Intelligence**](PDF/CertifiedDataScientistSpecialist.pdf)
+<p align="justify">Postgraduate in <a href="PDF/CertifiedDataScienceSpecialist.pdf" target="_blank">Data Science</a> and <a href="PDF/CertifiedDataScientistSpecialist.pdf" target="_blank">Artificial Intelligence</a>, Edvancer ( IIT + IIM Venture )</p> 
 
 <p align="justify"> University of Mumbai</p> 
 
