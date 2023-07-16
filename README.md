@@ -49,6 +49,9 @@
 
 > MySQL Work Bench | PostgreSQL | Microsoft Access
 
+<p align="justify"> <strong>Future of AI</strong> </p>
+
+> [**Google AI**](https://ai.google/) | [**Generative AI**](https://ai.google/discover/generativeai/) | [**Duet AI**](https://workspace.google.com/blog/product-announcements/duet-ai) | [**Microsoft AI**](https://www.microsoft.com/en-us/ai) | [**Microsoft 365 Copilot**](https://www.microsoft.com/en-us/microsoft-365/blog/2023/03/16/introducing-microsoft-365-copilot-a-whole-new-way-to-work/?culture=en-us&country=us)
 
 <p align="right"><a href="#name" align="right"> <strong>Go Back to Top</strong></a></p>
 
