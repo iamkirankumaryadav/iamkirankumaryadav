@@ -58,7 +58,7 @@
 
 <p align="justify">Postgraduate in <a href="PDF/CertifiedDataScienceSpecialist.pdf" target="_blank">Data Science</a> and <a href="PDF/CertifiedDataScientistSpecialist.pdf" target="_blank">Artificial Intelligence</a>, Edvancer ( IIT + IIM Venture )</p> 
 
-<p align="justify">Bachelor of Engineering, <strong>Computer Engineering</strong> University of Mumbai, May 2017</p> 
+<p align="justify">Bachelor of Engineering, <strong>Computer Engineering</strong>, University of Mumbai, May 2017</p> 
 
 <p align="justify">Higher Secondary School Certificate <strong>12<sup>th</sup></strong>, May 2013</p>
 
