@@ -8,7 +8,8 @@
 </p>
 <P name="name" align="center"><h3 align="center">Kirankumar Yadav</h3></p>
 <p align="center">🚀 <strong>Data Scientist</strong>  | <strong>Digital Productivity Consultant</strong></p>  
-<p align="center">🤖 <strong>Data Science</strong> | <strong>Business Intelligence</strong> | <strong>Artificial Intelligence</strong></p>  
+<p align="center">📦 <strong>Data Science</strong> | <strong>Data Analytics</strong> | <strong>Business Analytics</strong></p> 
+<p align="center">🤖 <strong>Business Intelligence</strong> | <strong>Artificial Intelligence</strong> | <strong>Generative AI</strong></p> 
 <p align="center">💻 <strong>Python</strong> | <strong>Exploratory Data Analysis</strong> | <strong>Data Cleaning</strong> | <strong>Data Visualization</strong></p>
 
 <h4 align="center" width="100%">
