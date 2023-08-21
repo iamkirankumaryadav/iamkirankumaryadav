@@ -13,7 +13,7 @@
 <p align="center">💻 <strong>Python</strong> | <strong>Exploratory Data Analysis</strong> | <strong>Data Cleaning</strong> | <strong>Data Visualization</strong></p>
 
 <h4 align="center" width="100%">
-  <a href="https://iamkirankumaryadav.super.site/"> <strong>Portfolio</strong> </a> |
+  <a href="https://iamkirankumaryadav.super.site/"> <strong>Portfolio Website</strong> </a> |
   <a href="https://iamkirankumaryadav.github.io/Resume"> <strong>Digital Resume</strong> </a> |
   <a href="https://iamkirankumaryadav.github.io/Portfolio/PDF/Kirankumar Yadav.pdf"> <strong>Resume PDF</strong></a> |
   <a href="#education"> <strong>Education</strong> </a> |
@@ -86,7 +86,7 @@
 
 > Data: [**Microsoft SQL Server Management Studio**](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms) and [**Microsoft Excel**](https://www.microsoft.com/en-in/microsoft-365/excel).
 
-> Website Design and Development : HTML, CSS, JavaScript, [**Bootstrap**](https://getbootstrap.com/) and [**Markdown**](https://www.markdownguide.org/). 
+> Website Design and Development: HTML, CSS, JavaScript, [**Bootstrap**](https://getbootstrap.com/) and [**Markdown**](https://www.markdownguide.org/). 
 
 <p align="right"><a href="#name" align=right> <strong>Go Back to Top</strong></a></p>
 
@@ -99,9 +99,9 @@ Apart from Data Science, Business Intelligence and Artificial Intelligence,<br>
 I love exploring:<br>
 <strong>The Digital Gadgets</strong>: Smartphones, Tablets, Laptops and Smart Watches.<br>
 <strong>The Design, Interface and Experience</strong> : UI, UX and OS.<br>
-The Productivity, Creativity and Utility tools<br>
+The Productivity, Creativity and Utility Tools <br>
 Productivity Tools: Google Workspace, Microsoft 365, Salesforce Quip and Apple iWork<br>
-Inventions in the field of Data Science and AI ( ML, DL, NLP, Neural Network, Computer Vision, IoT, etc. )<br>  
+Inventions in the field of Data Science and AI ( ML, DL, NLP, Neural Networks, Computer Vision, IoT, etc. )<br>  
 <strong>Hobbies</strong>: Learning, Reading, Teaching, Drawing and Photography.
 </p>
   
