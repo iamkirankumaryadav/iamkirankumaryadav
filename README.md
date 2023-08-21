@@ -13,7 +13,7 @@
 <p align="center">💻 <strong>Python</strong> | <strong>Exploratory Data Analysis</strong> | <strong>Data Cleaning</strong> | <strong>Data Visualization</strong></p>
 
 <h4 align="center" width="100%">
-  <a href="https://iamkirankumaryadav.super.site/"> <strong>Portfolio Website</strong> </a> |
+  <a href="https://iamkirankumaryadav.super.site/"> <strong>Portfolio</strong> </a> |
   <a href="https://iamkirankumaryadav.github.io/Resume"> <strong>Digital Resume</strong> </a> |
   <a href="https://iamkirankumaryadav.github.io/Portfolio/PDF/Kirankumar Yadav.pdf"> <strong>Resume PDF</strong></a> |
   <a href="#education"> <strong>Education</strong> </a> |
