@@ -16,6 +16,7 @@
   <a href="https://iamkirankumaryadav.super.site/"> <strong>Portfolio</strong> </a> |
   <a href="https://iamkirankumaryadav.github.io/Resume"> <strong>Digital Resume</strong> </a> |
   <a href="https://iamkirankumaryadav.github.io/Portfolio/PDF/Kirankumar Yadav.pdf"> <strong>Resume PDF</strong></a> |
+  <a href="https://iamkirankumaryadav.github.io/Portfolio/PDF/Kirankumar Yadav ATS.pdf"> <strong>ATS Version</strong></a> |
   <a href="#education"> <strong>Education</strong> </a> |
   <a href="#skill"> <strong>Skills</strong> </a> | 
   <a href="#interest"> <strong>Interests</strong> </a> | 
