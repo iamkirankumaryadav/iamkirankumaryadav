@@ -15,8 +15,7 @@
 <h4 align="center" width="100%">
   <a href="https://iamkirankumaryadav.super.site/"> <strong>Portfolio</strong> </a> |
   <a href="https://iamkirankumaryadav.github.io/Resume"> <strong>Digital Resume</strong> </a> |
-  <a href="https://iamkirankumaryadav.github.io/Portfolio/PDF/Kirankumar Yadav.pdf"> <strong>Resume PDF</strong></a> |
-  <a href="https://iamkirankumaryadav.github.io/Portfolio/PDF/Kirankumar_Yadav.pdf"> <strong>ATS Friendly Resume</strong></a> |
+  <a href="https://iamkirankumaryadav.github.io/Portfolio/PDF/Kirankumar_Yadav.pdf"> <strong>Resume PDF</strong></a> |
   <a href="#education"> <strong>Education</strong> </a> |
   <a href="#skill"> <strong>Skills</strong> </a> | 
   <a href="#interest"> <strong>Interests</strong> </a> | 
