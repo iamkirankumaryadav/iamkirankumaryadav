@@ -95,14 +95,22 @@
 <h3 name="interest" align=center> Interests 🏃🏻 </h3>
 
 <p align="justify">  
-Apart from Data Science, Business Intelligence and Artificial Intelligence,<br> 
-I love exploring:<br>
-<strong>The Digital Gadgets</strong>: Smartphones, Tablets, Laptops and Smart Watches.<br>
-<strong>The Design, Interface and Experience</strong> : UI, UX and OS.<br>
-The Productivity, Creativity and Utility Tools <br>
-Productivity Tools: Google Workspace, Microsoft 365, Salesforce Quip and Apple iWork<br>
-Inventions in the field of Data Science and AI ( ML, DL, NLP, Neural Networks, Computer Vision, IoT, etc. )<br>  
-<strong>Hobbies</strong>: Learning, Reading, Teaching, Drawing and Photography.
+<ul>
+  <li>
+    Apart from <strong>Data Science</strong>, <strong>MLOps</strong>, <strong>Data Analytics</strong>, <strong>Business Intelligence</strong> and <strong>Artificial Intelligence</strong>, I actively participate in <strong>Google I/O</strong>, <strong>Microsoft Build</strong>, <strong>Apple WWDC</strong>, and <strong>Adobe Summit</strong>s to stay up to date.
+  </li>
+  <li>
+    I enjoy exploring operating systems and digital device user interfaces to optimize the user experience.
+  </li>
+  <li>
+    I have a great interest in experimenting with productivity, creativity, utility and applications.
+  </li>
+  <li>
+    Discovering the limitless possibilities of those application features and contributing my feedback to help make it even better.
+  </li>
+  <li>
+    I actively participate in early access programs (Experiments, Preview, and Beta versions) for new applications and operating systems updates to provide productive feedback on new features, usability, and accessibility.</li>
+</ul>
 </p>
   
 <p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
