@@ -8,7 +8,6 @@
 </p>
 <P name="name" align="center"><h3 align="center">Kirankumar Yadav</h3></p>
 <p align="center">🚀 <strong>Data Science Specialist</strong>  | <strong>Digital Productivity Specialist</strong></p>  
-<p align="center">📦 <strong>Data Science</strong> | <strong>Data Analytics</strong> | <strong>Business Analytics</strong></p> 
 <p align="center">🤖 <strong>Machine Learning Operations</strong> | <strong>Business Intelligence</strong></p> 
 <p align="center">💻 <strong>Python</strong> | <strong>Exploratory Data Analysis</strong> | <strong>Data Cleaning</strong> | <strong>Data Visualization</strong></p>
 
