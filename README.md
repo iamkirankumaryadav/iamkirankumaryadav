@@ -58,7 +58,7 @@
 
 <h3 name="education" align="center">Education 🎓</h3>
 
-<p align="justify">Postgraduate in <a href="PDF/CertifiedDataScienceSpecialist.pdf" target="_blank">Data Science</a> and <a href="PDF/CertifiedDataScientistSpecialist.pdf" target="_blank">Artificial Intelligence</a>, Edvancer ( IIT + IIM Venture ), Mumbai, 2020</p> 
+<p align="justify">Postgraduate in <a href="PDF/CertifiedDataScienceSpecialist.pdf" target="_blank">Data Science</a> and <a href="PDF/CertifiedDataScientistSpecialist.pdf" target="_blank">Artificial Intelligence</a>, Edvancer (IIT-IIM Venture), Mumbai, 2020</p> 
 
 <p align="justify">Bachelor of Engineering, <strong>Computer Engineering</strong>, University of Mumbai, 2017</p> 
 
