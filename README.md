@@ -119,7 +119,12 @@
 
 <p align="justify"> <strong>Forage Job Simulations</strong></p>
  
-> [**BCG X**](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_DZ39fDGtnRC7ZbpA3_1705154262049_completion_certificate.pdf?trk=public_profile_see-credential)
+> [**BCG X**](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_DZ39fDGtnRC7ZbpA3_1705154262049_completion_certificate.pdf?trk=public_profile_see-credential) | [**British Airways**](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_DZ39fDGtnRC7ZbpA3_1705166138330_completion_certificate.pdf?trk=public_profile_see-credential) | [**Cognizant**](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Cognizant/5N2ygyhzMWjKQmgCK_Cognizant_DZ39fDGtnRC7ZbpA3_1705251443101_completion_certificate.pdf?trk=public_profile_see-credential) | [**JPMorgan Chase & Co**](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/5QiaMtZ4k8ngYKn4D_JPMorgan%20Chase%20&%20Co._DZ39fDGtnRC7ZbpA3_1705302708555_completion_certificate.pdf?trk=public_profile_see-credential) | [**PwC**](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_DZ39fDGtnRC7ZbpA3_1705203983920_completion_certificate.pdf?trk=public_profile_see-credential) | [**Quantium**](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Quantium/NkaC7knWtjSbi6aYv_Quantium_DZ39fDGtnRC7ZbpA3_1705248795108_completion_certificate.pdf?trk=public_profile_see-credential)
+
+<p align="justify"> <strong>Google</strong></p>
+ 
+> [**Google Cloud Public Profile**](https://www.cloudskillsboost.google/public_profiles/3a882cc0-9f82-4c2d-9573-39eb7786c71e)
+
 
 <p align="justify"> <strong>Edvancer</strong></p>
  
