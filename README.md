@@ -117,6 +117,10 @@
 
 <h3 name="certification" align="center">Certifications 🚀</h3>
 
+<p align="justify"> <strong>Forage Job Simulations</strong></p>
+ 
+> [**BCG X**](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_DZ39fDGtnRC7ZbpA3_1705154262049_completion_certificate.pdf?trk=public_profile_see-credential)
+
 <p align="justify"> <strong>Edvancer</strong></p>
  
 > [**Data Scientist** - Post Graduate Certification in **Data Science**](PDF/CertifiedDataScienceSpecialist.pdf) and [**Artificial Intelligence**](PDF/CertifiedDataScientistSpecialist.pdf)
