@@ -95,7 +95,7 @@
 <p align="justify">  
 <ul>
   <li>
-    Apart from <strong>Data Science</strong>, <strong>MLOps</strong>, <strong>Data Analytics</strong>, <strong>Business Intelligence</strong> and <strong>Artificial Intelligence</strong>, I actively participate in <strong>Google I/O</strong>, <strong>Microsoft Build</strong>, <strong>Apple WWDC</strong>, and <strong>Adobe Summit</strong>s to stay up to date.
+    Apart from <strong>Data Science</strong>, <strong>MLOps</strong>, <strong>Data Analytics</strong>, <strong>Business Intelligence</strong> and <strong>Artificial Intelligence</strong>, I actively participate in <a href="https://io.google/"><strong>Google I/O</strong></a>, <a href="https://build.microsoft.com/"><strong>Microsoft Build</strong></a>, <a href="https://developer.apple.com/wwdc"><strong>Apple WWDC</strong></a>, <a href="https://www.samsungdeveloperconference.com/"><strong>Samsung SDC</strong></a>, <a href="https://www.ces.tech/"><strong>CES</strong></a>, and <a href="https://business.adobe.com/summit/adobe-summit.html"><strong>Adobe Summit</strong></a> to stay up to date.
   </li>
   <li>
     I enjoy exploring operating systems and digital device user interfaces to optimize the user experience.
