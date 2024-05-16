@@ -7,8 +7,8 @@
   <a href="https://wa.me/[+919004967226]"><img src="Image/whatsapp.svg" width=38 alt="Whatsapp" title="+919004967226"></a>  
 </p>
 <P name="name" align="center"><h3 align="center">Kirankumar Yadav</h3></p>
-<p align="center">🚀 <strong>Data Science Specialist</strong>  | <strong>MLOps (Machine Learning Operations)</strong></p>  
-<p align="center">🤖 <strong>BI (Business Intelligence)</strong> | <strong>Digital Productivity Specialist</strong></p> 
+<p align="center">🚀 <strong>Data Science Specialist</strong>  | <strong>Machine Learning Operations (MLOps)</strong></p>  
+<p align="center">🤖 <strong>Business Intelligence (BI)</strong> | <strong>Digital Productivity Specialist</strong></p> 
 
 <h4 align="center" width="100%">
   <a href="https://iamkirankumaryadav.super.site/"> <strong>Portfolio</strong> </a> |
