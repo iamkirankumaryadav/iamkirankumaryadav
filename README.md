@@ -6,7 +6,7 @@
   <a href="mailto:iamkirankumaryadav@gmail.com"><img src="Image/Gmail.png" alt="Gmail" width=40 title="iamkirankumaryadav@gmail.com"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/[+919004967226]"><img src="Image/whatsapp.svg" width=38 alt="Whatsapp" title="+919004967226"></a>  
 </p>
-<P name="name" align="center"><h3 align="center">Kirankumar Yadav</h3></p>
+<P name="name" align="center"><h3 align="center"><code>Kirankumar Yadav</code></h3></p>
 <p align="center">🚀 <strong>Data Science Specialist</strong>  | <strong>Machine Learning Operations (MLOps)</strong></p>  
 <p align="center">🤖 <strong>Business Intelligence (BI)</strong> | <strong>Digital Productivity Specialist</strong></p> 
 
