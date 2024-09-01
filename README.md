@@ -22,7 +22,7 @@
 
 ---
 
-<h3 name="skill" align=center> Skills 👨🏻‍💻 </h3>
+<h3 name="skill" align=center>Skills 👨🏻‍💻</h3>
 
 `Core:` Data Science, Machine Learning Operations (MLOps), Business Intelligence (BI), and Scrum Master.
 
@@ -52,26 +52,14 @@
 
 ---
 
-<h3 name="interest" align=center> Interests 🏃🏻 </h3>
+<h3 name="interest" align=center>Corporate and Social Responsibilities 🏃🏻 </h3>
 
-<p align="justify">  
-<ul>
-  <li>I actively participate in <a href="https://io.google/"><strong>Google I/O</strong></a>, <a href="https://build.microsoft.com/"><strong>Microsoft Build</strong></a>, <a href="https://developer.apple.com/wwdc"><strong>Apple WWDC</strong></a>, <a href="https://www.samsungdeveloperconference.com/"><strong>Samsung SDC</strong></a>, <a href="https://www.ces.tech/"><strong>CES</strong></a>, and <a href="https://business.adobe.com/summit/adobe-summit.html"><strong>Adobe Summit</strong></a> to stay up to date.
-  </li>
-  <li>
-    I enjoy exploring operating systems and digital device user interfaces to optimize the user experience.
-  </li>
-  <li>
-    I have a great interest in experimenting with productivity, creativity, utility and applications.
-  </li>
-  <li>
-    Discovering the limitless possibilities of those application features and contributing my feedback to help make it even better.
-  </li>
-  <li>
-    I actively participate in early access programs (Experiments, Preview, and Beta versions) for new applications and operating systems updates to provide productive feedback on new features, usability, and accessibility.</li>
-</ul>
-</p>
-  
+`Diverse Event Coordination:` Directed technical workshops and New Product Introduction events.
+
+`Industry Conference Participation:` Google I/O, Microsoft Build, Apple WWC, Samsung SDC,
+CES, and Adobe Summit to stay current. Gained productive and actionable insights to drive the
+adoption of emerging technologies.
+
 <p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
 
 ---
