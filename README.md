@@ -57,8 +57,7 @@
 `Diverse Event Coordination:` Directed technical workshops and New Product Introduction events.
 
 `Industry Conference Participation:` Google I/O, Microsoft Build, Apple WWC, Samsung SDC,
-CES, and Adobe Summit to stay current. Gained productive and actionable insights to drive the
-adoption of emerging technologies.
+CES, and Adobe Summit to stay current. 
 
 <p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
 
