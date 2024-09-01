@@ -24,31 +24,31 @@
 
 <h3 name="skill" align=center> Skills 👨🏻‍💻 </h3>
 
-<code>Core:</code> Data Science, Machine Learning Operations (MLOps), Business Intelligence (BI), and Scrum Master.
+`Core:` Data Science, Machine Learning Operations (MLOps), Business Intelligence (BI), and Scrum Master.
 
-<code>Languages:</code> Python, SQL, DAX, HTML, CSS, JavaScript, Bootstrap, and Markdown.
+`Languages:` Python, SQL, DAX, HTML, CSS, JavaScript, Bootstrap, and Markdown.
 
-<code>Data Science Environments:</code> Anaconda, JupyterLab, and Jupyter Notebook Interface.
+`Data Science Environments:` Anaconda, JupyterLab, and Jupyter Notebook Interface.
 
-<code>Source Code Editor:</code> Microsoft Visual Studio Code, JetBrains PyCharm, and JetBrains Fleet.
+`Source Code Editor:` Microsoft Visual Studio Code, JetBrains PyCharm, and JetBrains Fleet.
 
-<code>Libraries:</code> Pandas, NumPy, PySpark, Matplotlib, Seaborn, Plotly, Bokeh, Scikit Learn, etc.
+`Libraries:` Pandas, NumPy, PySpark, Matplotlib, Seaborn, Plotly, Bokeh, Scikit Learn, etc.
 
-<code>Business Intelligence (BI) Tools:</code> Microsoft Power BI, Google Looker Studio (Data Studio), and Tableau.
+`Business Intelligence (BI) Tools:` Microsoft Power BI, Google Looker Studio (Data Studio), and Tableau.
 
-<code>Microsoft Excel Analytics:</code> Power Pivot, Pivot Table, Pivot Chart, and Power Query.
+`Microsoft Excel Analytics:` Power Pivot, Pivot Table, Pivot Chart, and Power Query.
 
-<code>Databases:</code> Microsoft SQL Server Management Studio, Teradata, Databricks, and Snowflake.
+`Databases:` Microsoft SQL Server Management Studio, Teradata, Databricks, and Snowflake.
 
-<code>Cloud Infrastructures:</code> AWS Data Lab, AWS Workspace, Microsoft 365 Cloud PC, and ServiceNow.
+`Cloud Infrastructures:` AWS Data Lab, AWS Workspace, Microsoft 365 Cloud PC, and ServiceNow.
 
-<code>Generative AI (GenAI):</code> OpenAI ChatGPT, Google Gemini, Perplexity AI, Microsoft Copilot, and Notion AI.
+`Generative AI (GenAI):` OpenAI ChatGPT, Google Gemini, Perplexity AI, Microsoft Copilot, and Notion AI.
 
-<code>Productivity:</code> Google Workspace, Microsoft 365, Apple iWork, Atlassian, Quip, Slack, Wrike, and GitHub.
+`Productivity:` Google Workspace, Microsoft 365, Apple iWork, Atlassian, Quip, Slack, Wrike, and GitHub.
 
-<code>Creativity:</code> Canva, Adobe Express, Adobe Firefly, Microsoft Designer, Midjourney, and Miro.
+`Creativity:` Canva, Adobe Express, Adobe Firefly, Microsoft Designer, Midjourney, and Miro.
 
-<code>Foresight:</code> Microsoft Fabric, Google Marketing Platform, Framer, Figma, and Adobe Creative Cloud.
+`Foresight:` Microsoft Fabric, Google Marketing Platform, Framer, Figma, and Adobe Creative Cloud.
 
 ---
 
