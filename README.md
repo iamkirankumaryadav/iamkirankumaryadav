@@ -72,8 +72,9 @@
 
 <h3 name="skill" align=center> Skills 👨🏻‍💻 </h3>
 
-<p align="justify"><code>Core</code></p>
-    > Data Science, Machine Learning Operations (MLOps), Business Intelligence (BI), and Scrum Master.</li>
+<p align="justify"><code><strong>Core</strong></code></p>
+> Data Science, Machine Learning Operations (MLOps), Business Intelligence (BI), and Scrum Master.</li>
+    
     <li>Languages: Python, SQL, DAX, HTML, CSS, JavaScript, Bootstrap, and Markdown.</li>
     <li>Data Science Environments: Anaconda, JupyterLab, and Jupyter Notebook Interface.</li>
     <li>Source Code Editor: Microsoft Visual Studio Code, JetBrains PyCharm, and JetBrains Fleet.</li>
@@ -127,7 +128,7 @@
 > [**Google Cloud Public Profile**](https://www.cloudskillsboost.google/public_profiles/3a882cc0-9f82-4c2d-9573-39eb7786c71e)
 
 
-<p align="justify"> <strong>Edvancer</strong></p>
+<p align="justify"><strong>Edvancer</strong></p>
  
 > [**Data Scientist** - Post Graduate Certification in **Data Science**](PDF/CertifiedDataScienceSpecialist.pdf) and [**Artificial Intelligence**](PDF/CertifiedDataScientistSpecialist.pdf)
 
