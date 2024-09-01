@@ -21,40 +21,6 @@
 </h4>
 
 ---
-  
-<h3 name="data-science" align="center">Data Science 🤖</h3>
-
-<p align="justify"> <strong>Language</strong> </p>
-
-> [**Python**](https://www.python.org/) | **SQL** | **DAX**
-  
-<p align="justify"> <strong>Libraries</strong> </p>
-
-> [**Pandas**](https://pandas.pydata.org/) | [**NumPy**](https://numpy.org/) | [**Matplotlib**](https://matplotlib.org/) | [**Seaborn**](https://seaborn.pydata.org/) | [**Plotly**](https://plotly.com/) | [**Bokeh**](https://bokeh.org/) | [**Scikit Learn**](https://scikit-learn.org/)
-
-<p align="justify"> <strong>Business Intelligence Tools</strong> </p>
-
-> [**Microsoft Power BI**](https://powerbi.microsoft.com/en-us/) | [**Google Data Studio**](https://datastudio.google.com/) | [**Tableau**](https://www.tableau.com/)
-
-<p align="justify"> <strong>Environment</strong> </p>
-
-> [**Anaconda**](https://www.anaconda.com/) | [**Jupyter**](https://jupyter.org/) | [**Microsoft Visual Studio Code**](https://code.visualstudio.com/)
-
-<p align="justify"> <strong>Database</strong> </p>
-
-> [**Microsoft SQL Server Management Studio**](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms) | Teradata | Snowflake
-
-<p align="justify"> <strong>RDBMS</strong> </p>
-
-> MySQL Work Bench | PostgreSQL | Microsoft Access
-
-<p align="justify"> <strong>Future of AI</strong> </p>
-
-> [**Google AI**](https://ai.google/) | [**Generative AI**](https://ai.google/discover/generativeai/) | [**Duet AI**](https://workspace.google.com/blog/product-announcements/duet-ai) | [**Microsoft AI**](https://www.microsoft.com/en-us/ai) | [**Microsoft 365 Copilot**](https://www.microsoft.com/en-us/microsoft-365/blog/2023/03/16/introducing-microsoft-365-copilot-a-whole-new-way-to-work/?culture=en-us&country=us)
-
-<p align="right"><a href="#name" align="right"> <strong>Go Back to Top</strong></a></p>
-
----
 
 <h3 name="skill" align=center> Skills 👨🏻‍💻 </h3>
 
