@@ -72,19 +72,23 @@
 
 <h3 name="skill" align=center> Skills 👨🏻‍💻 </h3>
 
-<p align="justify"> <strong>Workflow</strong></p>
- 
-> Exploratory Data Analysis, Data Cleaning, Data Preprocessing and Data Visualization using Python.
-
-> [**Python**](https://www.python.org/) Libraries: [**Pandas**](https://pandas.pydata.org/), [**NumPy**](https://numpy.org/), [**Matplotlib**](https://matplotlib.org/), [**Seaborn**](https://seaborn.pydata.org/), [**Plotly**](https://plotly.com/), [**Bokeh**](https://bokeh.org/) and [**Scikit Learn**](https://scikit-learn.org/).
-
-> Business Intelligence Tools: [**Microsoft Power BI**](https://powerbi.microsoft.com/en-us/), [**Data Analysis Expressions**](https://docs.microsoft.com/en-us/dax/) and [**Google Data Studio**](https://datastudio.google.com/).
-
->  Excel Analytics: **Power Pivot** and **Power Query**.
-
-> Data: [**Microsoft SQL Server Management Studio**](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms) and [**Microsoft Excel**](https://www.microsoft.com/en-in/microsoft-365/excel).
-
-<p align="right"><a href="#name" align=right> <strong>Go Back to Top</strong></a></p>
+<p align="justify"> 
+  <ul>
+    <li>Core: Data Science, Machine Learning Operations (MLOps), Business Intelligence (BI), and Scrum Master.</li>
+    <li>Languages: Python, SQL, DAX, HTML, CSS, JavaScript, Bootstrap, and Markdown.</li>
+    <li>Data Science Environments: Anaconda, JupyterLab, and Jupyter Notebook Interface.</li>
+    <li>Source Code Editor: Microsoft Visual Studio Code, JetBrains PyCharm, and JetBrains Fleet.</li>
+    <li>Libraries: Pandas, NumPy, PySpark, Matplotlib, Seaborn, Plotly, Bokeh, Scikit Learn, etc.</li>
+    <li>Business Intelligence (BI) Tools: Microsoft Power BI, Google Looker Studio (Data Studio), and Tableau.</li>
+    <li>Microsoft Excel Analytics: Power Pivot, Pivot Table, Pivot Chart, and Power Query.</li>
+    <li>Databases: Microsoft SQL Server Management Studio, Teradata, Databricks, and Snowflake.</li>
+    <li>Cloud Infrastructures: AWS Data Lab, AWS Workspace, Microsoft 365 Cloud PC, and ServiceNow.</li>
+    <li>Generative AI (GenAI): OpenAI ChatGPT, Google Gemini, Perplexity AI, Microsoft Copilot, and Notion AI.</li>
+    <li>Productivity: Google Workspace, Microsoft 365, Apple iWork, Atlassian, Quip, Slack, Wrike, and GitHub.</li>
+    <li>Creativity: Canva, Adobe Express, Adobe Firefly, Microsoft Designer, Midjourney, and Miro.</li>
+    <li>Foresight: Microsoft Fabric, Google Marketing Platform, Framer, Figma, and Adobe Creative Cloud.</li>
+  </ul>
+</p>
 
 ---
 
