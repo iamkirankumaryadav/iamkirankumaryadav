@@ -72,9 +72,8 @@
 
 <h3 name="skill" align=center> Skills 👨🏻‍💻 </h3>
 
-<p align="justify"><code><strong>Core</strong></code></p>
-> Data Science, Machine Learning Operations (MLOps), Business Intelligence (BI), and Scrum Master.</li>
-    
+<p align="justify">
+    <li><code>Core:</code> Data Science, Machine Learning Operations (MLOps), Business Intelligence (BI), and Scrum Master.</li>    
     <li>Languages: Python, SQL, DAX, HTML, CSS, JavaScript, Bootstrap, and Markdown.</li>
     <li>Data Science Environments: Anaconda, JupyterLab, and Jupyter Notebook Interface.</li>
     <li>Source Code Editor: Microsoft Visual Studio Code, JetBrains PyCharm, and JetBrains Fleet.</li>
