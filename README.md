@@ -2,9 +2,9 @@
 <img src="Image/Me.png" alt="Kirankumar" width="20%">
 </p>
 <p align="center" width="100%">
-  <a href="mailto:iamkirankumaryadav@gmail.com"><img src="Image/Gmail.png" alt="Gmail" width=40 title="iamkirankumaryadav@gmail.com">
-  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/iamkirankumaryadav/"><img src="Image/LinkedIn.png" alt="LinkedIn" width=38 title="iamkirankumaryadav">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:iamkirankumaryadav@gmail.com"><img src="Image/Gmail.png" alt="Gmail" width=40 title="iamkirankumaryadav@gmail.com">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/[+919004967226]"><img src="Image/whatsapp.svg" width=38 alt="Whatsapp" title="+919004967226"></a>  
 </p>
