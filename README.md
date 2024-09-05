@@ -44,9 +44,9 @@
 
 `Cloud Infrastructures:` AWS Data Lab, AWS Workspace, Microsoft 365 Cloud PC, and ServiceNow.
 
-`Generative AI (GenAI):` OpenAI ChatGPT, Google Gemini, Perplexity AI, Microsoft Copilot, and Notion AI.
+`Generative AI (GenAI):` OpenAI ChatGPT, Google Gemini, Perplexity AI, Microsoft Copilot, FOSFOR AI, and Notion AI.
 
-`Productivity:` Google Workspace, Microsoft 365, Apple iWork, Atlassian, Quip, Slack, Wrike, and GitHub.
+`Productivity:` Google Workspace, Microsoft 365, Apple iWork, Atlassian, Quip, Slack, Wrike, and GitHub Enterprise.
 
 `Creativity:` Canva, Adobe Express, Adobe Firefly, Microsoft Designer, Midjourney, and Miro.
 
