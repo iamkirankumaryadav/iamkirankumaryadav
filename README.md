@@ -10,6 +10,7 @@
 </p>
 <p name="name" align="center"><h3 align="center"><code>Kirankumar Yadav</code></h3></p>
 <p align="center">🚀 <strong>Data Science Specialist</strong>  | <strong>Machine Learning Operations (MLOps)</strong></p>  
+<p align="center">🧬 <strong>Generative Artificial Intelligence (GenAI)</strong>  | <strong>Prompt Engineering</strong></p> 
 <p align="center">🤖 <strong>Business Intelligence (BI)</strong> | <strong>Digital Productivity Specialist</strong></p> 
 
 <h4 align="center" width="100%">
