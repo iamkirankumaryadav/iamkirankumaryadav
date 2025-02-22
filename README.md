@@ -27,7 +27,7 @@
 
 <h3 name="skill" align=center>Skills 👨🏻‍💻</h3>
 
-**Core:** Data Science, DataOps, MLOps, LLMOps, NLP, NLG, GenAI, Advanced Analytics, and Business Intelligence (BI).
+**Core:** Data Science, DataOps, MLOps, LLMOps, Generative Artificial Intelligence (GenAI), Advanced Analytics, Prompt Engineering, and Business Intelligence (BI).
 
 **Languages:** Python, SQL, DAX, HTML, CSS, JavaScript, Bootstrap, and Markdown.
 
