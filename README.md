@@ -9,7 +9,7 @@
   <a href="https://wa.me/[+919004967226]"><img src="Image/whatsapp.svg" width=38 alt="Whatsapp" title="+919004967226"></a>  
 </p>
 <p name="name" align="center"><h3 align="center"><code>Kirankumar Yadav</code></h3></p>
-<p align="center">🚀 <strong>Senior Data Science Specialist</strong>  | <strong>Machine Learning Operations (MLOps)</strong></p>  
+<p align="center">🚀 <strong>Senior AI Engineer</strong>  | <strong>Machine Learning Operations (MLOps)</strong></p>  
 <p align="center">🧬 <strong>Generative Artificial Intelligence (GenAI)</strong>  | <strong>Prompt Engineering</strong></p> 
 <p align="center">🤖 <strong>Business Intelligence (BI)</strong> | <strong>Digital Productivity Specialist</strong></p> 
 
