@@ -57,17 +57,17 @@
 
 <h3>Digital Productivity Specialist</h3>
 
-**Workflow Optimization:** Leveraged Google Workspace, Microsoft 365, Apple iWork, Atlassian (Confluence and
-Jira), and Salesforce (Quip, Slack, and Wrike) to enhance workflows, boosting the overall efficiency by 40%.
+> **Workflow Optimization:** Leveraged Google Workspace, Microsoft 365, Apple iWork, Atlassian Confluence, and
+Jira, Salesforce (Quip, Slack, and Wrike) to enhance workflows, boosting the overall efficiency by 40%.
 
-**Product Innovation:** Engaged in early access programs (Experiments, Early Access, Public Previews, and Beta
+> **Product Innovation:** Engaged in early access programs (Experiments, Early Access, Public Previews, and Beta
 Versions), providing actionable feedback on features, usability, and accessibility for applications and OS updates.
 
 <h3>Corporate Social Responsibilities</h3>
 
-**Industry Conference Participation:** Google I/O, Microsoft Build, Apple WWC, Samsung SDC, CES, Snowflake, and Adobe Summit to stay current. Gained productive and actionable insights to drive emerging technologies.
+> **Industry Conference Participation:** Google I/O, Microsoft Build, Apple WWC, Samsung SDC, CES, Snowflake, and Adobe Summit to stay current. Gained productive and actionable insights to drive emerging technologies.
 
-**Diverse Event Coordination:** Directed technical workshops and New Product Introduction events.
+> **Diverse Event Coordination:** Directed technical workshops and New Product Introduction events.
 
 <p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
 
