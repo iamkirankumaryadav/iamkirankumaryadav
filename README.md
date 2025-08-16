@@ -27,33 +27,29 @@
 
 <h3 name="skill" align=center>Skills 👨🏻‍💻</h3>
 
-**Core:** Data Science, DataOps, MLOps, LLMOps, Generative Artificial Intelligence (GenAI), Advanced Analytics, Prompt Engineering, and Business Intelligence (BI).
+**Core:** Data Science, Machine Learning, MLOps, Generative Artificial Intelligence (GenAI), and Prompt Engineering.
 
-**Languages:** Python, SQL, DAX, HTML, CSS, JavaScript, Bootstrap, and Markdown.
+**Languages:** Python, SQL, Markdown, HTML, CSS, JavaScript (JS), React, and Data Analysis Expressions (DAX).
 
-**Data Science Environments:** Anaconda, JupyterLab, and Jupyter Notebook Interface.
+**Data Science Environments:** Anaconda, Google Colab, JupyterLab, and Jupyter Notebook Interface.
 
-**Machine Learning Operations Platform:** SAP Data Intelligence (SAP DI), and FOSFOR Decision Cloud.
+**Source Code Editor:** Microsoft Visual Studio Code, Firebase Studio, JetBrains PyCharm, and JetBrains Fleet.
 
-**Source Code Editor:** Microsoft Visual Studio Code, JetBrains PyCharm, and JetBrains Fleet.
+**Business Intelligence (BI) Tools:** Microsoft Power BI, Tableau, and Google Looker Studio (Data Studio).
 
-**Libraries:** Pandas, NumPy, PySpark, Matplotlib, Seaborn, Plotly, Bokeh, Scikit Learn, etc.
+**Microsoft Excel Analytics:** Advanced Excel Power Pivot, Pivot Table, Pivot Chart, and Power Query.
 
-**Business Intelligence (BI) Tools:** Microsoft Power BI, Google Looker Studio (Data Studio), and Tableau.
+**Databases:** Microsoft SQL Server Management Studio, Teradata, and Databricks Data Intelligence Platform.
 
-**Microsoft Excel Analytics:** Power Pivot, Pivot Table, Pivot Chart, and Power Query.
+**Cloud Infrastructures:** AWS Data Lab, Snowflake AI Data Cloud, GitHub Copilot, and SAP Data Intelligence Cloud.
 
-**Databases:** Microsoft SQL Server Management Studio, Teradata, Databricks, and Snowflake.
+**Generative AI (GenAI):** Google Gemini, OpenAI ChatGPT, Microsoft Copilot, Anthropic Claude, and Perplexity.
 
-**Cloud Infrastructures:** AWS Data Lab, AWS Workspace, Microsoft 365 Cloud PC, and ServiceNow.
+**Productivity:** Google Workspace, Microsoft 365, Apple iWork, Atlassian, Quip, Slack, Wrike, Gitlab, and GitHub.
 
-**Generative AI (GenAI):** OpenAI ChatGPT, Google Gemini, Perplexity AI, Microsoft Copilot, FOSFOR AI, and Notion AI.
+**Creativity:** Canva AI, Notion AI, Adobe Express, Adobe Firefly, Microsoft Designer, Meta AI Studio, and Miro.
 
-**Productivity:** Google Workspace, Microsoft 365, Apple iWork, Atlassian, Quip, Slack, Wrike, and GitHub Enterprise.
-
-**Creativity:** Canva, Adobe Express, Adobe Firefly, Microsoft Designer, Midjourney, and Miro.
-
-**Foresight:** Microsoft Fabric, Google Marketing Platform, Framer, Figma, and Adobe Creative Cloud.
+**Foresight:** Microsoft Fabric, Google Marketing Platform, Framer, Figma, Sketch, and Adobe Creative Cloud. 
 
 ---
 
