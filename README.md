@@ -51,8 +51,6 @@
 
 > **Foresight:** Microsoft Fabric, Google Marketing Platform, Framer, Figma, Sketch, and Adobe Creative Cloud.
 
-<p align="right"><a href="#name" align="right"> <strong>Go Back to Top</strong></a></p>
-
 ---
 
 <h2 name="interest">Leadership and Activities 🏃🏻</h2>
@@ -70,8 +68,6 @@ Versions), providing actionable feedback on features, usability, and accessibili
 > **Industry Conference Participation:** Google I/O, Microsoft Build, Apple WWC, Samsung SDC, CES, Snowflake, and Adobe Summit to stay current. Gained productive and actionable insights to drive emerging technologies.
 
 > **Diverse Event Coordination:** Directed technical workshops and New Product Introduction events.
-
-<p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
 
 ---
 
@@ -121,8 +117,6 @@ Versions), providing actionable feedback on features, usability, and accessibili
 
 > [**Artificial Intelligence** and **Machine Learning** Workshop](PDF/EdurekaWorkshop.pdf)
 
-<p align="right"><a href="#name" align="right"> <strong>Go Back to Top</strong></a></p>
-
 ---
 
 <h2 name="education">Education 🎓</h2>
@@ -135,11 +129,10 @@ Versions), providing actionable feedback on features, usability, and accessibili
 
 > <p align="justify">Secondary School Certificate <strong>10<sup>th</sup></strong>, University of Mumbai, 2011</p>
 
-<p align="right"><a href="#name" align="right"> <strong>Go Back to Top</strong></a></p>
-
 ---
 
-<p align="center">
-  <img src="Image/Smile.gif" alt="Kirankumar" width="10%">
+<p align="center"><img src="Image/Smile.gif" alt="Kirankumar" width="10%"></p>
+
+<p align="right"><a href="#name" align="right"> <strong>Go Back to Top</strong></a></p>
 </p>
 <P name="name" align="center"><h5 align="center">Learn, Implement and Share</h5></p>
