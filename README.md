@@ -65,8 +65,7 @@ Versions), providing actionable feedback on features, usability, and accessibili
 
 <h3>Corporate Social Responsibilities</h3>
 
-**Industry Conference Participation:** Google I/O, Microsoft Build, Apple WWC, Samsung SDC, CES, Snowflake
-and Adobe Summit to stay current. Gained productive and actionable insights to drive emerging technologies.
+**Industry Conference Participation:** Google I/O, Microsoft Build, Apple WWC, Samsung SDC, CES, Snowflake, and Adobe Summit to stay current. Gained productive and actionable insights to drive emerging technologies.
 
 **Diverse Event Coordination:** Directed technical workshops and New Product Introduction events.
 
@@ -74,7 +73,7 @@ and Adobe Summit to stay current. Gained productive and actionable insights to d
 
 ---
 
-<h3 name="certification" align="center">Certifications 🚀</h3>
+<h2 name="certification">Certifications 🚀</h2>
 
 <p align="justify"> <strong>Forage Job Simulations</strong></p>
  
@@ -125,7 +124,7 @@ and Adobe Summit to stay current. Gained productive and actionable insights to d
 
 ---
 
-<h3 name="education" align="center">Education 🎓</h3>
+<h2 name="education">Education 🎓</h2>
 
 <p align="justify">Postgraduate in <a href="PDF/CertifiedDataScienceSpecialist.pdf" target="_blank">Data Science</a> and <a href="PDF/CertifiedDataScientistSpecialist.pdf" target="_blank">Artificial Intelligence</a>, Edvancer (IIT-IIM Venture), Mumbai, 2020</p> 
 
