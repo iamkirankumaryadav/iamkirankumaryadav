@@ -52,6 +52,7 @@
 > **Foresight:** Microsoft Fabric, Google Marketing Platform, Framer, Figma, Sketch, and Adobe Creative Cloud.
 
 <p align="right"><a href="#name" align="right"> <strong>Go Back to Top</strong></a></p>
+
 ---
 
 <h2 name="interest">Leadership and Activities 🏃🏻</h2>
@@ -71,6 +72,7 @@ Versions), providing actionable feedback on features, usability, and accessibili
 > **Diverse Event Coordination:** Directed technical workshops and New Product Introduction events.
 
 <p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
+
 ---
 
 <h2 name="certification">Certifications 🚀</h2>
@@ -120,6 +122,7 @@ Versions), providing actionable feedback on features, usability, and accessibili
 > [**Artificial Intelligence** and **Machine Learning** Workshop](PDF/EdurekaWorkshop.pdf)
 
 <p align="right"><a href="#name" align="right"> <strong>Go Back to Top</strong></a></p>
+
 ---
 
 <h2 name="education">Education 🎓</h2>
