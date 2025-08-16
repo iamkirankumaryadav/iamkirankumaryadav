@@ -132,7 +132,5 @@ Versions), providing actionable feedback on features, usability, and accessibili
 ---
 
 <p align="center"><img src="Image/Smile.gif" alt="Kirankumar" width="10%"></p>
-
+<p name="name" align="center"><h5 align="center">Learn, Implement and Share</h5></p>
 <p align="right"><a href="#name" align="right"> <strong>Go Back to Top</strong></a></p>
-</p>
-<P name="name" align="center"><h5 align="center">Learn, Implement and Share</h5></p>
