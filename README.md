@@ -126,7 +126,7 @@ Versions), providing actionable feedback on features, usability, and accessibili
 
 <h2 name="education">Education 🎓</h2>
 
-<p align="justify">Postgraduate in <a href="PDF/CertifiedDataScienceSpecialist.pdf" target="_blank">Data Science</a> and <a href="PDF/CertifiedDataScientistSpecialist.pdf" target="_blank">Artificial Intelligence</a>, Edvancer (IIT-IIM Venture), Mumbai, 2020</p> 
+> <p align="justify">Postgraduate in <a href="PDF/CertifiedDataScienceSpecialist.pdf" target="_blank">Data Science</a> and <a href="PDF/CertifiedDataScientistSpecialist.pdf" target="_blank">Artificial Intelligence</a>, Edvancer (IIT-IIM Venture), Mumbai, 2020</p> 
 
 > <p align="justify">Bachelor of Engineering, <strong>Computer Engineering</strong>, University of Mumbai, 2017</p> 
 
@@ -134,7 +134,7 @@ Versions), providing actionable feedback on features, usability, and accessibili
 
 > <p align="justify">Secondary School Certificate <strong>10<sup>th</sup></strong>, University of Mumbai, 2011</p>
 
-> <p align="right"><a href="#name" align="right"> <strong>Go Back to Top</strong></a></p>
+<p align="right"><a href="#name" align="right"> <strong>Go Back to Top</strong></a></p>
 
 ---
 
