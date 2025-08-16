@@ -25,7 +25,7 @@
 
 ---
 
-<h3 name="skill">Skills 👨🏻‍💻</h3>
+<h2 name="skill">Skills 👨🏻‍💻</h2>
 
 **Core:** Data Science, Machine Learning, MLOps, Generative Artificial Intelligence (GenAI), and Prompt Engineering.
 
