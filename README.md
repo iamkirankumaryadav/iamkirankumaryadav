@@ -53,7 +53,7 @@
 
 ---
 
-<h3 name="interest" align=center>Corporate and Social Responsibilities 🏃🏻 </h3>
+<h2 name="interest">Corporate and Social Responsibilities 🏃🏻 </h2>
 
 `Diverse Event Coordination:` Directed technical workshops and New Product Introduction events.
 
