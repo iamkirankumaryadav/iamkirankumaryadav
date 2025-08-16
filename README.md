@@ -49,8 +49,9 @@
 
 > **Creativity:** Canva AI, Notion AI, Adobe Express, Adobe Firefly, Microsoft Designer, Meta AI Studio, and Miro.
 
-> **Foresight:** Microsoft Fabric, Google Marketing Platform, Framer, Figma, Sketch, and Adobe Creative Cloud. 
+> **Foresight:** Microsoft Fabric, Google Marketing Platform, Framer, Figma, Sketch, and Adobe Creative Cloud.
 
+<p align="right"><a href="#name" align="right"> <strong>Go Back to Top</strong></a></p>
 ---
 
 <h2 name="interest">Leadership and Activities 🏃🏻</h2>
@@ -70,7 +71,6 @@ Versions), providing actionable feedback on features, usability, and accessibili
 > **Diverse Event Coordination:** Directed technical workshops and New Product Introduction events.
 
 <p align="right"><a href="#name" align="right"> Go Back to Top</a></p>
-
 ---
 
 <h2 name="certification">Certifications 🚀</h2>
@@ -82,7 +82,6 @@ Versions), providing actionable feedback on features, usability, and accessibili
 <p align="justify"> <strong>Google</strong></p>
  
 > [**Google Cloud Public Profile**](https://www.cloudskillsboost.google/public_profiles/3a882cc0-9f82-4c2d-9573-39eb7786c71e)
-
 
 <p align="justify"><strong>Edvancer</strong></p>
  
@@ -121,7 +120,6 @@ Versions), providing actionable feedback on features, usability, and accessibili
 > [**Artificial Intelligence** and **Machine Learning** Workshop](PDF/EdurekaWorkshop.pdf)
 
 <p align="right"><a href="#name" align="right"> <strong>Go Back to Top</strong></a></p>
-
 ---
 
 <h2 name="education">Education 🎓</h2>
